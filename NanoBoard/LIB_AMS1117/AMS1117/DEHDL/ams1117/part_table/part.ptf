@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AMS1117'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Advanced Monolithic Systems", "AMS1117" (!) = "", "SOT229P700X180-4N", "SOT223 (3-Pin)", "", "", "", "", "1117", "https://datasheet.lcsc.com/szlcsc/Advanced-Monolithic-Systems-AMS-AMS1117-ADJ_C6188.pdf", "1.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R? Old Footprint=AXIAL-0.3 New Footprint=C1206
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.3 New Footprint=C1206
+Added Member To Class: ClassName=nanoboard Member=Component P? Header 5
+Added Member To Class: ClassName=nanoboard Member=Component P? Header 5
+Added Member To Class: ClassName=nanoboard Member=Component P? Header 5

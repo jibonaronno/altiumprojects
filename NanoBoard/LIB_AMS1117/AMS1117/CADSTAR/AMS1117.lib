@@ -1,0 +1,18 @@
+.AMS1117 :1 ;1117
+SOT229P700X180-4N
+*STM IC
+*NGS
+*PLB 1="GROUND" 2="VOUT_1" 3="VIN" 4="VOUT_2"
+*MXP 4
+*DFN AMS1117
+~!Manufacturer_Name (Advanced Monolithic Systems)
+~!Manufacturer_Part_Number (AMS1117)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/Advanced-Monolithic-Systems-AMS-AMS1117-ADJ_C6188.pdf)
+~!Height (1.8mm)
+~!3D_Model (AMS1117)
+AMS1117
+1.1!U 2.1!U 3.1!U 4.1!U 

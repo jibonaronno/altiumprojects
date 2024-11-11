@@ -1,0 +1,9 @@
+Manufacturer=Sumida
+PartNumber=CDRH2D14NP-2R2NC
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2016-06-18 12:46:32
+Downloaded=2024-11-11 06:30:57
+3D=Y

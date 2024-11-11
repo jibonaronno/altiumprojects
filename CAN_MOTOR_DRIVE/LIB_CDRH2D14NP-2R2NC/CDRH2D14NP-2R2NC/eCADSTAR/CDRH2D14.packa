@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CDRH2D14NP-2R2NC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "CDRH2D14")
+        (spec "System")
+    )
+)

@@ -1,0 +1,18 @@
+.CDRH2D14NP-2R2NC :1 ;Fixed Inductors 2.2uH 1.60A 75ohms
+CDRH2D14
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CDRH2D14NP-2R2NC
+~!Manufacturer_Name (Sumida)
+~!Manufacturer_Part_Number (CDRH2D14NP-2R2NC)
+~!Mouser Part Number (851-CDRH2D14NP-2R2NC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Sumida/CDRH2D14NP-2R2NC?qs=yEEOfDmvQDXT35Jdz6aZxg%3D%3D)
+~!Arrow Part Number (CDRH2D14NP-2R2NC)
+~!Link Arrow Price/Stock (null?region=nac)
+~!Link Datasheet (http://www.mouser.com/ds/2/390/CDRH2D14-523410.pdf)
+~!Height (-)
+~!3D_Model (CDRH2D14NP-2R2NC)
+CDRH2D14NP-2R2NC
+1.1!U 2.1!U 

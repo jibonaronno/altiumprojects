@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDRH2D14NP_2R2NC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Sumida", "CDRH2D14NP-2R2NC" (!) = "", "CDRH2D14", "Other", "851-CDRH2D14NP-2R2NC", "https://www.mouser.co.uk/ProductDetail/Sumida/CDRH2D14NP-2R2NC?qs=yEEOfDmvQDXT35Jdz6aZxg%3D%3D", "CDRH2D14NP-2R2NC", "null?region=nac", "Fixed Inductors 2.2uH 1.60A 75ohms", "http://www.mouser.com/ds/2/390/CDRH2D14-523410.pdf"
+END_PART
+
+END.

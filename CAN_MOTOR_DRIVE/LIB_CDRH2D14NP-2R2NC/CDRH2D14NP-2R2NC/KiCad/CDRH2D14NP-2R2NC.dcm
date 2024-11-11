@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDRH2D14NP-2R2NC
+D Fixed Inductors 2.2uH 1.60A 75ohms
+K
+F http://www.mouser.com/ds/2/390/CDRH2D14-523410.pdf
+$ENDCMP
+#
+#End Doc Library

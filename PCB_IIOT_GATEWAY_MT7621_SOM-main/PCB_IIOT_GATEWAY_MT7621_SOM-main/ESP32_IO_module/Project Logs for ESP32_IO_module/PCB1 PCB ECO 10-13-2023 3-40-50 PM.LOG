@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Designator Member=C9
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C2 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C6 22uF
+Added Member To Class: ClassName=Designator Member=Component C8 T493X227K010BH6420_220uF
+Added Member To Class: ClassName=Designator Member=Component C9 10nF
+Added Member To Class: ClassName=Designator Member=Component C11 0.1uF

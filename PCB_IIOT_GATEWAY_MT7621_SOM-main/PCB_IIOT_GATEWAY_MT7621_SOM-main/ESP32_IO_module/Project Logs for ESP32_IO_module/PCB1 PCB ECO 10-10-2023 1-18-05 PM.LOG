@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC3
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC4
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC5
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC6
+Added Component: Designator=IC1(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MIC3490-5.0YM5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic3490-5.0ym5-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eagle.componentsearchengine.com/Datasheets/1/MIC3490-5.0YM5-TR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC3490-5.0YM5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MIC349050YM5TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MIC3490-5.0YM5-TR?qs=3HJ2avRr9PJONsBpqhlLKQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND0 Pin=IC1-2
+Added Pin To Net: NetName=+V_EXT Pin=IC1-3
+Added Pin To Net: NetName=+V_EXT Pin=IC1-4
+Change Net Name : Old Net Name=NetIC2_6 New Net Name=NetIC3_6
+Change Net Name : Old Net Name=NetIC3_6 New Net Name=NetIC4_6
+Change Net Name : Old Net Name=NetIC4_6 New Net Name=NetIC5_6
+Change Net Name : Old Net Name=NetIC5_6 New Net Name=NetIC6_6
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

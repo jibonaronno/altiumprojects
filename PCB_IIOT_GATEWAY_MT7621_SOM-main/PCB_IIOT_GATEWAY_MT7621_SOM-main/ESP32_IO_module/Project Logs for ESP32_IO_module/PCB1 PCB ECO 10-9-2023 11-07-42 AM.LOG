@@ -1,0 +1,57 @@
+Added Component: Designator=D13(SOTFL95P240X100-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/zxms6004ffqta/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/ZXMS6004FFQ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXMS6004FFQTA?qs=nVS1qgv%252BQrk3b3Yw041IKA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D14(SOTFL95P240X100-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/zxms6004ffqta/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/ZXMS6004FFQ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXMS6004FFQTA?qs=nVS1qgv%252BQrk3b3Yw041IKA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D15(SOTFL95P240X100-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/zxms6004ffqta/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/ZXMS6004FFQ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXMS6004FFQTA?qs=nVS1qgv%252BQrk3b3Yw041IKA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D16(SOTFL95P240X100-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/zxms6004ffqta/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/ZXMS6004FFQ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-ZXMS6004FFQTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXMS6004FFQTA?qs=nVS1qgv%252BQrk3b3Yw041IKA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Pin To Net: NetName=GND Pin=D15-2
+Added Pin To Net: NetName=GND Pin=D16-2
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD13_3 Pin=D13-3
+Added Net: Name=NetD13_3
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD14_3 Pin=D14-3
+Added Net: Name=NetD14_3
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetD15_3 Pin=D15-3
+Added Net: Name=NetD15_3
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetD16_3 Pin=D16-3
+Added Net: Name=NetD16_3
+Add Class: Class already exists: Designator

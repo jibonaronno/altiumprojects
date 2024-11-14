@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=Designator Member=Q6
+Removed Member From Class: ClassName=Designator Member=Q12
+Removed Member From Class: ClassName=Designator Member=Q15
+Removed Member From Class: ClassName=Designator Member=R59
+Removed Member From Class: ClassName=Designator Member=R60
+Removed Member From Class: ClassName=Designator Member=R61
+Removed Member From Class: ClassName=Designator Member=R62
+Removed Member From Class: ClassName=Designator Member=R63
+Removed Member From Class: ClassName=Designator Member=R64
+Removed Member From Class: ClassName=Designator Member=R65
+Removed Member From Class: ClassName=Designator Member=R66
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C13 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C14 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component Q1 MMBT2222A-G
+Added Member To Class: ClassName=Designator Member=Component Q4 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component Q5 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component Q7 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component Q8 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component Q10 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component Q11 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component U3 LM358ADT
+Added Member To Class: ClassName=Designator Member=Component U4 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U6 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U8 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U10 LOC111P

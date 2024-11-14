@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DTR Pin=P1-1
+Removed Pin From Net: NetName=TX0 Pin=P1-2
+Removed Pin From Net: NetName=RX0 Pin=P1-3
+Removed Pin From Net: NetName=3.3V_MCU Pin=P1-4
+Removed Pin From Net: NetName=RTS Pin=P1-5
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X5 New Footprint=HDR1X6
+Change Component Comment : Designator=P1 Old Comment=Header 5 New Comment=Header 6
+Added Pin To Net: NetName=TX0 Pin=P1-1
+Added Pin To Net: NetName=RX0 Pin=P1-2
+Added Pin To Net: NetName=DTR Pin=P1-3
+Added Pin To Net: NetName=RTS Pin=P1-4
+Added Pin To Net: NetName=3.3V_MCU Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Add Class: Class already exists: Designator

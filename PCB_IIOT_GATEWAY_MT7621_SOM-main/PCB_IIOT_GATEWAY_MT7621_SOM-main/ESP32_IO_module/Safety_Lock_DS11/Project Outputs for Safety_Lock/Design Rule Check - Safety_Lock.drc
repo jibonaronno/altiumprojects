@@ -1,0 +1,15 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\faisal44614\Documents\GitHub\Safety-Lock-PCB\Safety_Lock_DS11\Safety_Lock.PcbDoc
+Date     : 6/14/2022
+Time     : 6:30:03 PM
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(NoConnect Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

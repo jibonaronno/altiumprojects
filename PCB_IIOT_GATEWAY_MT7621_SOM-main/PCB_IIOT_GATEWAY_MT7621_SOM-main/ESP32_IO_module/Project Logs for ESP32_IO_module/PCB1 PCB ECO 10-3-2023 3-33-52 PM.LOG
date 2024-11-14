@@ -1,0 +1,200 @@
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=VDD Pin=R1-2
+Removed Pin From Net: NetName=VDD Pin=R2-2
+Removed Pin From Net: NetName=VDD Pin=R3-2
+Removed Pin From Net: NetName=VDD Pin=R4-2
+Removed Pin From Net: NetName=VDD Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW2-1
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-15
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Pin From Net: NetName=GND Pin=U2-39_1
+Removed Pin From Net: NetName=GND Pin=U2-39_2
+Removed Pin From Net: NetName=GND Pin=U2-39_3
+Removed Pin From Net: NetName=GND Pin=U2-39_4
+Removed Pin From Net: NetName=GND Pin=U2-39_5
+Removed Pin From Net: NetName=GND Pin=U2-39_6
+Removed Pin From Net: NetName=GND Pin=U2-39_7
+Removed Pin From Net: NetName=GND Pin=U2-39_8
+Removed Pin From Net: NetName=GND Pin=U2-39_9
+Removed Pin From Net: NetName=GND Pin=U2-39_10
+Removed Pin From Net: NetName=GND Pin=U2-39_11
+Removed Pin From Net: NetName=GND Pin=U2-39_12
+Removed Pin From Net: NetName=GND Pin=U2-39_13
+Removed Pin From Net: NetName=GND Pin=U2-39_14
+Removed Pin From Net: NetName=GND Pin=U2-39_15
+Removed Pin From Net: NetName=GND Pin=U2-39_16
+Removed Pin From Net: NetName=GND Pin=U2-39_17
+Removed Pin From Net: NetName=GND Pin=U2-39_18
+Removed Pin From Net: NetName=GND Pin=U2-39_19
+Removed Pin From Net: NetName=GND Pin=U2-39_20
+Removed Pin From Net: NetName=GND Pin=U2-39_21
+Removed Member From Class: ClassName=Designator Member=C6
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C7
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=C8
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=Q1
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=Q2
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R1
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R2
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R3
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R4
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R5
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R6
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=R7
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=SW1
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=SW2
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Designator Member=U2
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=NetU3_15 Pin=U3-15
+Added Net: Name=NetU3_15
+Added Pin To Net: NetName=NetU3_16 Pin=U3-16
+Added Net: Name=NetU3_16
+Added Member To Class: ClassName=Designator Member=Component BT1 BH32T-C-HITE
+Added Member To Class: ClassName=Designator Member=Component C1 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C2 22uF
+Added Member To Class: ClassName=Designator Member=Component C3 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C4 T493X227K010BH6420_220uF
+Added Member To Class: ClassName=Designator Member=Component C5 10nF
+Added Member To Class: ClassName=Designator Member=Component C9 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C10 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C11 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C12 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C13 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C14 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C15 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C16 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C17 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C18 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C19 100pF/16V
+Added Member To Class: ClassName=Designator Member=Component C20 100pF/16V
+Added Member To Class: ClassName=Designator Member=Component C21 100pF/16V
+Added Member To Class: ClassName=Designator Member=Component C22 100pF/16V
+Added Member To Class: ClassName=Designator Member=Component D1 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D2 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D3 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D4 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D5 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D6 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D7 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D8 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D9 SMAJ33CA
+Added Member To Class: ClassName=Designator Member=Component D10 SMAJ33CA
+Added Member To Class: ClassName=Designator Member=Component D11 SMAJ33CA
+Added Member To Class: ClassName=Designator Member=Component D12 SMAJ33CA
+Added Member To Class: ClassName=Designator Member=Component IC1 SI8380P-IU
+Added Member To Class: ClassName=Designator Member=Component IC2 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component IC3 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component IC4 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component IC5 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component J1 691322110008
+Added Member To Class: ClassName=Designator Member=Component R8 0R
+Added Member To Class: ClassName=Designator Member=Component R9 6.2K
+Added Member To Class: ClassName=Designator Member=Component R10 6.2K
+Added Member To Class: ClassName=Designator Member=Component R11 2.4K
+Added Member To Class: ClassName=Designator Member=Component R12 2.4K
+Added Member To Class: ClassName=Designator Member=Component R13 6.2K
+Added Member To Class: ClassName=Designator Member=Component R14 6.2K
+Added Member To Class: ClassName=Designator Member=Component R15 2.4K
+Added Member To Class: ClassName=Designator Member=Component R16 2.4K
+Added Member To Class: ClassName=Designator Member=Component R17 6.2K
+Added Member To Class: ClassName=Designator Member=Component R18 6.2K
+Added Member To Class: ClassName=Designator Member=Component R19 2.4K
+Added Member To Class: ClassName=Designator Member=Component R20 2.4K
+Added Member To Class: ClassName=Designator Member=Component R21 6.2K
+Added Member To Class: ClassName=Designator Member=Component R22 6.2K
+Added Member To Class: ClassName=Designator Member=Component R23 2.4K
+Added Member To Class: ClassName=Designator Member=Component R24 2.4K
+Added Member To Class: ClassName=Designator Member=Component R25 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R26 220R
+Added Member To Class: ClassName=Designator Member=Component R27 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R28 220R
+Added Member To Class: ClassName=Designator Member=Component R29 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R30 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R31 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R32 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R33 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R34 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R35 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R36 220R
+Added Member To Class: ClassName=Designator Member=Component R37 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R38 220R
+Added Member To Class: ClassName=Designator Member=Component R39 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R40 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R41 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R42 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R43 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R44 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component U1 SPX3819M5-L-3-3/TR
+Added Member To Class: ClassName=Designator Member=Component U3 DS3231M+TRL
+Added Member To Class: ClassName=Designator Member=Component U4 LM358ADT
+Added Member To Class: ClassName=Designator Member=Component U5 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U6 LM358ADT
+Added Member To Class: ClassName=Designator Member=Component U7 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U8 LM358ADT
+Added Member To Class: ClassName=Designator Member=Component U9 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U10 LM358ADT
+Added Member To Class: ClassName=Designator Member=Component U11 LOC111P

@@ -1,0 +1,5 @@
+Fingerprint_Sensor=RX1,TX1,IRQ
+Keypad=Keypad_LED,Keypad_EN,Keypad_SDA,Keypad_SCL,Keypad_OUT,Keypad_RST,Keypad_INT
+LP_CTL=PWR_LATCH,FPS_PWR_CTL
+Motor_Driver=IN1,IN2,nSLEEP
+USB to TTL=DTR,TX0,RX0,3.3v_MCU,RTS

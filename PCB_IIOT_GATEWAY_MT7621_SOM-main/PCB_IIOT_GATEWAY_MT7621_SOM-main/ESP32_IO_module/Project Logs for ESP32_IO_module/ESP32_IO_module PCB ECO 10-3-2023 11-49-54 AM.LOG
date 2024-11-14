@@ -1,0 +1,159 @@
+Removed Member From Class: ClassName=Designator Member=R6
+Removed Member From Class: ClassName=Designator Member=R7
+Removed Member From Class: ClassName=Designator Member=R8
+Added Component: Designator=D9(DIONM5126X250N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smaj33ca/littelfuse?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/SMAJ33CA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ33CA?qs=JJML70Qc14tynAcWzvnSpg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D10(DIONM5126X250N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smaj33ca/littelfuse?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/SMAJ33CA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ33CA?qs=JJML70Qc14tynAcWzvnSpg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D11(DIONM5126X250N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smaj33ca/littelfuse?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/SMAJ33CA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ33CA?qs=JJML70Qc14tynAcWzvnSpg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D12(DIONM5126X250N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smaj33ca/littelfuse?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/SMAJ33CA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMAJ33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ33CA?qs=JJML70Qc14tynAcWzvnSpg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP64P600X175-20N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=AI0 Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=AI1 Pin=D10-2
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=AI2 Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=AI3 Pin=D12-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-16
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-7
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U11-5
+Add Pin To Net: Unknown Pin: Pin U11-6
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component IC1 SI8380P-IU
+Added Member To Class: ClassName=U_Connectors Member=Component J1 B6B-XH-A
+Added Member To Class: ClassName=U_MCU Member=Component R1 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R2 NC
+Added Member To Class: ClassName=U_MCU Member=Component R3 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R4 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R5 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R6 12k
+Added Member To Class: ClassName=U_MCU Member=Component R7 12k
+Added Member To Class: ClassName=U_RTC Member=Component R8 NC
+Added Member To Class: ClassName=U_RTC Member=Component R9 0R
+Added Member To Class: ClassName=Designator Member=Component R10 6.2K
+Added Member To Class: ClassName=Designator Member=Component R11 6.2K
+Added Member To Class: ClassName=Designator Member=Component R12 2.4K
+Added Member To Class: ClassName=Designator Member=Component R13 2.4K
+Added Member To Class: ClassName=Designator Member=Component R14 6.2K
+Added Member To Class: ClassName=Designator Member=Component R15 6.2K
+Added Member To Class: ClassName=Designator Member=Component R16 2.4K
+Added Member To Class: ClassName=Designator Member=Component R17 2.4K
+Added Member To Class: ClassName=Designator Member=Component R19 6.2K
+Added Member To Class: ClassName=Designator Member=Component R20 2.4K
+Added Member To Class: ClassName=Designator Member=Component R21 2.4K
+Added Member To Class: ClassName=Designator Member=Component R22 6.2K
+Added Member To Class: ClassName=Designator Member=Component R23 6.2K
+Added Member To Class: ClassName=Designator Member=Component R24 2.4K
+Added Member To Class: ClassName=Designator Member=Component R25 2.4K

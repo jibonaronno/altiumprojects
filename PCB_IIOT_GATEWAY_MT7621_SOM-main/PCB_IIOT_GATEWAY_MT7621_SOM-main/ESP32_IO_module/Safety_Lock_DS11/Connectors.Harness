@@ -1,0 +1,4 @@
+DC_Motor=OUT2,OUT1
+Fingerprint_Sensor=RX1,TX1,IRQ
+Keypad=Keypad_LED,Keypad_EN,Keypad_INT,Keypad_SDA,Keypad_SCL,Keypad_OUT,Keypad_RST
+USB to TTL=DTR,TX0,RX0,3.3V_MCU,RTS

@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=Designator Member=R23
+Add Component: Footprint Not Found Fiducial
+Add Component: Footprint Not Found Fiducial
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component FID1 fiducial
+Add Class Member: Failed to add class member : Component FID2 fiducial
+Added Member To Class: ClassName=Designator Member=Component R25 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R27 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R28 220R
+Added Member To Class: ClassName=Designator Member=Component R29 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R30 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R32 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R33 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R35 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R37 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R39 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R40 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R42 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R43 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R44 167K 0.1%

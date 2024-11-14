@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\thefa\Documents\GitHub\PCB_IIOT_GATEWAY_MT7621_SOM\Main\IIOT_GATEWAY_MT7621.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=iiot_gateway_mt7621-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=iiot_gateway_mt7621-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

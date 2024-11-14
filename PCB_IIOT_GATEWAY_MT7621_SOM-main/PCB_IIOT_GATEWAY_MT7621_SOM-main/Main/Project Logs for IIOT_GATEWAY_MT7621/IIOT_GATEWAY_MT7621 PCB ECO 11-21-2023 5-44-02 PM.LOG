@@ -1,0 +1,11 @@
+Change Component Comment : Designator=C95 Old Comment=10nF,0603 New Comment=10nF,0603/NC
+Change Component Comment : Designator=IC8 Old Comment=SPX3819M5-L-5-0 New Comment=TPS76350DBVT
+Change component parameters: Designator = "IC8" ("IC8"); Footprint = "SOT95P280X145-5N"; UniqueID = "\TERTDBYH" ("\TERTDBYH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TPS76350DBVT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps76350dbvt/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000132493.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS76350DBVT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS76350DBVT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS76350DBVT?qs=8yeEWhuAOtP%2FFGo0oRuSfA%3D%3D"; VariantName = "[No Variations]"

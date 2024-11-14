@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J4 Old Footprint=1844236 New Footprint=691322110008
+Added Pin To Net: NetName=+24V Pin=J4-5
+Added Pin To Net: NetName=NetJ4_6 Pin=J4-6
+Added Pin To Net: NetName=+24V Pin=J4-7
+Added Pin To Net: NetName=NetJ4_8 Pin=J4-8
+Add Class: Class already exists: Designator

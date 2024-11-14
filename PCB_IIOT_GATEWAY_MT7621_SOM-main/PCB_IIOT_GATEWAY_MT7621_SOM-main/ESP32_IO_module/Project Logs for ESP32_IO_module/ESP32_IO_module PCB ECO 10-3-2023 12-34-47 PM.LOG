@@ -1,0 +1,5 @@
+Added Component: Designator=FID1(Fiducial)
+Added Component: Designator=FID2(Fiducial)
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Top_level Member=Component FID1 fiducial
+Added Member To Class: ClassName=Top_level Member=Component FID2 fiducial

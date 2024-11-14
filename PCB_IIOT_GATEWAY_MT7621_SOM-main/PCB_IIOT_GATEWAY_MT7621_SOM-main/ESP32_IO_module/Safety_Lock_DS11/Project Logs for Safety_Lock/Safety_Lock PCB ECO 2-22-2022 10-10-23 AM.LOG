@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=LS? NewDesignator=LS1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q7
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Net Name : Old Net Name=NetLS?_N New Net Name=NetLS1_N
+Change Net Name : Old Net Name=NetLS?_P New Net Name=NetLS1_P
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR33_1
+Added Member To Class: ClassName=U_MCU Member=Component R34 100R

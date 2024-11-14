@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VDD Pin=J7-1
+Removed Member From Class: ClassName=U_FingerPrint_TS Member=Q4
+Removed Member From Class: ClassName=U_MCU Member=Q8
+Removed Member From Class: ClassName=U_MCU Member=Q9
+Removed Member From Class: ClassName=U_Connectors Member=R22
+Removed Member From Class: ClassName=U_FingerPrint_TS Member=R22
+Removed Member From Class: ClassName=U_FingerPrint_TS Member=R24
+Removed Member From Class: ClassName=U_MCU Member=R24
+Removed Member From Class: ClassName=U_MCU Member=R27
+Removed Member From Class: ClassName=U_Connectors Member=R29
+Removed Member From Class: ClassName=U_MCU Member=R29
+Change Component Comment : Designator=R12 Old Comment=0R New Comment=NC
+Added Pin To Net: NetName=3.3V_MCU Pin=J7-1
+Added Member To Class: ClassName=U_Connectors Member=Component J4 1-1734592-0
+Added Member To Class: ClassName=U_Connectors Member=Component J5 532610671
+Added Member To Class: ClassName=U_Connectors Member=Component J6 455-2247-ND
+Added Member To Class: ClassName=U_MCU Member=Component Q3 MMBT2222A-G
+Added Member To Class: ClassName=U_MCU Member=Component Q5 MMBT2222A-G
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component Q6 MI2301
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component Q7 KST8550D
+Added Member To Class: ClassName=U_MCU Member=Component R19 12k
+Added Member To Class: ClassName=U_MCU Member=Component R20 220R
+Added Member To Class: ClassName=U_MCU Member=Component R21 12k
+Added Member To Class: ClassName=U_Connectors Member=Component R23 NC
+Added Member To Class: ClassName=U_Connectors Member=Component R25 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R26 10K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R28 100K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R30 1K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R31 1K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R32 1K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R33 10K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R34 1K

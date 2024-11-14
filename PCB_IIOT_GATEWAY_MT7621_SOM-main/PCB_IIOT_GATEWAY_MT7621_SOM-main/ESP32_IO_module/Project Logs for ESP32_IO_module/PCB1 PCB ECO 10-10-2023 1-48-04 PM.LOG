@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC3
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC4
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC5
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC6
+Change Component Designator: OldDesignator=IC6 NewDesignator=IC7
+Added Component: Designator=IC2(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STWD100NYWY3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stwd100nywy3f/stmicroelectronics?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1683135.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STWD100NYWY3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STWD100NYWY3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STWD100NYWY3F?qs=jWm4idrLpzx15dHtESXwMQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=VDD Pin=IC2-5
+Change Net Name : Old Net Name=NetIC3_6 New Net Name=NetIC4_6
+Change Net Name : Old Net Name=NetIC4_6 New Net Name=NetIC5_6
+Change Net Name : Old Net Name=NetIC5_6 New Net Name=NetIC6_6
+Change Net Name : Old Net Name=NetIC6_6 New Net Name=NetIC7_6
+Added Pin To Net: NetName=NetIC2_4 Pin=IC2-4
+Added Pin To Net: NetName=NetIC2_4 Pin=U2-26
+Added Net: Name=NetIC2_4
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component IC2 STWD100NYWY3F

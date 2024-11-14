@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J9 Old Footprint=HDRV4W64P0X254_1X4_1016X248X838P New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=J9 Old Comment=HTSW-104-07-TM-S New Comment=B4B-XH-A(LF)(SN)
+Change component parameters: Designator = "J9" ("J9"); Footprint = "HDRV4W64P0X254_1X4_1016X248X838P"; UniqueID = "\NYQSWVZI\ZHUVJKUV" ("\NYQSWVZI\ZHUVJKUV")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Class: Class already exists: Designator

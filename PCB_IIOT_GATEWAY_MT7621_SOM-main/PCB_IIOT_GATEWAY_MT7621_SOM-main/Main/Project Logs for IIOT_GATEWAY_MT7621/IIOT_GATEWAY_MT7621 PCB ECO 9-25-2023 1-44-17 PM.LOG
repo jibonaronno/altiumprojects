@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=D9 Old Footprint=PDS104013 New Footprint=POWERDI5
+Change Component Comment : Designator=D9 Old Comment=PDS1040-13 New Comment=SBRT15U50SP5-13
+Change component parameters: Designator = "D9" ("D9"); Footprint = "PDS104013"; UniqueID = "\FSJBJAFR" ("\FSJBJAFR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SBRT15U50SP5-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sbrt15u50sp5-13/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/SBRT15U50SP5.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SBRT15U50SP5-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-SBRT15U50SP5-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SBRT15U50SP5-13?qs=dZoB6MK9LKNtZyLX7B5L8A%3D%3D"; VariantName = "[No Variations]"

@@ -1,0 +1,28 @@
+Added Pin To Net: NetName=AI0 Pin=U2-4
+Added Pin To Net: NetName=AI0 Pin=U6-1
+Added Pin To Net: NetName=AI0 Pin=U6-2
+Added Net: Name=AI0
+Added Pin To Net: NetName=AI1 Pin=U2-5
+Added Pin To Net: NetName=AI1 Pin=U6-6
+Added Pin To Net: NetName=AI1 Pin=U6-7
+Added Net: Name=AI1
+Added Pin To Net: NetName=AI2 Pin=U2-6
+Added Pin To Net: NetName=AI2 Pin=U10-1
+Added Pin To Net: NetName=AI2 Pin=U10-2
+Added Net: Name=AI2
+Added Pin To Net: NetName=AI3 Pin=U2-7
+Added Pin To Net: NetName=AI3 Pin=U10-6
+Added Pin To Net: NetName=AI3 Pin=U10-7
+Added Net: Name=AI3
+Add Net: Net with name "DI0" already exists
+Add Net: Net with name "DI1" already exists
+Add Net: Net with name "DI2" already exists
+Add Net: Net with name "DI3" already exists
+Add Net: Net with name "DI4" already exists
+Add Net: Net with name "DI5" already exists
+Add Net: Net with name "DI6" already exists
+Add Net: Net with name "DI7" already exists
+Added Pin To Net: NetName=UART2_RX Pin=U2-27
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=U2-28
+Added Net: Name=UART2_TX

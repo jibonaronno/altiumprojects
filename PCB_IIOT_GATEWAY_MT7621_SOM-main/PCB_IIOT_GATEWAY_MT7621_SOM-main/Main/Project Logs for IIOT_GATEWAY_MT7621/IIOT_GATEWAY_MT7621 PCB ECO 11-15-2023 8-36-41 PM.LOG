@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=B+ Pin=Q1-1
+Removed Pin From Net: NetName=B+ Pin=Q1-2
+Removed Pin From Net: NetName=B+ Pin=Q1-3
+Removed Pin From Net: NetName=+V_PMU Pin=Q1-5
+Removed Pin From Net: NetName=+V_PMU Pin=Q1-6
+Removed Pin From Net: NetName=+V_PMU Pin=Q1-7
+Removed Pin From Net: NetName=+V_PMU Pin=Q1-8
+Added Pin To Net: NetName=+V_PMU Pin=Q1-1
+Added Pin To Net: NetName=+V_PMU Pin=Q1-2
+Added Pin To Net: NetName=+V_PMU Pin=Q1-3
+Added Pin To Net: NetName=B+ Pin=Q1-5
+Added Pin To Net: NetName=B+ Pin=Q1-6
+Added Pin To Net: NetName=B+ Pin=Q1-7
+Added Pin To Net: NetName=B+ Pin=Q1-8

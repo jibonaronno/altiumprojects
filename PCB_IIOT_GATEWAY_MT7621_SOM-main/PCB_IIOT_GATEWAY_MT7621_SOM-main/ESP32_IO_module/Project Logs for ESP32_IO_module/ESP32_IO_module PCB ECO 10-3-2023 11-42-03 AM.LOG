@@ -1,0 +1,464 @@
+Removed Pin From Net: NetName=NetLED1_2 Pin=R13-1
+Removed Pin From Net: NetName=uC_DI0 Pin=R13-2
+Removed Pin From Net: NetName=NetLED2_2 Pin=R14-1
+Removed Pin From Net: NetName=uC_DI1 Pin=R14-2
+Removed Pin From Net: NetName=NetLED3_2 Pin=R15-1
+Removed Pin From Net: NetName=uC_DI2 Pin=R15-2
+Removed Pin From Net: NetName=NetLED4_2 Pin=R16-1
+Removed Pin From Net: NetName=uC_DI3 Pin=R16-2
+Removed Pin From Net: NetName=NetLED5_2 Pin=R26-1
+Removed Pin From Net: NetName=uC_DI4 Pin=R26-2
+Removed Pin From Net: NetName=NetLED6_2 Pin=R27-1
+Removed Pin From Net: NetName=uC_DI5 Pin=R27-2
+Removed Pin From Net: NetName=NetLED7_2 Pin=R28-1
+Removed Pin From Net: NetName=uC_DI6 Pin=R28-2
+Removed Pin From Net: NetName=NetLED8_2 Pin=R29-1
+Removed Pin From Net: NetName=uC_DI7 Pin=R29-2
+Removed Pin From Net: NetName=NetR34_1 Pin=R34-1
+Removed Pin From Net: NetName=NetR34_1 Pin=R36-2
+Removed Pin From Net: NetName=NetR37_2 Pin=R37-2
+Removed Pin From Net: NetName=NetR44_1 Pin=R44-1
+Removed Pin From Net: NetName=NetR44_1 Pin=R46-2
+Removed Pin From Net: NetName=NetR47_2 Pin=R47-2
+Removed Pin From Net: NetName=NetR54_1 Pin=R54-1
+Removed Pin From Net: NetName=NetR54_1 Pin=R56-2
+Removed Pin From Net: NetName=NetR72_1 Pin=R72-1
+Removed Pin From Net: NetName=NetR72_1 Pin=R74-2
+Removed Member From Class: ClassName=Designator Member=R6
+Removed Member From Class: ClassName=Designator Member=R7
+Removed Member From Class: ClassName=Designator Member=R8
+Removed Member From Class: ClassName=Designator Member=R26
+Removed Member From Class: ClassName=Designator Member=R27
+Removed Member From Class: ClassName=Designator Member=R28
+Removed Member From Class: ClassName=Designator Member=R29
+Removed Member From Class: ClassName=Designator Member=R31
+Removed Member From Class: ClassName=Designator Member=R32
+Change Component Designator: OldDesignator=R17 NewDesignator=R13
+Change Component Designator: OldDesignator=R18 NewDesignator=R14
+Change Component Designator: OldDesignator=R19 NewDesignator=R15
+Change Component Designator: OldDesignator=R20 NewDesignator=R16
+Change Component Designator: OldDesignator=R21 NewDesignator=R17
+Change Component Designator: OldDesignator=R22 NewDesignator=R18
+Change Component Designator: OldDesignator=R23 NewDesignator=R19
+Change Component Designator: OldDesignator=R24 NewDesignator=R20
+Change Component Designator: OldDesignator=R25 NewDesignator=R21
+Change Component Designator: OldDesignator=R30 NewDesignator=R22
+Change Component Designator: OldDesignator=R31 NewDesignator=R23
+Change Component Designator: OldDesignator=R32 NewDesignator=R24
+Change Component Designator: OldDesignator=R33 NewDesignator=R25
+Change Component Designator: OldDesignator=R34 NewDesignator=R26
+Change Component Designator: OldDesignator=R35 NewDesignator=R27
+Change Component Designator: OldDesignator=R36 NewDesignator=R28
+Change Component Designator: OldDesignator=R37 NewDesignator=R29
+Change Component Designator: OldDesignator=R38 NewDesignator=R30
+Change Component Designator: OldDesignator=R39 NewDesignator=R31
+Change Component Designator: OldDesignator=R40 NewDesignator=R32
+Change Component Designator: OldDesignator=R41 NewDesignator=R33
+Change Component Designator: OldDesignator=R42 NewDesignator=R34
+Change Component Designator: OldDesignator=R43 NewDesignator=R35
+Change Component Designator: OldDesignator=R44 NewDesignator=R36
+Change Component Designator: OldDesignator=R45 NewDesignator=R37
+Change Component Designator: OldDesignator=R46 NewDesignator=R38
+Change Component Designator: OldDesignator=R47 NewDesignator=R39
+Change Component Designator: OldDesignator=R48 NewDesignator=R40
+Change Component Designator: OldDesignator=R49 NewDesignator=R41
+Change Component Designator: OldDesignator=R50 NewDesignator=R42
+Change Component Designator: OldDesignator=R51 NewDesignator=R43
+Change Component Designator: OldDesignator=R52 NewDesignator=R44
+Change Component Designator: OldDesignator=R53 NewDesignator=R45
+Change Component Designator: OldDesignator=R54 NewDesignator=R46
+Change Component Designator: OldDesignator=R55 NewDesignator=R47
+Change Component Designator: OldDesignator=R56 NewDesignator=R48
+Change Component Designator: OldDesignator=R57 NewDesignator=R49
+Change Component Designator: OldDesignator=R58 NewDesignator=R50
+Change Component Designator: OldDesignator=R59 NewDesignator=R51
+Change Component Designator: OldDesignator=R60 NewDesignator=R52
+Change Component Designator: OldDesignator=R61 NewDesignator=R53
+Change Component Designator: OldDesignator=R62 NewDesignator=R54
+Change Component Designator: OldDesignator=R63 NewDesignator=R55
+Change Component Designator: OldDesignator=R64 NewDesignator=R56
+Change Component Designator: OldDesignator=R65 NewDesignator=R57
+Change Component Designator: OldDesignator=R66 NewDesignator=R58
+Change Component Designator: OldDesignator=R67 NewDesignator=R59
+Change Component Designator: OldDesignator=R68 NewDesignator=R60
+Change Component Designator: OldDesignator=R69 NewDesignator=R61
+Change Component Designator: OldDesignator=R70 NewDesignator=R62
+Change Component Designator: OldDesignator=R71 NewDesignator=R63
+Change Component Designator: OldDesignator=R72 NewDesignator=R64
+Change Component Designator: OldDesignator=R73 NewDesignator=R65
+Change Component Designator: OldDesignator=R74 NewDesignator=R66
+Change Component Designator: OldDesignator=R75 NewDesignator=R67
+Change Component Designator: OldDesignator=R76 NewDesignator=R68
+Change Component Designator: OldDesignator=R77 NewDesignator=R69
+Change Component Designator: OldDesignator=R78 NewDesignator=R70
+Change Component Designator: OldDesignator=R79 NewDesignator=R71
+Change Component Designator: OldDesignator=R80 NewDesignator=R72
+Change Component Designator: OldDesignator=R81 NewDesignator=R73
+Added Component: Designator=D1(DIONM8059X265N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-sm15t33ca/70390412/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70390412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9196428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9196428"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIONM8059X265N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-sm15t33ca/70390412/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70390412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9196428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9196428"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIONM8059X265N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-sm15t33ca/70390412/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70390412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9196428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9196428"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIONM8059X265N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-sm15t33ca/70390412/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70390412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9196428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9196428"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIONM8059X265N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-sm15t33ca/70390412/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70390412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9196428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9196428"; VariantName = "[No Variations]"
+Added Component: Designator=D6(DIONM8059X265N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-sm15t33ca/70390412/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70390412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9196428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9196428"; VariantName = "[No Variations]"
+Added Component: Designator=D7(DIONM8059X265N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-sm15t33ca/70390412/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70390412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9196428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9196428"; VariantName = "[No Variations]"
+Added Component: Designator=D8(DIONM8059X265N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-sm15t33ca/70390412/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70390412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM15T33CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9196428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9196428"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIONM5026X229N
+Add Component: Footprint Not Found DIONM5026X229N
+Add Component: Footprint Not Found DIONM5026X229N
+Add Component: Footprint Not Found DIONM5026X229N
+Add Component: Footprint Not Found DIONM5026X229N
+Add Component: Footprint Not Found DIONM5026X229N
+Add Component: Footprint Not Found DIONM5026X229N
+Add Component: Footprint Not Found DIONM5026X229N
+Add Component: Footprint Not Found SOP64P600X175-20N
+Add Component: Footprint Not Found LEDC2012X110N
+Add Component: Footprint Not Found LEDC2012X110N
+Add Component: Footprint Not Found LEDC2012X110N
+Add Component: Footprint Not Found LEDC2012X110N
+Add Component: Footprint Not Found LEDC2012X110N
+Add Component: Footprint Not Found LEDC2012X110N
+Add Component: Footprint Not Found LEDC2012X110N
+Add Component: Footprint Not Found LEDC2012X110N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Add Component: Footprint Not Found *SOIC127P600X175-8N
+Add Component: Footprint Not Found SOP254P940X265-8N
+Added Pin To Net: NetName=DI3 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=DI2 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=DI1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=DI0 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=DI7 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=DI6 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=DI5 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=DI4 Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D10-1
+Add Pin To Net: Unknown Pin: Pin D10-2
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-2
+Add Pin To Net: Unknown Pin: Pin D12-1
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin D14-1
+Add Pin To Net: Unknown Pin: Pin D14-2
+Add Pin To Net: Unknown Pin: Pin D15-1
+Add Pin To Net: Unknown Pin: Pin D15-2
+Add Pin To Net: Unknown Pin: Pin D16-1
+Add Pin To Net: Unknown Pin: Pin D16-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-16
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin LED4-1
+Add Pin To Net: Unknown Pin: Pin LED4-2
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED5-2
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED7-2
+Add Pin To Net: Unknown Pin: Pin LED8-1
+Add Pin To Net: Unknown Pin: Pin LED8-2
+Added Pin To Net: NetName=NetR34_1 Pin=R34-1
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R55-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R56-1
+Added Pin To Net: NetName=NetLED3_2 Pin=R57-1
+Added Pin To Net: NetName=NetLED4_2 Pin=R58-1
+Added Pin To Net: NetName=NetLED5_2 Pin=R59-1
+Added Pin To Net: NetName=NetLED6_2 Pin=R60-1
+Added Pin To Net: NetName=NetLED7_2 Pin=R61-1
+Added Pin To Net: NetName=NetLED8_2 Pin=R62-1
+Added Pin To Net: NetName=NetR72_1 Pin=R72-1
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-7
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U11-6
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Pin To Net: Unknown Pin: Pin U13-1
+Add Pin To Net: Unknown Pin: Pin U13-2
+Add Pin To Net: Unknown Pin: Pin U13-3
+Add Pin To Net: Unknown Pin: Pin U13-4
+Add Pin To Net: Unknown Pin: Pin U13-5
+Add Pin To Net: Unknown Pin: Pin U13-6
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Pin To Net: Unknown Pin: Pin U14-3
+Add Pin To Net: Unknown Pin: Pin U14-4
+Add Pin To Net: Unknown Pin: Pin U14-6
+Add Pin To Net: Unknown Pin: Pin U14-7
+Add Pin To Net: Unknown Pin: Pin U14-8
+Add Pin To Net: Unknown Pin: Pin U15-1
+Add Pin To Net: Unknown Pin: Pin U15-3
+Add Pin To Net: Unknown Pin: Pin U15-4
+Add Pin To Net: Unknown Pin: Pin U15-6
+Add Pin To Net: Unknown Pin: Pin U16-1
+Add Pin To Net: Unknown Pin: Pin U16-2
+Add Pin To Net: Unknown Pin: Pin U16-4
+Add Pin To Net: Unknown Pin: Pin U16-6
+Add Pin To Net: Unknown Pin: Pin U16-7
+Add Pin To Net: Unknown Pin: Pin U16-8
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-4
+Add Pin To Net: Unknown Pin: Pin U17-5
+Add Pin To Net: Unknown Pin: Pin U17-6
+Add Pin To Net: Unknown Pin: Pin U18-1
+Add Pin To Net: Unknown Pin: Pin U18-2
+Add Pin To Net: Unknown Pin: Pin U18-3
+Add Pin To Net: Unknown Pin: Pin U18-4
+Add Pin To Net: Unknown Pin: Pin U18-6
+Add Pin To Net: Unknown Pin: Pin U18-7
+Add Pin To Net: Unknown Pin: Pin U18-8
+Add Pin To Net: Unknown Pin: Pin U19-1
+Add Pin To Net: Unknown Pin: Pin U19-3
+Add Pin To Net: Unknown Pin: Pin U19-4
+Add Pin To Net: Unknown Pin: Pin U19-6
+Change Net Name : Old Net Name=NetR63_2 New Net Name=NetR55_2
+Change Net Name : Old Net Name=NetR64_2 New Net Name=NetR56_2
+Change Net Name : Old Net Name=NetR65_2 New Net Name=NetR57_2
+Change Net Name : Old Net Name=NetR66_2 New Net Name=NetR58_2
+Change Net Name : Old Net Name=NetR67_2 New Net Name=NetR59_2
+Change Net Name : Old Net Name=NetR68_2 New Net Name=NetR60_2
+Change Net Name : Old Net Name=NetR69_2 New Net Name=NetR61_2
+Change Net Name : Old Net Name=NetR70_2 New Net Name=NetR62_2
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=R28-2
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=R33-2
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Net: Name=NetR31_1
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=R38-2
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=R43-2
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=NetR46_1 Pin=R48-2
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=R53-2
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetR64_1 Pin=R66-2
+Added Net: Name=NetR64_1
+Added Pin To Net: NetName=NetR65_2 Pin=R65-2
+Added Net: Name=NetR65_2
+Added Pin To Net: NetName=NetR67_2 Pin=R67-2
+Added Net: Name=NetR67_2
+Added Pin To Net: NetName=NetR68_1 Pin=R68-1
+Added Pin To Net: NetName=NetR68_1 Pin=R71-2
+Added Net: Name=NetR68_1
+Added Pin To Net: NetName=NetR69_1 Pin=R69-1
+Added Net: Name=NetR69_1
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component D1 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D2 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D3 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D4 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D5 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D6 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D7 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D8 SM15T33CA
+Add Class Member: Failed to add class member : Component IC1 SI8380P-IU
+Added Member To Class: ClassName=U_Connectors Member=Component J1 B6B-XH-A
+Added Member To Class: ClassName=U_MCU Member=Component R1 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R2 NC
+Added Member To Class: ClassName=U_MCU Member=Component R3 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R4 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R5 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R6 12k
+Added Member To Class: ClassName=U_MCU Member=Component R7 12k
+Added Member To Class: ClassName=U_RTC Member=Component R8 NC
+Added Member To Class: ClassName=U_RTC Member=Component R9 0R
+Added Member To Class: ClassName=Designator Member=Component R10 6.2K
+Added Member To Class: ClassName=Designator Member=Component R11 6.2K
+Added Member To Class: ClassName=Designator Member=Component R12 2.4K

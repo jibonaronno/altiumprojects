@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetD14_3 Pin=J4-2
+Removed Pin From Net: NetName=NetD13_3 Pin=J4-4
+Removed Pin From Net: NetName=uC_DO1 Pin=R45-1
+Removed Pin From Net: NetName=uC_DO0 Pin=R48-1
+Change Footprint: Footprint Not Found 691322110008
+Change Component Comment : Designator=J4 Old Comment=1844236 New Comment=691322110008
+Change component parameters: Designator = "J4" ("J4"); Footprint = "1844236"; UniqueID = "\NYQSWVZI\FTLPVBCQ" ("\NYQSWVZI\FTLPVBCQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691322110008/Wurth+Electronics+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "691322110008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691322110008/Wurth+Electronics+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J4-5
+Add Pin To Net: Unknown Pin: Pin J4-7
+Added Pin To Net: NetName=NetD15_3 Pin=D15-3
+Added Net: Name=NetD15_3
+Added Pin To Net: NetName=NetD16_3 Pin=D16-3
+Added Net: Name=NetD16_3
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Net: Name=NetJ4_4
+Added Net: Name=NetJ4_6
+Added Net: Name=NetJ4_8
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Net: Name=NetR45_1
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Net: Name=NetR48_1
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Net: Name=NetR54_1
+Add Class: Class already exists: Designator

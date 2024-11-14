@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J11-4
+Removed Pin From Net: NetName=3.3V_MCU Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=SDA Pin=J11-2
+Added Pin To Net: NetName=SCL Pin=J11-3
+Added Pin To Net: NetName=3.3V_MCU Pin=SB3-2
+Added Pin To Net: NetName=NetJ11_4 Pin=J11-4
+Added Pin To Net: NetName=NetJ11_4 Pin=SB2-2
+Added Pin To Net: NetName=NetJ11_4 Pin=SB3-1
+Added Net: Name=NetJ11_4
+Added Pin To Net: NetName=VDD_CON Pin=J10-4
+Added Pin To Net: NetName=VDD_CON Pin=SB2-1
+Added Net: Name=VDD_CON
+Add Class: Class already exists: Designator

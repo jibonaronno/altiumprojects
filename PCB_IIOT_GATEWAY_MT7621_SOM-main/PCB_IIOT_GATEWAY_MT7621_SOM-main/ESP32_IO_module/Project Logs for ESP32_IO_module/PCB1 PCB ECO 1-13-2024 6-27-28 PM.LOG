@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=SCL Pin=J10-2
+Removed Pin From Net: NetName=SDA Pin=J10-3
+Removed Pin From Net: NetName=GND Pin=J10-4
+Removed Pin From Net: NetName=SCL Pin=J11-2
+Removed Pin From Net: NetName=SDA Pin=J11-3
+Change Component Footprint: Designator=J10 Old Footprint=SHDR4W50P0X200_1X4_1000X365X550P New Footprint=MOLEX_533980471
+Change Component Comment : Designator=J10 Old Comment=53253-0470 New Comment=533980471
+Change component parameters: Designator = "J10" ("J10"); Footprint = "SHDR4W50P0X200_1X4_1000X365X550P"; UniqueID = "\NYQSWVZI\SQYKPBOU" ("\NYQSWVZI\SQYKPBOU")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/533980471/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "WM7608TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "533980471"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/533980471/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/533980471/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=SDA Pin=J10-2
+Added Pin To Net: NetName=SCL Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-S1
+Added Pin To Net: NetName=GND Pin=J10-S2
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component J11 53253-0470

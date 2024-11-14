@@ -1,0 +1,5 @@
+Change Class Name : Old Net Name=ANALOG_INPUT New Net Name=Designator
+Change Class Name : Old Net Name=DIGITAL_INPUT New Net Name=Designator
+Change Class Name : Old Net Name=MCU New Net Name=Designator
+Change Class Name : Old Net Name=Power_management New Net Name=Designator
+Change Class Name : Old Net Name=RTC New Net Name=Designator

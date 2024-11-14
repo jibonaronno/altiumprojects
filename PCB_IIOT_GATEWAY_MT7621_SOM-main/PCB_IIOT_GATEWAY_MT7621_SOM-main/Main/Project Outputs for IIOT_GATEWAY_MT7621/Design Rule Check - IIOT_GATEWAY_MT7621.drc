@@ -1,0 +1,67 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\thefa\Documents\GitHub\PCB_IIOT_GATEWAY_MT7621_SOM\Main\IIOT_GATEWAY_MT7621.PcbDoc
+Date     : 12/25/2023
+Time     : 3:56:15 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('PGND_L01_P098') or InNamedPolygon('PGND_L04_P106')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=40mil) (InNamedPolygon('CHGND_GE_A_L04_P087')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=25mil) (InNet('VDC') or InNet('NetF1_1') or InNet('NetD20_2') or InNet('ETH') or InNet('NetC112_2') or InNet('NetF2_1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('GND_ISO_L01_P054') or InNamedPolygon('GND_ISO_L04_P107')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=40mil) (InNamedPolygon('NETC43_1_L04_P018')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=28mil) (PreferredHoleWidth=11.811mil) (MinWidth=23.622mil) (MaxWidth=50mil) (PreferedWidth=23.622mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=8mil) (Max=8mil) (Prefered=8mil)  and Width Constraints (Min=8.66mil) (Max=11.26mil) (Prefered=11.26mil) (InDifferentialPairClass('DIFF90'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=8mil) (Max=8mil) (Prefered=8mil)  and Width Constraints (Min=6.58mil) (Max=15mil) (Prefered=8.68mil) (InDifferentialPairClass('DIFF100'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=2165.354mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02

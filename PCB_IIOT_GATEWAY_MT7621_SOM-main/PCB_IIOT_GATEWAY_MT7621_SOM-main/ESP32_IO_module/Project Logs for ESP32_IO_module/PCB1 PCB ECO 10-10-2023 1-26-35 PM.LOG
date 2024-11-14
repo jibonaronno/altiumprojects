@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Designator Member=C15
+Removed Member From Class: ClassName=Designator Member=C17
+Removed Member From Class: ClassName=Designator Member=C25
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C12 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C14 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C16 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C18 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C20 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C22 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C24 100pF/16V

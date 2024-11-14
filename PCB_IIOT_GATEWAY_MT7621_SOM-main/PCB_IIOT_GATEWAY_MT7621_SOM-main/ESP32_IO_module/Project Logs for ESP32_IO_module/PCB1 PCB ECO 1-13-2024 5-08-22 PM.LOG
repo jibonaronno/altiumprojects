@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=EN Pin=IC2-1
+Removed Pin From Net: NetName=SDA Pin=J10-1
+Removed Pin From Net: NetName=GND Pin=J10-3
+Change Component Designator: OldDesignator=J11 NewDesignator=J12
+Added Component: Designator=J11(SHDR4W50P0X200_1X4_1000X365X550P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/532530870_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "53253-0470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-53253-0470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/53253-0470?qs=8PELaTI4Pt%2FLA1isvUDoOA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(SB_0603)
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=SB2(SB_0603)
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=SB3(SB_0603)
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=J10-3
+Added Pin To Net: NetName=SCL Pin=J11-2
+Added Pin To Net: NetName=SDA Pin=J11-3
+Added Pin To Net: NetName=GND Pin=J11-4
+Added Pin To Net: NetName=EN Pin=SB1-2
+Added Pin To Net: NetName=3.3V_MCU Pin=SB2-2
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=NetJ12_1
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=SB1-1
+Added Net: Name=NetIC2_1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=SB3-1
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=SB2-1
+Added Pin To Net: NetName=NetJ11_1 Pin=SB3-2
+Added Net: Name=NetJ11_1
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component J12 67997-200HLF
+Added Member To Class: ClassName=Designator Member=Component SB1 Closed
+Added Member To Class: ClassName=Designator Member=Component SB2 Closed
+Added Member To Class: ClassName=Designator Member=Component SB3 Opened

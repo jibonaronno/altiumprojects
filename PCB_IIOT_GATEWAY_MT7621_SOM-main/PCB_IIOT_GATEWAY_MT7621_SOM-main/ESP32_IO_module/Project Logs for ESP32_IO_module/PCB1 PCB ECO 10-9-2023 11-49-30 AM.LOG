@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=uC_DO0 Pin=D14-1
+Added Pin To Net: NetName=uC_DO0 Pin=U2-30
+Added Net: Name=uC_DO0
+Added Pin To Net: NetName=uC_DO1 Pin=D13-1
+Added Pin To Net: NetName=uC_DO1 Pin=U2-31
+Added Net: Name=uC_DO1
+Add Class: Class already exists: Designator

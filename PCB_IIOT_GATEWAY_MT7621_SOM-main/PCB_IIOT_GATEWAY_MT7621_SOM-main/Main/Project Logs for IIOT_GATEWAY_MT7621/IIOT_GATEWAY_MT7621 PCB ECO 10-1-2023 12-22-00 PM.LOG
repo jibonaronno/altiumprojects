@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=CHGND_GE_A Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=CHGND_GE_A Pin=C52-2
+Removed Pin From Net: NetName=GND Pin=C55-1
+Removed Pin From Net: NetName=CHGND_GE_A Pin=C55-2
+Removed Member From Class: ClassName=TRANSFORMER_RJ45 Member=C44
+Removed Member From Class: ClassName=TRANSFORMER_RJ45 Member=C52
+Removed Member From Class: ClassName=TRANSFORMER_RJ45 Member=C55

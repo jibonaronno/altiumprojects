@@ -1,0 +1,5 @@
+Added Component: Designator=GDT2(2036-60-SM-RPLF)
+Added Pin To Net: NetName=VDC Pin=GDT2-1
+Added Pin To Net: NetName=ETH Pin=GDT2-2
+Added Pin To Net: NetName=PGND Pin=GDT2-3
+Added Member To Class: ClassName=DC_DC_ISO Member=Component GDT2 2036-60-SM-RPLF

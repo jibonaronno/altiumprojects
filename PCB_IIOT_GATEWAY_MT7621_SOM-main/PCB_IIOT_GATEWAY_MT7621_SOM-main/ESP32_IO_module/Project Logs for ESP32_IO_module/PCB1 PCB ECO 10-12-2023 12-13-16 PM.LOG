@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3.3V_MCU Pin=C7-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C8-1
+Added Pin To Net: NetName=3.3V_MCU Pin=U1-5
+Add Class: Class already exists: Designator

@@ -1,0 +1,66 @@
+Removed Member From Class: ClassName=U_MCU Member=C1
+Removed Member From Class: ClassName=Designator Member=C7
+Removed Member From Class: ClassName=U_RTC Member=C7
+Removed Member From Class: ClassName=U_Power_management Member=C8
+Removed Member From Class: ClassName=U_MCU Member=C10
+Removed Member From Class: ClassName=U_Power_management Member=C15
+Removed Member From Class: ClassName=U_Power_management Member=C16
+Removed Member From Class: ClassName=U_RTC Member=C16
+Removed Member From Class: ClassName=Designator Member=D11
+Removed Member From Class: ClassName=Designator Member=R1
+Removed Member From Class: ClassName=U_MCU Member=R8
+Removed Member From Class: ClassName=U_MCU Member=R10
+Removed Member From Class: ClassName=U_RTC Member=R12
+Removed Member From Class: ClassName=U_MCU Member=R14
+Removed Member From Class: ClassName=Designator Member=R24
+Removed Member From Class: ClassName=Designator Member=R28
+Removed Member From Class: ClassName=Designator Member=R32
+Removed Member From Class: ClassName=Designator Member=R38
+Removed Member From Class: ClassName=Designator Member=R43
+Removed Member From Class: ClassName=U_MCU Member=R43
+Removed Member From Class: ClassName=Designator Member=R44
+Removed Member From Class: ClassName=U_RTC Member=U2
+Removed Member From Class: ClassName=U_MCU Member=U3
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=U_Power_management Member=Component C1 0.1uF
+Added Member To Class: ClassName=U_Power_management Member=Component C2 22uF
+Added Member To Class: ClassName=U_Power_management Member=Component C3 0.1uF
+Added Member To Class: ClassName=U_Power_management Member=Component C5 10nF
+Added Member To Class: ClassName=U_MCU Member=Component C6 10uF
+Added Member To Class: ClassName=Designator Member=Component C11 100pF/16V
+Added Member To Class: ClassName=U_MCU Member=Component C12 10uF
+Added Member To Class: ClassName=U_RTC Member=Component C13 0.1uF
+Added Member To Class: ClassName=U_RTC Member=Component C14 0.1uF
+Added Member To Class: ClassName=Designator Member=Component D2 SMAJ33CA
+Added Member To Class: ClassName=Designator Member=Component D4 SMAJ33CA
+Added Member To Class: ClassName=Top_level Member=Component FID2 fiducial
+Added Member To Class: ClassName=Designator Member=Component IC2 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component IC3 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component IC4 MAX14626ETT+T
+Added Member To Class: ClassName=U_MCU Member=Component Q1 MMBT2222A-G
+Added Member To Class: ClassName=Designator Member=Component R4 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R5 220R
+Added Member To Class: ClassName=Designator Member=Component R7 220R
+Added Member To Class: ClassName=Designator Member=Component R9 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R11 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R13 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R15 220R
+Added Member To Class: ClassName=Designator Member=Component R17 220R
+Added Member To Class: ClassName=Designator Member=Component R18 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R19 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R20 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R21 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R23 167K 0.1%
+Added Member To Class: ClassName=U_MCU Member=Component R25 0R
+Added Member To Class: ClassName=U_MCU Member=Component R26 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R27 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R29 12K
+Added Member To Class: ClassName=U_MCU Member=Component R30 12K
+Added Member To Class: ClassName=U_RTC Member=Component R31 0R
+Added Member To Class: ClassName=U_MCU Member=Component SW1 SPST
+Added Member To Class: ClassName=Designator Member=Component U3 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U5 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U7 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U9 LOC111P
+Added Member To Class: ClassName=U_MCU Member=Component U10 Esp32
+Added Member To Class: ClassName=U_RTC Member=Component U11 DS3231M+TRL

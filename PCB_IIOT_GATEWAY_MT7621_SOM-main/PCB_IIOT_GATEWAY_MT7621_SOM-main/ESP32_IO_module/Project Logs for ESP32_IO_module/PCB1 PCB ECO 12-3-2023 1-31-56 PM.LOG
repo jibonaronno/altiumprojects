@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J9 Old Footprint=SHDR4W50P0X200_1X4_1000X365X550P New Footprint=HDRV4W64P0X254_1X4_1016X248X838P
+Change Component Comment : Designator=J9 Old Comment=53253-0470 New Comment=HTSW-104-07-TM-S
+Change component parameters: Designator = "J9" ("J9"); Footprint = "SHDR4W50P0X200_1X4_1000X365X550P"; UniqueID = "\NYQSWVZI\QYCHOCKY" ("\NYQSWVZI\QYCHOCKY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "HTSW-104-07-TM-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/htsw-104-07-tm-s/samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/htsw-104-07-tm-s/samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.38mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HTSW-104-07-TM-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "200-HTSW10407TMS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/HTSW-104-07-TM-S?qs=Cqqh%252BS766wlYdnkGo%2FtoFw%3D%3D"; VariantName = "[No Variations]"
+Add Class: Class already exists: Designator

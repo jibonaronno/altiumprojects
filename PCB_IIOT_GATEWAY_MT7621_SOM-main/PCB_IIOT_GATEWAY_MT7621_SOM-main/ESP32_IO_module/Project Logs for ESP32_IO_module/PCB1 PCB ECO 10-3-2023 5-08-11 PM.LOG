@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetD9_2 Pin=J1-1
+Removed Pin From Net: NetName=NetD10_2 Pin=J1-3
+Removed Pin From Net: NetName=NetD11_2 Pin=J1-5
+Removed Pin From Net: NetName=NetD12_2 Pin=J1-7
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Added Component: Designator=J1(691322110008)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691322110008/Wurth+Electronics+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691322110008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691322110008/Wurth+Electronics+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(691322110008)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691322110008/Wurth+Electronics+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691322110008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691322110008/Wurth+Electronics+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DI0 Pin=J1-2
+Added Pin To Net: NetName=DI1 Pin=J1-4
+Added Pin To Net: NetName=DI2 Pin=J1-6
+Added Pin To Net: NetName=DI3 Pin=J1-8
+Added Pin To Net: NetName=DI4 Pin=J2-2
+Added Pin To Net: NetName=DI5 Pin=J2-4
+Added Pin To Net: NetName=DI6 Pin=J2-6
+Added Pin To Net: NetName=DI7 Pin=J2-8
+Added Pin To Net: NetName=NetD9_2 Pin=J3-2
+Added Pin To Net: NetName=NetD10_2 Pin=J3-4
+Added Pin To Net: NetName=NetD11_2 Pin=J3-6
+Added Pin To Net: NetName=NetD12_2 Pin=J3-8
+Added Pin To Net: NetName=+12V Pin=J1-1
+Added Pin To Net: NetName=+12V Pin=J1-3
+Added Pin To Net: NetName=+12V Pin=J1-5
+Added Pin To Net: NetName=+12V Pin=J1-7
+Added Pin To Net: NetName=+12V Pin=J2-1
+Added Pin To Net: NetName=+12V Pin=J2-3
+Added Pin To Net: NetName=+12V Pin=J2-5
+Added Pin To Net: NetName=+12V Pin=J2-7
+Added Pin To Net: NetName=+12V Pin=J3-1
+Added Pin To Net: NetName=+12V Pin=J3-3
+Added Pin To Net: NetName=+12V Pin=J3-5
+Added Pin To Net: NetName=+12V Pin=J3-7
+Added Net: Name=+12V
+Added Member To Class: ClassName=Designator Member=Component J2 691322110008
+Added Member To Class: ClassName=Designator Member=Component J3 691322110008

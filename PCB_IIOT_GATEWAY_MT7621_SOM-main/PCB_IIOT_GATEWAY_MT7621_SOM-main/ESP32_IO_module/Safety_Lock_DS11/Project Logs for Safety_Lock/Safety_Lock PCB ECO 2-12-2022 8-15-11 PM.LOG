@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VDD Pin=R20-1
+Removed Pin From Net: NetName=VDD Pin=R21-1
+Removed Pin From Net: NetName=VDD Pin=R22-1
+Removed Member From Class: ClassName=U_MCU Member=R21
+Removed Member From Class: ClassName=U_Connectors Member=R25
+Removed Member From Class: ClassName=U_MCU Member=R25
+Removed Member From Class: ClassName=U_Connectors Member=R28
+Removed Member From Class: ClassName=U_Connectors Member=R29
+Removed Member From Class: ClassName=U_Connectors Member=R32
+Removed Member From Class: ClassName=U_MCU Member=R32
+Added Pin To Net: NetName=NetJ3_10 Pin=R20-1
+Added Pin To Net: NetName=NetJ3_10 Pin=R21-1
+Added Pin To Net: NetName=NetJ3_10 Pin=R22-1
+Added Member To Class: ClassName=U_MCU Member=Component R11 NC
+Added Member To Class: ClassName=U_MCU Member=Component R12 0R
+Added Member To Class: ClassName=U_MCU Member=Component R13 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R15 0R
+Added Member To Class: ClassName=U_MCU Member=Component R16 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R17 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R18 NC
+Added Member To Class: ClassName=U_Connectors Member=Component R19 NC
+Added Member To Class: ClassName=U_Connectors Member=Component R20 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R22 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R23 0R
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R24 100K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R26 1K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R27 1K

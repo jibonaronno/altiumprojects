@@ -1,0 +1,145 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C3-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C4-1
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-3
+Removed Member From Class: ClassName=Designator Member=C23
+Removed Member From Class: ClassName=Designator Member=C23
+Removed Member From Class: ClassName=Designator Member=C23
+Removed Member From Class: ClassName=Designator Member=C23
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Top_level Member=C23
+Removed Member From Class: ClassName=Designator Member=C24
+Removed Member From Class: ClassName=Designator Member=C24
+Removed Member From Class: ClassName=Designator Member=C24
+Removed Member From Class: ClassName=Designator Member=C24
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=Top_level Member=C24
+Removed Member From Class: ClassName=Top_level Member=D3
+Removed Member From Class: ClassName=Top_level Member=J5
+Removed Member From Class: ClassName=Designator Member=U1
+Remove Class Member: Failed to remove class member
+Change Component Designator: OldDesignator=J2 NewDesignator=J5
+Change Component Designator: OldDesignator=J3 NewDesignator=J6
+Change Component Designator: OldDesignator=J4 NewDesignator=J7
+Change Component Designator: OldDesignator=J5 NewDesignator=J8
+Change Component Designator: OldDesignator=J6 NewDesignator=J9
+Added Component: Designator=J2(CON_HDR1x2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=J3(TE_1-1123723-2)
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "3.96 mm[.156 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A111830-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1-1123723-2/A111830-ND/686925?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-1123723-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1123723-2/TE%20Connectivity%20AMP%20Connectors/view-part/231687/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1-1123723-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(TE_1-1123723-2)
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "3.96 mm[.156 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A111830-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1-1123723-2/A111830-ND/686925?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-1123723-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1123723-2/TE%20Connectivity%20AMP%20Connectors/view-part/231687/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1-1123723-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetC1_1 Pin=J3-1
+Added Pin To Net: NetName=+V_EXT Pin=J4-1
+Added Pin To Net: NetName=GND0 Pin=J4-2
+Change Net Name : Old Net Name=GND_IN New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=NetJ9_1
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=NetJ9_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=J2-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-3
+Added Net: Name=NetC3_1
+Added Member To Class: ClassName=Top_level Member=Component C1 EDH476M100A9PAA
+Added Member To Class: ClassName=Top_level Member=Component C2 4.7µF ±10%, 100V X7R
+Added Member To Class: ClassName=Designator Member=Component C3 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C4 22uF
+Added Member To Class: ClassName=Designator Member=Component C5 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C6 T493X227K010BH6420_220uF
+Added Member To Class: ClassName=Designator Member=Component C7 10nF
+Added Member To Class: ClassName=Designator Member=Component C8 10uF
+Added Member To Class: ClassName=Designator Member=Component C9 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C10 10uF
+Added Member To Class: ClassName=Designator Member=Component C11 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C12 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C13 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C14 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C15 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C16 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C17 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C18 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C19 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C20 2.2nF/50V
+Added Member To Class: ClassName=Designator Member=Component C21 100pF/16V
+Added Member To Class: ClassName=Designator Member=Component C22 100pF/16V
+Added Member To Class: ClassName=Top_level Member=Component D1 STPST5H100AF
+Added Member To Class: ClassName=Designator Member=Component D2 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D4 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D6 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D8 SM15T33CA
+Added Member To Class: ClassName=Designator Member=Component D10 SMAJ33CA
+Added Member To Class: ClassName=Designator Member=Component D12 SMAJ33CA
+Added Member To Class: ClassName=Designator Member=Component D14 ZXMS6004FFQTA
+Added Member To Class: ClassName=Designator Member=Component D15 ZXMS6004FFQTA
+Added Member To Class: ClassName=Designator Member=Component D16 ZXMS6004FFQTA
+Added Member To Class: ClassName=Designator Member=Component D17 ZXMS6004FFQTA
+Added Member To Class: ClassName=Top_level Member=Component J1 1843790
+Added Member To Class: ClassName=Top_level Member=Component J2 455-2247-ND
+Added Member To Class: ClassName=Designator Member=Component J3 1-1123723-2
+Added Member To Class: ClassName=Designator Member=Component J4 1-1123723-2
+Added Member To Class: ClassName=Designator Member=Component J7 691322110008
+Added Member To Class: ClassName=Designator Member=Component J8 691322110008
+Added Member To Class: ClassName=Designator Member=Component J9 53253-0470
+Added Member To Class: ClassName=Designator Member=Component Q3 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component Q4 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component Q5 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component Q6 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component Q7 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component Q8 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component Q9 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component Q10 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component Q11 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component Q12 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component Q13 BC807-40,215
+Added Member To Class: ClassName=Designator Member=Component Q14 TLX9291A_GBTPL,F
+Added Member To Class: ClassName=Designator Member=Component R45 10K
+Added Member To Class: ClassName=Designator Member=Component R46 1K
+Added Member To Class: ClassName=Designator Member=Component R47 1K
+Added Member To Class: ClassName=Designator Member=Component R48 10K
+Added Member To Class: ClassName=Designator Member=Component R49 10K
+Added Member To Class: ClassName=Designator Member=Component R50 1K
+Added Member To Class: ClassName=Designator Member=Component R51 1K
+Added Member To Class: ClassName=Designator Member=Component R52 10K
+Added Member To Class: ClassName=Designator Member=Component R53 10K
+Added Member To Class: ClassName=Designator Member=Component R54 1K
+Added Member To Class: ClassName=Designator Member=Component R55 1K
+Added Member To Class: ClassName=Designator Member=Component R56 10K
+Added Member To Class: ClassName=Designator Member=Component R57 10K
+Added Member To Class: ClassName=Designator Member=Component R58 1K
+Added Member To Class: ClassName=Designator Member=Component R59 1K
+Added Member To Class: ClassName=Designator Member=Component R60 10K
+Added Member To Class: ClassName=Designator Member=Component R61 10K
+Added Member To Class: ClassName=Designator Member=Component R62 1K
+Added Member To Class: ClassName=Designator Member=Component R63 10K
+Added Member To Class: ClassName=Designator Member=Component R64 10K
+Added Member To Class: ClassName=Designator Member=Component R65 10K
+Added Member To Class: ClassName=Designator Member=Component R66 1K
+Added Member To Class: ClassName=Designator Member=Component R67 10K
+Added Member To Class: ClassName=Designator Member=Component R68 10K

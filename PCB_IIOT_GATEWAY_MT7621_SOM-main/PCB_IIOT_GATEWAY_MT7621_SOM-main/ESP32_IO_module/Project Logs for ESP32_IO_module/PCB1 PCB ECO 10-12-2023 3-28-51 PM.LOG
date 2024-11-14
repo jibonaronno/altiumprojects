@@ -1,0 +1,79 @@
+Removed Member From Class: ClassName=Designator Member=IC3
+Removed Member From Class: ClassName=Designator Member=IC5
+Removed Member From Class: ClassName=Designator Member=IC5
+Removed Member From Class: ClassName=Designator Member=R10
+Removed Member From Class: ClassName=Designator Member=R10
+Removed Member From Class: ClassName=Designator Member=R43
+Removed Member From Class: ClassName=Designator Member=R43
+Removed Member From Class: ClassName=Designator Member=R43
+Removed Member From Class: ClassName=Designator Member=R47
+Removed Member From Class: ClassName=Designator Member=R48
+Removed Member From Class: ClassName=Designator Member=R48
+Removed Member From Class: ClassName=Designator Member=R67
+Removed Member From Class: ClassName=Designator Member=R68
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C6 0.1uF
+Added Member To Class: ClassName=Designator Member=Component C7 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C8 10uF
+Added Member To Class: ClassName=Designator Member=Component IC2 LMR54406DBVR
+Added Member To Class: ClassName=Designator Member=Component IC3 STWD100NYWY3F
+Added Member To Class: ClassName=Designator Member=Component IC4 SI8380P-IU
+Added Member To Class: ClassName=Designator Member=Component IC5 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component IC6 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component R1 118K
+Added Member To Class: ClassName=Designator Member=Component R2 22.1K
+Added Member To Class: ClassName=Designator Member=Component R3 4.7K
+Added Member To Class: ClassName=Designator Member=Component R4 1K
+Added Member To Class: ClassName=Designator Member=Component R5 10K
+Added Member To Class: ClassName=Designator Member=Component R6 4.7K
+Added Member To Class: ClassName=Designator Member=Component R7 12K
+Added Member To Class: ClassName=Designator Member=Component R8 12K
+Added Member To Class: ClassName=Designator Member=Component R9 6.2K
+Added Member To Class: ClassName=Designator Member=Component R10 6.2K
+Added Member To Class: ClassName=Designator Member=Component R11 2.4K
+Added Member To Class: ClassName=Designator Member=Component R12 2.4K
+Added Member To Class: ClassName=Designator Member=Component R13 6.2K
+Added Member To Class: ClassName=Designator Member=Component R14 6.2K
+Added Member To Class: ClassName=Designator Member=Component R15 2.4K
+Added Member To Class: ClassName=Designator Member=Component R16 2.4K
+Added Member To Class: ClassName=Designator Member=Component R17 6.2K
+Added Member To Class: ClassName=Designator Member=Component R18 6.2K
+Added Member To Class: ClassName=Designator Member=Component R19 2.4K
+Added Member To Class: ClassName=Designator Member=Component R20 2.4K
+Added Member To Class: ClassName=Designator Member=Component R21 6.2K
+Added Member To Class: ClassName=Designator Member=Component R22 6.2K
+Added Member To Class: ClassName=Designator Member=Component R23 2.4K
+Added Member To Class: ClassName=Designator Member=Component R24 2.4K
+Added Member To Class: ClassName=Designator Member=Component R25 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R26 220R
+Added Member To Class: ClassName=Designator Member=Component R27 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R28 220R
+Added Member To Class: ClassName=Designator Member=Component R29 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R30 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R31 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R32 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R33 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R34 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R35 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R36 220R
+Added Member To Class: ClassName=Designator Member=Component R37 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R38 220R
+Added Member To Class: ClassName=Designator Member=Component R39 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R40 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R41 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R42 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R44 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R45 10K
+Added Member To Class: ClassName=Designator Member=Component R46 1K
+Added Member To Class: ClassName=Designator Member=Component R50 1K
+Added Member To Class: ClassName=Designator Member=Component R53 10K
+Added Member To Class: ClassName=Designator Member=Component R54 1K
+Added Member To Class: ClassName=Designator Member=Component R55 1K
+Added Member To Class: ClassName=Designator Member=Component R57 10K
+Added Member To Class: ClassName=Designator Member=Component R58 1K
+Added Member To Class: ClassName=Designator Member=Component R60 10K
+Added Member To Class: ClassName=Designator Member=Component U1 Esp32
+Added Member To Class: ClassName=Designator Member=Component U3 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U5 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U7 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U9 LOC111P

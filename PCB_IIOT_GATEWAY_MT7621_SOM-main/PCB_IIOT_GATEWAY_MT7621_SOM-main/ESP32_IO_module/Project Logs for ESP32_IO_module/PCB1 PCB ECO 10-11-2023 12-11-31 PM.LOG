@@ -1,0 +1,7 @@
+Added Component: Designator=GDT1(2036-60-SM-RPLF)
+Added Pin To Net: NetName=NetC1_1 Pin=GDT1-1
+Added Pin To Net: NetName=ETH Pin=GDT1-2
+Added Pin To Net: NetName=NetC1_2 Pin=GDT1-3
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Top_level Member=Component GDT1 2036-60-SM-RPLF

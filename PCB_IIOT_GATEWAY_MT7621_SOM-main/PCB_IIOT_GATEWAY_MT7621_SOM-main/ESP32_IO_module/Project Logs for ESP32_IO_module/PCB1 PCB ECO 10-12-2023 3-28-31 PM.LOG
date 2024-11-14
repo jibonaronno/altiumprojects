@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=+5V Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Member From Class: ClassName=Designator Member=IC3
+Removed Member From Class: ClassName=Designator Member=IC5
+Removed Member From Class: ClassName=Designator Member=R10
+Removed Member From Class: ClassName=Designator Member=R10
+Removed Member From Class: ClassName=Designator Member=R43
+Removed Member From Class: ClassName=Designator Member=R43
+Removed Member From Class: ClassName=Designator Member=R43
+Removed Member From Class: ClassName=Designator Member=R48
+Removed Member From Class: ClassName=Designator Member=R48
+Removed Member From Class: ClassName=Designator Member=R68
+Change Component Footprint: Designator=C8 Old Footprint=0603-C New Footprint=0805_C
+Change Component Comment : Designator=C8 Old Comment=0.1uF New Comment=10uF
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0603-C"; UniqueID = "\TKHTULBA\INRBUHUH" ("\TKHTULBA\INRBUHUH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LD03ZD475MAB2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(0805_C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LD03ZD475MAB2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC6_2
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component C7 2.2uF
+Added Member To Class: ClassName=Designator Member=Component C8 10uF
+Added Member To Class: ClassName=Designator Member=Component IC2 LMR54406DBVR
+Added Member To Class: ClassName=Designator Member=Component IC4 SI8380P-IU
+Added Member To Class: ClassName=Designator Member=Component IC6 MAX14626ETT+T
+Added Member To Class: ClassName=Designator Member=Component R1 118K
+Added Member To Class: ClassName=Designator Member=Component R2 22.1K
+Added Member To Class: ClassName=Designator Member=Component R3 4.7K
+Added Member To Class: ClassName=Designator Member=Component R4 1K
+Added Member To Class: ClassName=Designator Member=Component R5 10K
+Added Member To Class: ClassName=Designator Member=Component R6 4.7K
+Added Member To Class: ClassName=Designator Member=Component R7 12K
+Added Member To Class: ClassName=Designator Member=Component R8 12K
+Added Member To Class: ClassName=Designator Member=Component R9 6.2K
+Added Member To Class: ClassName=Designator Member=Component R11 2.4K
+Added Member To Class: ClassName=Designator Member=Component R12 2.4K
+Added Member To Class: ClassName=Designator Member=Component R13 6.2K
+Added Member To Class: ClassName=Designator Member=Component R14 6.2K
+Added Member To Class: ClassName=Designator Member=Component R15 2.4K
+Added Member To Class: ClassName=Designator Member=Component R16 2.4K
+Added Member To Class: ClassName=Designator Member=Component R17 6.2K
+Added Member To Class: ClassName=Designator Member=Component R18 6.2K
+Added Member To Class: ClassName=Designator Member=Component R19 2.4K
+Added Member To Class: ClassName=Designator Member=Component R20 2.4K
+Added Member To Class: ClassName=Designator Member=Component R21 6.2K
+Added Member To Class: ClassName=Designator Member=Component R22 6.2K
+Added Member To Class: ClassName=Designator Member=Component R23 2.4K
+Added Member To Class: ClassName=Designator Member=Component R24 2.4K
+Added Member To Class: ClassName=Designator Member=Component R25 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R26 220R
+Added Member To Class: ClassName=Designator Member=Component R27 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R28 220R
+Added Member To Class: ClassName=Designator Member=Component R29 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R30 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R31 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R32 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R33 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R34 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R35 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R36 220R
+Added Member To Class: ClassName=Designator Member=Component R37 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R38 220R
+Added Member To Class: ClassName=Designator Member=Component R39 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R40 55.6K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R41 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R42 499R 0.1%
+Added Member To Class: ClassName=Designator Member=Component R44 167K 0.1%
+Added Member To Class: ClassName=Designator Member=Component R45 10K
+Added Member To Class: ClassName=Designator Member=Component R46 1K
+Added Member To Class: ClassName=Designator Member=Component R50 1K
+Added Member To Class: ClassName=Designator Member=Component R53 10K
+Added Member To Class: ClassName=Designator Member=Component R54 1K
+Added Member To Class: ClassName=Designator Member=Component R55 1K
+Added Member To Class: ClassName=Designator Member=Component R57 10K
+Added Member To Class: ClassName=Designator Member=Component R58 1K
+Added Member To Class: ClassName=Designator Member=Component R60 10K
+Added Member To Class: ClassName=Designator Member=Component U1 Esp32
+Added Member To Class: ClassName=Designator Member=Component U3 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U5 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U7 LOC111P
+Added Member To Class: ClassName=Designator Member=Component U9 LOC111P

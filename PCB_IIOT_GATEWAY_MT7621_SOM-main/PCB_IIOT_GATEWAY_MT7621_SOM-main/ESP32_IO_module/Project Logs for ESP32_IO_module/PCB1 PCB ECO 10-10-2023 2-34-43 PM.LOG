@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=+V_EXT Pin=J6-1
+Removed Pin From Net: NetName=DI4 Pin=J6-2
+Removed Pin From Net: NetName=+V_EXT Pin=J6-3
+Removed Pin From Net: NetName=DI5 Pin=J6-4
+Removed Pin From Net: NetName=+V_EXT Pin=J6-5
+Removed Pin From Net: NetName=DI6 Pin=J6-6
+Removed Pin From Net: NetName=+V_EXT Pin=J6-7
+Removed Pin From Net: NetName=DI7 Pin=J6-8
+Removed Member From Class: ClassName=Designator Member=J9
+Change Component Footprint: Designator=J5 Old Footprint=691322110008 New Footprint=1844359
+Change Component Comment : Designator=J5 Old Comment=691322110008 New Comment=1844359
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change component parameters: Designator = "J5" ("J5"); Footprint = "691322110008"; UniqueID = "\NYQSWVZI\WSXEBXZN" ("\NYQSWVZI\WSXEBXZN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "1844359"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1844359/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/gb/produkte/1844359"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1844359"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "651-1844359"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1844359?qs=p6trItWzfMVaCsKEKQREhQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+V_EXT Pin=J5-9
+Added Pin To Net: NetName=DI4 Pin=J5-10
+Added Pin To Net: NetName=DI5 Pin=J5-11
+Added Pin To Net: NetName=+V_EXT Pin=J5-12
+Added Pin To Net: NetName=DI6 Pin=J5-13
+Added Pin To Net: NetName=+V_EXT Pin=J5-14
+Added Pin To Net: NetName=DI7 Pin=J5-15
+Added Pin To Net: NetName=+V_EXT Pin=J5-16
+Change Net Name : Old Net Name=NetJ9_1 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetJ9_2 New Net Name=NetJ8_2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

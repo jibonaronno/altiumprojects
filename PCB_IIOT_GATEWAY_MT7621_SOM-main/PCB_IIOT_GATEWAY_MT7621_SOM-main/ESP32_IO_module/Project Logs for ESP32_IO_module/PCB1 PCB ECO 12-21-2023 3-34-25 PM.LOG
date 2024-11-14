@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=uC_DO0 Pin=U2-29
+Removed Pin From Net: NetName=uC_DO1 Pin=U2-30
+Removed Pin From Net: NetName=uC_DO2 Pin=U2-31
+Removed Pin From Net: NetName=uC_DO3 Pin=U2-33
+Removed Pin From Net: NetName=NetR4_2 Pin=U2-36
+Added Pin To Net: NetName=uC_DO0 Pin=U2-27
+Added Pin To Net: NetName=uC_DO1 Pin=U2-28
+Added Pin To Net: NetName=uC_DO2 Pin=U2-29
+Added Pin To Net: NetName=uC_DO3 Pin=U2-30
+Added Pin To Net: NetName=NetR4_2 Pin=U2-31
+Added Pin To Net: NetName=SCL Pin=J10-2
+Added Pin To Net: NetName=SCL Pin=U2-36
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J10-1
+Added Pin To Net: NetName=SDA Pin=U2-33
+Added Net: Name=SDA
+Add Class: Class already exists: Designator

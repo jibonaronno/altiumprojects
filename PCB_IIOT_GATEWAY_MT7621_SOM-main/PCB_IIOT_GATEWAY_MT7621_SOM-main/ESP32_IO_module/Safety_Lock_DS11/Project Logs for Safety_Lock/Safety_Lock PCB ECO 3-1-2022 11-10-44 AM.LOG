@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=U_MCU Member=R31
+Removed Member From Class: ClassName=U_Connectors Member=R36
+Removed Member From Class: ClassName=U_MCU Member=R36
+Removed Member From Class: ClassName=U_Connectors Member=R37
+Removed Member From Class: ClassName=U_Connectors Member=R38
+Added Member To Class: ClassName=U_MCU Member=Component R23 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R24 4.7K
+Added Member To Class: ClassName=U_Connectors Member=Component R27 NC
+Added Member To Class: ClassName=U_Connectors Member=Component R28 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R29 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R30 10K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R32 100K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R33 100K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R34 1K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R35 1K

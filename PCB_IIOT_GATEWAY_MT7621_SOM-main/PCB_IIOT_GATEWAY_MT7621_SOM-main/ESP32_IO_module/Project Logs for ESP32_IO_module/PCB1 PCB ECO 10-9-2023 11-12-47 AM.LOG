@@ -1,0 +1,12 @@
+Add Component: Footprint Not Found 691322110008
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-4
+Add Pin To Net: Unknown Pin: Pin J4-5
+Add Pin To Net: Unknown Pin: Pin J4-6
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8
+Change Net Name : Old Net Name=+12V New Net Name=+24V
+Add Class: Class already exists: Designator
+Add Class Member: Failed to add class member : Component J4 691322110008

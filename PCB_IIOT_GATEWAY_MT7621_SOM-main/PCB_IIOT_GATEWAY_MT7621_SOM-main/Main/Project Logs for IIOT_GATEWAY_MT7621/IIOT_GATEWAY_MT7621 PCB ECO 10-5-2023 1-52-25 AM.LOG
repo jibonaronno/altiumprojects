@@ -1,0 +1,13 @@
+Added Component: Designator=J6(GCT_SIM7100-6-1-15-00-A_REVC)
+Added Pin To Net: NetName=VSIM Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=SIM_RST Pin=J6-3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=SIM_CLK Pin=J6-5
+Added Pin To Net: NetName=SIM_DATA Pin=J6-6
+Added Pin To Net: NetName=SIM_P Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-8
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=GND Pin=J6-10
+Added Pin To Net: NetName=GND Pin=J6-11
+Added Member To Class: ClassName=PCIe Slot Member=Component J6 SIM7100-6-1-15-00-A

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3.3VD Pin=L1-1
+Removed Member From Class: ClassName=PCIe Slot Member=L1
+Added Pin To Net: NetName=3.3VD Pin=C13-1
+Added Pin To Net: NetName=3.3VD Pin=C14-1
+Added Pin To Net: NetName=3.3VD Pin=U3-39
+Added Pin To Net: NetName=3.3VD Pin=U3-41

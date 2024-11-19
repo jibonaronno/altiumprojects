@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R2 Old Footprint=RC0402 New Footprint=RC0402N_YAG
+Change Component Footprint: Designator=R3 Old Footprint=RC0402 New Footprint=RC0402N_YAG
+Change Component Footprint: Designator=R4 Old Footprint=RC0402 New Footprint=RC0402N_YAG
+Change Component Footprint: Designator=R5 Old Footprint=RC0402 New Footprint=RC0402N_YAG
+Change Net Name : Old Net Name=NetC2_2 New Net Name=VBUS
+Change Net Name : Old Net Name=NetD1_2 New Net Name=VIN

@@ -1,0 +1,30 @@
+Added Net: Name=DIR1
+Added Net: Name=GND_IO1
+Added Net: Name=MGND1
+Added Net: Name=MS1_1
+Added Net: Name=MS2_1
+Added Net: Name=OA1_1
+Added Net: Name=OA2_1
+Added Net: Name=OB1_1
+Added Net: Name=OB2_1
+Added Net: Name=PDN_UART_A1
+Added Net: Name=PDN_UART_B1
+Added Pin To Net: NetName=SPI1_MISO Pin=U3-28
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=U3-29
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_NSS Pin=U3-26
+Added Net: Name=SPI1_NSS
+Added Pin To Net: NetName=SPI1_SCK Pin=U3-27
+Added Net: Name=SPI1_SCK
+Added Pin To Net: NetName=SPI4_MISO Pin=U3-4
+Added Net: Name=SPI4_MISO
+Added Pin To Net: NetName=SPI4_MOSI Pin=U3-5
+Added Net: Name=SPI4_MOSI
+Added Pin To Net: NetName=SPI4_SCK Pin=U3-1
+Added Net: Name=SPI4_SCK
+Added Net: Name=STEP1
+Added Net: Name=TMC_CLK1
+Added Net: Name=TMC_EN2
+Added Net: Name=VIO1
+Added Net: Name=VM1

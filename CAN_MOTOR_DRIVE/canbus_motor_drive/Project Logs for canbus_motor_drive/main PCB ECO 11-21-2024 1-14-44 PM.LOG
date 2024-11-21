@@ -1,0 +1,50 @@
+Added Component: Designator=J2(HEADER_8_FEM)
+Add component (AddParameter): Name = "Category"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "30Gender"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300811821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "5495OrientationType"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.41, 10=0.39, 100=0.375, 250=0.359, 500=0.345 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-61300811821-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J3(HEADER_8_FEM)
+Add component (AddParameter): Name = "Category"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "30Gender"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300811821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "5495OrientationType"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.41, 10=0.39, 100=0.375, 250=0.359, 500=0.345 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-61300811821-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_IO1 Pin=J2-1
+Added Pin To Net: NetName=VIO1 Pin=J2-2
+Added Pin To Net: NetName=OB2_1 Pin=J2-3
+Added Pin To Net: NetName=OB1_1 Pin=J2-4
+Added Pin To Net: NetName=OA1_1 Pin=J2-5
+Added Pin To Net: NetName=OA2_1 Pin=J2-6
+Added Pin To Net: NetName=MGND1 Pin=J2-7
+Added Pin To Net: NetName=VM1 Pin=J2-8
+Added Pin To Net: NetName=DIR1 Pin=J3-1
+Added Pin To Net: NetName=STEP1 Pin=J3-2
+Added Pin To Net: NetName=TMC_CLK1 Pin=J3-3
+Added Pin To Net: NetName=PDN_UART_A1 Pin=J3-4
+Added Pin To Net: NetName=PDN_UART_B1 Pin=J3-5
+Added Pin To Net: NetName=MS2_1 Pin=J3-6
+Added Pin To Net: NetName=MS1_1 Pin=J3-7
+Added Pin To Net: NetName=TMC_EN2 Pin=J3-8

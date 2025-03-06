@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NJUOPCNA
 
 [Document9]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=BMM280.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

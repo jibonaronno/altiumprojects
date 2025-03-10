@@ -1,0 +1,35 @@
+Importer Log Report
+Project : SCH-46441_A1.PrjPcb
+
+Section : Document - C:\Users\jibon\Downloads\X-815LPD4-CPUCY-DF-SCH\X-815LPD4-CPUCY-DESIGNFILES\SOM Board\SCH-46441_A1\SCH-46441_A1.DSN
+
+    Section : Importing Sheet - Page04 CPU PWR.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page05 LPDDR4.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page06 CPU IO.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page07 CPU PHY.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page08 CPU MISC.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page09 eMMC_QSPI.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page10 WIFI&Bluetooth.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page11 BOOT_CFG.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page12 PMIC PCA9450B.SchDoc
+    EndSection
+
+    Section : Importing Sheet - Page13 SOM Interface.SchDoc
+    EndSection
+EndSection

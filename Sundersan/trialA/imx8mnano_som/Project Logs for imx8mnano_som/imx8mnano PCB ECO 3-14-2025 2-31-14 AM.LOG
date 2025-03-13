@@ -1,0 +1,20 @@
+Added Component: Designator=U1(MIMX8MN5DVPIZAA_NXP)
+Add component (AddParameter): Name = "Category"; Value = "Microprocessors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MIMX8MN5DVPIZAA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=24.94, 10=20.041, 25=18.818, 168=17.09119, 336=16.65952, 504=16.44345 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "568-MIMX8MN5DVPIZAA-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TFBGA200_10X14p5X1p1_FW_MRN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Micron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Memory"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U1-N6
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U1-N7
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-F10
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-F12
+Added Member To Class: ClassName=imx8mnano_power Member=Component U1 MIMX8MN5DVPIZAA
+Added Member To Class: ClassName=LPDDR4 Member=Component U2 MT53E256M16D1FW-046 AIT:B
+Added Room: Name=LPDDR4

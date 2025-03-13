@@ -1,0 +1,4 @@
+Added Member To Class: ClassName=imx8mnano_power Member=Component U1 MIMX8MN5DVPIZAA
+Change Room Name: Old Name=BGA_IMX New Name=LPDDR4
+Change Room Scope: Old Scope=False New Scope=InComponentClass('LPDDR4')
+Added Room: Name=imx8mnano_power

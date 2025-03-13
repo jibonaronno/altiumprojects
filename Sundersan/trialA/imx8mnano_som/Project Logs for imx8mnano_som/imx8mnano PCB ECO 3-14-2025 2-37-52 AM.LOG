@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=Room Definition1 New Net Name=imx8mnano_power
+Change Room Name: Old Name=RoomDefinition New Name=LPDDR4
+Change Room Scope: Old Scope=InComponentClass('Room Definition1') New Scope=InComponentClass('LPDDR4')

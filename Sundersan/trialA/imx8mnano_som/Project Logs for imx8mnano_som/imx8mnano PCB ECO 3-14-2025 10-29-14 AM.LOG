@@ -1,0 +1,59 @@
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-AA3
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-AA5
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-AA8
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-AA10
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-D1
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-D5
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-D8
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-D12
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-F3
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-F5
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-F8
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-H1
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-H5
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-H8
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-H12
+Added Pin To Net: NetName=GND Pin=U2-A3
+Added Pin To Net: NetName=GND Pin=U2-A10
+Added Pin To Net: NetName=GND Pin=U2-AB3
+Added Pin To Net: NetName=GND Pin=U2-AB5
+Added Pin To Net: NetName=GND Pin=U2-AB8
+Added Pin To Net: NetName=GND Pin=U2-AB10
+Added Pin To Net: NetName=GND Pin=U2-D2
+Added Pin To Net: NetName=GND Pin=U2-D4
+Added Pin To Net: NetName=GND Pin=U2-D9
+Added Pin To Net: NetName=GND Pin=U2-D11
+Added Pin To Net: NetName=GND Pin=U2-E1
+Added Pin To Net: NetName=GND Pin=U2-E5
+Added Pin To Net: NetName=GND Pin=U2-E8
+Added Pin To Net: NetName=GND Pin=U2-E12
+Added Net: Name=GND
+Added Pin To Net: NetName=NetU2_A4 Pin=U2-A4
+Added Pin To Net: NetName=NetU2_A4 Pin=U2-A9
+Added Pin To Net: NetName=NetU2_A4 Pin=U2-AB4
+Added Pin To Net: NetName=NetU2_A4 Pin=U2-AB9
+Added Net: Name=NetU2_A4
+Added Pin To Net: NetName=NetU2_B3 Pin=U2-B3
+Added Pin To Net: NetName=NetU2_B3 Pin=U2-B5
+Added Pin To Net: NetName=NetU2_B3 Pin=U2-B8
+Added Net: Name=NetU2_B3
+Added Pin To Net: NetName=NetU2_B12 Pin=U2-B12
+Added Pin To Net: NetName=NetU2_B12 Pin=U2-C1
+Added Net: Name=NetU2_B12
+Added Pin To Net: NetName=NetU2_C5 Pin=U2-C5
+Added Pin To Net: NetName=NetU2_C5 Pin=U2-C8
+Added Pin To Net: NetName=NetU2_C5 Pin=U2-C12
+Added Net: Name=NetU2_C5
+Added Pin To Net: NetName=NetU2_F1 Pin=U2-F1
+Added Pin To Net: NetName=NetU2_F1 Pin=U2-G4
+Added Pin To Net: NetName=NetU2_F1 Pin=U2-G9
+Added Net: Name=NetU2_F1
+Added Pin To Net: NetName=NetU2_G1 Pin=U2-G1
+Added Pin To Net: NetName=NetU2_G1 Pin=U2-G3
+Added Pin To Net: NetName=NetU2_G1 Pin=U2-G5
+Added Pin To Net: NetName=NetU2_G1 Pin=U2-G8
+Added Pin To Net: NetName=NetU2_G1 Pin=U2-G10
+Added Pin To Net: NetName=NetU2_G1 Pin=U2-G12
+Added Net: Name=NetU2_G1
+Added Room: Name=imx8mnano_power
+Added Room: Name=LPDDR4

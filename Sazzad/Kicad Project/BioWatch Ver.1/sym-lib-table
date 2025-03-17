@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "TPD2EUSB30DRTR")(type "KiCad")(uri "C:/Users/Dell/Downloads/BioWatch-20230224T061349Z-001/BioWatch/Design/LIB/TPD2EUSB30DRTR/TPD2EUSB30DRTR.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library_0")(type "KiCad")(uri "C:/Users/Dell/Downloads/BioWatch-20230224T061349Z-001/BioWatch/Design/LIB/66AK12G/New_Library_0.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC1G11DCKR")(type "KiCad")(uri "C:/Users/Dell/Downloads/BioWatch-20230224T061349Z-001/BioWatch/Design/LIB/SN74LVC1G11DCKR/SN74LVC1G11DCKR.kicad_sym")(options "")(descr ""))
+  (lib (name "LM5157")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/lm5157/LM5157.kicad_sym")(options "")(descr ""))
+  (lib (name "FAN5331")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/FAN5331/FAN5331.kicad_sym")(options "")(descr ""))
+  (lib (name "OLED")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/OLED/OLED.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61022")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/TPS61022/TPS61022.kicad_sym")(options "")(descr ""))
+)

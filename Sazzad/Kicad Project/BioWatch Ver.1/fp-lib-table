@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "BGA 98")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/PCB FOOTPRINTS/BGA 98 Pin/BGA 98.pretty")(options "")(descr ""))
+  (lib (name "BGA625")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/PCB FOOTPRINTS/BGA 625/BGA625.pretty")(options "")(descr ""))
+  (lib (name "BGA_625")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/PCB FOOTPRINTS/BGA 625/BGA 625/BGA_625.pretty")(options "")(descr ""))
+  (lib (name "TPS61022")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/TPS61022/TPS61022.pretty")(options "")(descr ""))
+  (lib (name "CSD87330Q3D")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/CSD87330Q3D/CSD87330Q3D.pretty")(options "")(descr ""))
+  (lib (name "SN74AVC1T45DBVR")(type "KiCad")(uri "D:/OFFICE/WORK FILES/SCIONTEQ 2023/KICAD Projects/BioWatch/BioWatch/Design/LIB/LOAD SWITCH/SN74AVC1T45DBVR.pretty")(options "")(descr ""))
+)

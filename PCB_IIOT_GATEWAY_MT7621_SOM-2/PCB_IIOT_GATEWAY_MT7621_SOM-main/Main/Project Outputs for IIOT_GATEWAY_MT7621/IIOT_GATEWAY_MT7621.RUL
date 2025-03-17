@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\thefa\Documents\GitHub\PCB_IIOT_GATEWAY_MT7621_SOM\Main\IIOT_GATEWAY_MT7621.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_RS485|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_NETC43_1_L02_P003|Scope=Board|Minimum=40.00
+RuleKind=Clearance|RuleName=Clearance_1_DC_DC|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_DC_DC|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=GND to CHGND_GE_A poly|Scope=Board|Minimum=40.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

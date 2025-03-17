@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=+5V_USB NewDesignator=TB1
+Change Component Designator: OldDesignator=GND NewDesignator=TB3
+Change Component Designator: OldDesignator=PWR NewDesignator=TB2

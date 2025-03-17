@@ -1,0 +1,2 @@
+DC_Motor=OUT2,OUT1
+Motor_Driver=IN1,IN2,nSLEEP

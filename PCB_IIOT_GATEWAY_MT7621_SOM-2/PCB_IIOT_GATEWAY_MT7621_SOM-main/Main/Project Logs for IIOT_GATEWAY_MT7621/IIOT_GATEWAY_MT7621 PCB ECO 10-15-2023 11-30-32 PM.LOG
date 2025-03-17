@@ -1,0 +1,8 @@
+Added Component: Designator=FD1(FD)
+Added Component: Designator=FD2(FD)
+Added Component: Designator=FD3(FD)
+Added Component: Designator=FD4(FD)
+Added Member To Class: ClassName=LED_IO Member=Component FD1 Fiducial
+Added Member To Class: ClassName=LED_IO Member=Component FD2 Fiducial
+Added Member To Class: ClassName=LED_IO Member=Component FD3 Fiducial
+Added Member To Class: ClassName=LED_IO Member=Component FD4 Fiducial

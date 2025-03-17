@@ -1,0 +1,3 @@
+Change Component Comment : Designator=IC12 Old Comment=PT7M7811STBEX_1 New Comment=APX811-29UG-7
+Change component parameters: Designator = "IC12" ("IC12"); Footprint = "SOT143"; UniqueID = "\NRWJYGQT" ("\NRWJYGQT")
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"

@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=U_MCU Member=R31
+Removed Member From Class: ClassName=U_Connectors Member=R38
+Removed Member From Class: ClassName=U_MCU Member=R38
+Removed Member From Class: ClassName=U_Connectors Member=R41
+Added Member To Class: ClassName=U_MCU Member=Component R18 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R19 NC
+Added Member To Class: ClassName=U_MCU Member=Component R20 NC
+Added Member To Class: ClassName=U_MCU Member=Component R22 220R
+Added Member To Class: ClassName=U_MCU Member=Component R23 12k
+Added Member To Class: ClassName=U_MCU Member=Component R24 100R
+Added Member To Class: ClassName=U_MCU Member=Component R26 4.7K
+Added Member To Class: ClassName=U_MCU Member=Component R27 NC
+Added Member To Class: ClassName=U_Connectors Member=Component R29 NC
+Added Member To Class: ClassName=U_Connectors Member=Component R30 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R32 10K
+Added Member To Class: ClassName=U_Connectors Member=Component R33 0R
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R34 100K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R35 100K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R36 1K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R37 1K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R39 10K
+Added Member To Class: ClassName=U_FingerPrint_TS Member=Component R40 1K
+Added Room: Name=Top_level
+Added Room: Name=U_Connectors
+Added Room: Name=U_FingerPrint_TS
+Added Room: Name=U_MCU
+Added Room: Name=U_Motor_Driver
+Added Room: Name=U_Power_management

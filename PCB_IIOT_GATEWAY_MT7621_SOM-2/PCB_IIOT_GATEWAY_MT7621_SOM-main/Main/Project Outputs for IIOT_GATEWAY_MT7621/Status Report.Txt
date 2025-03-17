@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IIOT_GATEWAY_MT7621.PrjPcb]
+   Generated File[IIOT_GATEWAY_MT7621-RoundHoles.TXT]
+   Generated File[IIOT_GATEWAY_MT7621-SlotHoles.TXT]
+   Generated File[IIOT_GATEWAY_MT7621.LDP]
+   Generated File[IIOT_GATEWAY_MT7621.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:35:31 PM On 12/19/2023

@@ -1,4 +1,6 @@
 Record=TopLevelDocument|FileName=01_block_digram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_block_digram.SchDoc|FileName=eMMC_QSPI.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01_block_digram.SchDoc|FileName=imx8mnano_B.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=01_block_digram.SchDoc|FileName=imx8mnano_power.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=01_block_digram.SchDoc|FileName=LPDDR4.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=01_block_digram.SchDoc|FileName=PMIC.SchDoc|SheetNumber=5

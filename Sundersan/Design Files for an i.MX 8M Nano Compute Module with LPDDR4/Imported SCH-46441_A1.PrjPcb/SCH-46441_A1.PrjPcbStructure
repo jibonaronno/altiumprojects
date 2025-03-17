@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=eMMC_QSPI.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=eMMC_QSPI.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page01 COVER.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page02 BLOCK DIAGRAM.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page03 PWR TREE.SchDoc|SheetNumber= 
@@ -7,6 +7,7 @@ Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page05 LPDDR4
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page06 CPU IO.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page07 CPU PHY.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page08 CPU MISC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page09 eMMC_QSPI.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page10 WIFI&Bluetooth.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page11 BOOT_CFG.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=eMMC_QSPI.SchDoc|FileName=Page12 PMIC PCA9450B.SchDoc|SheetNumber= 

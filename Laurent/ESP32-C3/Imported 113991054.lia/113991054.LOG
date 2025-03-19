@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 113991054.LibPkg
+
+Section : D:\develop\Altium\Laurent\ESP32-C3\113991054.lia
+    Section : PCB Library - 113991054.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 113991054 On Line 155
+            Warning - 1 : Skipping Token attachedSymbol On Line 317
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 113991054.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 112
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 125
+            Warning - 1 : Skipping Token layerContents On Line 139
+        EndSection
+
+        Section : Generating SCH Library - 113991054.SchLib
+        EndSection
+    EndSection
+EndSection

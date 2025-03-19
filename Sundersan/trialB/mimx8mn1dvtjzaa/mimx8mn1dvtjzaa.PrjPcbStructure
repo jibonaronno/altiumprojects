@@ -2,3 +2,4 @@ Record=TopLevelDocument|FileName=block.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=block.SchDoc|FileName=eMMC_QSPI.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=block.SchDoc|FileName=LPDDR4.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=block.SchDoc|FileName=mpu_power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=block.SchDoc|FileName=PMIC.SchDoc|SheetNumber=5

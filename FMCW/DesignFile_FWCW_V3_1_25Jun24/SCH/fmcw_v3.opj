@@ -1,0 +1,203 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S033 (4064022)  [10/8/2022]-[06/25/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory"
+       "D:\Project\Sensatek\FWCW_V3_06Mar24_HW\HW\PCB")
+    (File ".\fmcw_v3.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\fmcw_v3.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\fmcw_v3.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\Project\Sensatek\FWCW_V3_06Mar24_HW\HW\PCB\25Jun24\FWCW_V3_1_25Jun24.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Part}\t{Manufacturer}\t{Manufacturer_Part_Number}\t{Mfg1}\t{Mfg1_PN}\t{Value}\t{DNP}")
+    (BOM_Header
+       "Item\tQuantity\tReference\tPart\tManufacturer\tManufacturer_Part_Number\tMfg1\tMfg1_PN\tValue\tDNP")
+    (BOM_Include_File "D:\PROJECT\OTHER\SENSATEK\V3_RELEASE\HW\SCH\FMCW_V3.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\autosave.brd"
+      (Type "Board File")
+      (OutputBoard ".\autosave.brd")
+      (NetListPath "..\fwcw_v3_01mar24")
+      (ActiveBoard "0"))
+    (File ".\fwcw_v3_01mar24.brd"
+      (Type "Board File")
+      (OutputBoard ".\fwcw_v3_01mar24.brd")
+      (NetListPath "..\fwcw_v3_01mar24")
+      (ActiveBoard "0"))
+    (File ".\fwcw_v3_05mar24.brd"
+      (Type "Board File")
+      (OutputBoard ".\fwcw_v3_05mar24.brd")
+      (NetListPath "..\fwcw_v3_01mar24")
+      (ActiveBoard "0"))
+    (File ".\tidm_1018_final.brd"
+      (Type "Board File")
+      (OutputBoard ".\tidm_1018_final.brd")
+      (NetListPath "..\fwcw_v3_01mar24")
+      (ActiveBoard "0"))
+    (File ".\unnamed.brd"
+      (Type "Board File")
+      (OutputBoard ".\unnamed.brd")
+      (NetListPath "..\fwcw_v3_01mar24")
+      (ActiveBoard "0"))
+    (File "..\pcb\autosave.brd"
+      (Type "Board File")
+      (OutputBoard "..\pcb\autosave.brd")
+      (NetListPath "..\pcb")
+      (ActiveBoard "0"))
+    (File "..\pcb\fwcw_v3_06mar24.brd"
+      (Type "Board File")
+      (OutputBoard "..\pcb\fwcw_v3_06mar24.brd")
+      (NetListPath "..\pcb")
+      (ActiveBoard "0"))
+    (File "..\pcb\fwcw_v3_06mar2ww4.brd"
+      (Type "Board File")
+      (OutputBoard "..\pcb\fwcw_v3_06mar2ww4.brd")
+      (NetListPath "..\pcb")
+      (ActiveBoard "0"))
+    (File "..\pcb\fwcw_v3_1_25jun24.brd"
+      (Type "Board File")
+      (OutputBoard "..\pcb\fwcw_v3_1_25jun24.brd")
+      (NetListPath "..\pcb")
+      (ActiveBoard "0"))
+    (File "..\pcb\fwcw_v3_25jun24.brd"
+      (Type "Board File")
+      (OutputBoard "..\pcb\fwcw_v3_25jun24.brd")
+      (NetListPath "..\pcb")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "d:\project\sensatek\fwcw_v3_29feb24\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "d:\project\sensatek\fwcw_v3_29feb24\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "d:\project\sensatek\fwcw_v3_29feb24\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\fmcw_v3.bom"
+      (Type "Report"))
+    (File "..\pcb\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\pcb\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\pcb\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\pcb\25jun24\fwcw_v3_1_25jun24.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Path "Outputs")
+      (Select "Design Resources" ".\fmcw_v3.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 660"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 2155 24 678")
+        (Scroll "-239 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECT\SENSATEK\FWCW_V3_06MAR24_HW\HW\SCH\FMCW_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE05 - 5V Charger Controller"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 2155 24 678")
+        (Scroll "947 474")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\PROJECT\SENSATEK\FWCW_V3_06MAR24_HW\HW\SCH\FMCW_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE13_POE_PWRSTAGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 2155 24 678")
+        (Scroll "-91 55")
+        (Zoom "118")
+        (Occurrence "/"))
+      (Path "D:\PROJECT\SENSATEK\FWCW_V3_06MAR24_HW\HW\SCH\FMCW_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE11 - RF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 2155 24 678")
+        (Scroll "-239 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECT\SENSATEK\FWCW_V3_06MAR24_HW\HW\SCH\FMCW_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE10 - ADC CONTROLLER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 2155 24 678")
+        (Scroll "-436 0")
+        (Zoom "76")
+        (Occurrence "/"))
+      (Path "D:\PROJECT\SENSATEK\FWCW_V3_06MAR24_HW\HW\SCH\FMCW_V3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE12 - PoE Ethernet")))
+  (MPSSessionName "GaoNep"))

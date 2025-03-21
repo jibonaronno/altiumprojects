@@ -1,0 +1,18 @@
+[0330/182205:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0330/182205:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0330/182205:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {4104421A-07F2-4BC7-97C1-A37445D74DF3}\BrowserCache to C:\ProgramData\Altium\Altium Designer {4104421A-07F2-4BC7-97C1-A37445D74DF3}\old_BrowserCache_000
+[0330/182205:ERROR:cache_creator.cc(129)] Unable to create cache
+[0330/182207:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'prefetch-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0330/182207:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0330/182207:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0331/234548:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0331/234548:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0331/234548:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {4104421A-07F2-4BC7-97C1-A37445D74DF3}\BrowserCache to C:\ProgramData\Altium\Altium Designer {4104421A-07F2-4BC7-97C1-A37445D74DF3}\old_BrowserCache_000
+[0331/234548:ERROR:cache_creator.cc(129)] Unable to create cache
+[0331/234550:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'prefetch-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0331/234550:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0331/234550:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)

@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Ledtourch.PrjPcb]
+   Generated File[Ledtourch_Copper_Signal_Top.gbr]
+   Generated File[Ledtourch_Copper_Signal_Bot.gbr]
+   Generated File[Ledtourch_Legend_Top.gbr]
+   Generated File[Ledtourch_Legend_Bot.gbr]
+   Generated File[Ledtourch_Soldermask_Top.gbr]
+   Generated File[Ledtourch_Soldermask_Bot.gbr]
+   Generated File[Ledtourch_Paste_Top.gbr]
+   Generated File[Ledtourch_Paste_Bot.gbr]
+   Generated File[Ledtourch_Profile.gbr]
+   Generated File[Ledtourch_NPTH_Drill.gbr]
+   Generated File[Ledtourch_PTH_Drill.gbr]
+   Generated File[Ledtourch.EXTREP]
+   Generated File[Ledtourch.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 4:48:43 PM On 4/13/2025

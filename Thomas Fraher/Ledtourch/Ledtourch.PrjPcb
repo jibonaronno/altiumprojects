@@ -133,58 +133,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch.REP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Ledtourch\Ledtourch_Soldermask_Top.gbr
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0

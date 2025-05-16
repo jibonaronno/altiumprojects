@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Add Component: Footprint Not Found LED-0603
+Add Pin To Net: Unknown Pin: Pin D1-POS
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC4_1
+Added Pin To Net: NetName=NetD1_NEG Pin=R1-1
+Added Net: Name=NetD1_NEG
+Added Member To Class: ClassName=esp32c3phils Member=Component C2 104
+Added Member To Class: ClassName=esp32c3phils Member=Component C3 C106
+Added Member To Class: ClassName=esp32c3phils Member=Component C4 104
+Added Member To Class: ClassName=esp32c3phils Member=Component C5 C106
+Add Class Member: Failed to add class member : Component D1 SMD-LED-YELLOW-WHITE(0603)
+Added Member To Class: ClassName=esp32c3phils Member=Component U2 SPX3819M5-L-3-3
+Added Member To Class: ClassName=esp32c3phils Member=Component U3 ESP32-C3

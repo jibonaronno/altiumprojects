@@ -1,0 +1,16 @@
+Added Component: Designator=U4(SON4_CX3225SA40000D0PTWCC_KYO)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_VBUS Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=NetU3_29 Pin=U3-29
+Added Pin To Net: NetName=NetU3_29 Pin=U4-3
+Added Net: Name=NetU3_29
+Added Pin To Net: NetName=NetU3_30 Pin=U3-30
+Added Pin To Net: NetName=NetU3_30 Pin=U4-1
+Added Net: Name=NetU3_30
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=NetU4_2 Pin=U4-4
+Added Net: Name=NetU4_2
+Added Member To Class: ClassName=esp32c3phils Member=Component U4 X3225SA40

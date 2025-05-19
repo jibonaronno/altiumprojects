@@ -1,0 +1,11 @@
+Added Component: Designator=D1(LED-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Chengguangxing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADL-0603W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ADL-0603W/Chengguangxing/view-part/106378/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-NEG
+Add Pin To Net: Unknown Pin: Pin D1-POS
+Added Member To Class: ClassName=esp32c3phils Member=Component D1 SMD-LED-YELLOW-WHITE(0603)

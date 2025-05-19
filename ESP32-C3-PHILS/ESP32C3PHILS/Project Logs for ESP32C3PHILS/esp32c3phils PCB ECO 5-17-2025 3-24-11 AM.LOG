@@ -1,0 +1,9 @@
+Add Component: Footprint Not Found LED-0603
+Add Pin To Net: Unknown Pin: Pin D1-NEG
+Add Pin To Net: Unknown Pin: Pin D1-POS
+Added Pin To Net: NetName=UART0_RX Pin=U3-27
+Added Net: Name=UART0_RX
+Added Pin To Net: NetName=UART0_TX Pin=U3-28
+Added Net: Name=UART0_TX
+Added Member To Class: ClassName=esp32c3phils Member=Component C1 104
+Add Class Member: Failed to add class member : Component D1 SMD-LED-YELLOW-WHITE(0603)

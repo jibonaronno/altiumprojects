@@ -1,0 +1,218 @@
+# Created by Ultra Librarian 8.3.367 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "BGA9_BMM350_BOS")
+Pad (Name "A1") (Location -15.75, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "A2") (Location 0, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "A3") (Location 15.75, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B1") (Location -15.75, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B2") (Location 0, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B3") (Location 15.75, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C1") (Location -15.75, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C2") (Location 0, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C3") (Location 15.75, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Text (Location -75, -9.25) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "A")
+Text (Location -75, -40.75) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "C")
+Text (Location 9.25, 50) (Height 50) (Width 3) (Rotation 90) (Layer TopOverlay) (Value "1")
+Text (Location 40.75, 50) (Height 50) (Width 3) (Rotation 90) (Layer TopOverlay) (Value "3")
+Line (Width 1) (Start -17.125, 25) (End -25, 17.125) (Layer Mechanical13) 
+Line (Width 1) (Start -25, -25) (End 25, -25) (Layer Mechanical13) 
+Line (Width 1) (Start 25, -25) (End 25, 25) (Layer Mechanical13) 
+Line (Width 1) (Start 25, 25) (End -25, 25) (Layer Mechanical13) 
+Line (Width 1) (Start -25, 25) (End -25, -25) (Layer Mechanical13) 
+Text (Location -75, -9.25) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "A")
+Text (Location -75, -40.75) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "C")
+Text (Location 9.25, 50) (Height 50) (Width 3) (Rotation 90) (Layer Mechanical13) (Value "1")
+Text (Location 40.75, 50) (Height 50) (Width 3) (Rotation 90) (Layer Mechanical13) (Value "3")
+Text (Location -50, -9.25) (Mirrored True) (Height 50) (Width 3) (Rotation 0) (Layer BottomOverlay) (Value "A")
+Text (Location -50, -40.75) (Mirrored True) (Height 50) (Width 3) (Rotation 0) (Layer BottomOverlay) (Value "C")
+Text (Location -40.75, 50) (Mirrored True) (Height 50) (Width 3) (Rotation -90) (Layer BottomOverlay) (Value "1")
+Text (Location -9.25, 50) (Mirrored True) (Height 50) (Width 3) (Rotation -90) (Layer BottomOverlay) (Value "3")
+Line (Width 6) (Start -35, -35) (End -35, 35) (Layer Mechanical15) 
+Line (Width 6) (Start -35, 35) (End 35, 35) (Layer Mechanical15) 
+Line (Width 6) (Start 35, 35) (End 35, -35) (Layer Mechanical15) 
+Line (Width 6) (Start 35, -35) (End -35, -35) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-35, -35)
+Point (-35, 35)
+Point (35, 35)
+Point (35, -35)
+EndPolygon
+Polygon (PointCount 4) (Layer KeepOutLayer) 
+Point (-41.125, 41.125)
+Point (41.125, 41.125)
+Point (41.125, -41.125)
+Point (-41.125, -41.125)
+EndPolygon
+Step (Name BGA9_BMM350_BOS.step)
+EndFootprint
+
+Footprint (Name "BGA9_BMM350_BOS-M")
+Pad (Name "A1") (Location -15.75, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "A2") (Location 0, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "A3") (Location 15.75, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B1") (Location -15.75, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B2") (Location 0, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B3") (Location 15.75, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C1") (Location -15.75, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C2") (Location 0, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C3") (Location 15.75, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 9, 9) (Shape Rounded) (Layer Top)
+EndPad
+Text (Location -75, -9.25) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "A")
+Text (Location -75, -40.75) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "C")
+Text (Location 9.25, 50) (Height 50) (Width 3) (Rotation 90) (Layer TopOverlay) (Value "1")
+Text (Location 40.75, 50) (Height 50) (Width 3) (Rotation 90) (Layer TopOverlay) (Value "3")
+Line (Width 1) (Start -17.125, 25) (End -25, 17.125) (Layer Mechanical13) 
+Line (Width 1) (Start -25, -25) (End 25, -25) (Layer Mechanical13) 
+Line (Width 1) (Start 25, -25) (End 25, 25) (Layer Mechanical13) 
+Line (Width 1) (Start 25, 25) (End -25, 25) (Layer Mechanical13) 
+Line (Width 1) (Start -25, 25) (End -25, -25) (Layer Mechanical13) 
+Text (Location -75, -9.25) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "A")
+Text (Location -75, -40.75) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "C")
+Text (Location 9.25, 50) (Height 50) (Width 3) (Rotation 90) (Layer Mechanical13) (Value "1")
+Text (Location 40.75, 50) (Height 50) (Width 3) (Rotation 90) (Layer Mechanical13) (Value "3")
+Text (Location -50, -9.25) (Mirrored True) (Height 50) (Width 3) (Rotation 0) (Layer BottomOverlay) (Value "A")
+Text (Location -50, -40.75) (Mirrored True) (Height 50) (Width 3) (Rotation 0) (Layer BottomOverlay) (Value "C")
+Text (Location -40.75, 50) (Mirrored True) (Height 50) (Width 3) (Rotation -90) (Layer BottomOverlay) (Value "1")
+Text (Location -9.25, 50) (Mirrored True) (Height 50) (Width 3) (Rotation -90) (Layer BottomOverlay) (Value "3")
+Line (Width 6) (Start -35, -35) (End -35, 35) (Layer Mechanical15) 
+Line (Width 6) (Start -35, 35) (End 35, 35) (Layer Mechanical15) 
+Line (Width 6) (Start 35, 35) (End 35, -35) (Layer Mechanical15) 
+Line (Width 6) (Start 35, -35) (End -35, -35) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-35, -35)
+Point (-35, 35)
+Point (35, 35)
+Point (35, -35)
+EndPolygon
+Polygon (PointCount 4) (Layer KeepOutLayer) 
+Point (-41.125, 41.125)
+Point (41.125, 41.125)
+Point (41.125, -41.125)
+Point (-41.125, -41.125)
+EndPolygon
+Step (Name BGA9_BMM350_BOS.step)
+EndFootprint
+
+Footprint (Name "BGA9_BMM350_BOS-L")
+Pad (Name "A1") (Location -15.75, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "A2") (Location 0, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "A3") (Location 15.75, 15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B1") (Location -15.75, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B2") (Location 0, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "B3") (Location 15.75, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C1") (Location -15.75, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C2") (Location 0, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "C3") (Location 15.75, -15.75) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 8, 8) (Shape Rounded) (Layer Top)
+EndPad
+Text (Location -75, -9.25) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "A")
+Text (Location -75, -40.75) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "C")
+Text (Location 9.25, 50) (Height 50) (Width 3) (Rotation 90) (Layer TopOverlay) (Value "1")
+Text (Location 40.75, 50) (Height 50) (Width 3) (Rotation 90) (Layer TopOverlay) (Value "3")
+Line (Width 1) (Start -17.125, 25) (End -25, 17.125) (Layer Mechanical13) 
+Line (Width 1) (Start -25, -25) (End 25, -25) (Layer Mechanical13) 
+Line (Width 1) (Start 25, -25) (End 25, 25) (Layer Mechanical13) 
+Line (Width 1) (Start 25, 25) (End -25, 25) (Layer Mechanical13) 
+Line (Width 1) (Start -25, 25) (End -25, -25) (Layer Mechanical13) 
+Text (Location -75, -9.25) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "A")
+Text (Location -75, -40.75) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "C")
+Text (Location 9.25, 50) (Height 50) (Width 3) (Rotation 90) (Layer Mechanical13) (Value "1")
+Text (Location 40.75, 50) (Height 50) (Width 3) (Rotation 90) (Layer Mechanical13) (Value "3")
+Text (Location -50, -9.25) (Mirrored True) (Height 50) (Width 3) (Rotation 0) (Layer BottomOverlay) (Value "A")
+Text (Location -50, -40.75) (Mirrored True) (Height 50) (Width 3) (Rotation 0) (Layer BottomOverlay) (Value "C")
+Text (Location -40.75, 50) (Mirrored True) (Height 50) (Width 3) (Rotation -90) (Layer BottomOverlay) (Value "1")
+Text (Location -9.25, 50) (Mirrored True) (Height 50) (Width 3) (Rotation -90) (Layer BottomOverlay) (Value "3")
+Line (Width 6) (Start -35, -35) (End -35, 35) (Layer Mechanical15) 
+Line (Width 6) (Start -35, 35) (End 35, 35) (Layer Mechanical15) 
+Line (Width 6) (Start 35, 35) (End 35, -35) (Layer Mechanical15) 
+Line (Width 6) (Start 35, -35) (End -35, -35) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-35, -35)
+Point (-35, 35)
+Point (35, 35)
+Point (35, -35)
+EndPolygon
+Polygon (PointCount 4) (Layer KeepOutLayer) 
+Point (-41.125, 41.125)
+Point (41.125, 41.125)
+Point (41.125, -41.125)
+Point (-41.125, -41.125)
+EndPolygon
+Step (Name BGA9_BMM350_BOS.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "BMM350") (PartCount 1) (DesPrefix "U?")
+Pin (Location 300, 0) (Rotation 180) (PinType Input) (Length 300) (Width 0) (Designator Visible "A1") (Name Visible "INT") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "A2") (Name Visible "SDA") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 300, -200) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "A3") (Name Visible "SCK") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 300, -300) (Rotation 180) (PinType Power) (Length 300) (Width 0) (Designator Visible "B1") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 1300, -400) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "B2") (Name Visible "ADSEL") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Pin (Location 1300, -300) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "B3") (Name Visible "VDDIO") (PinSwap 0) (PartSwap 0) (PinSeq 6) (Part 1)
+Pin (Location 1300, -200) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "C1") (Name Visible "VDD") (PinSwap 0) (PartSwap 0) (PinSeq 7) (Part 1)
+Pin (Location 1300, -100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "C2") (Name Visible "CRST") (PinSwap 0) (PartSwap 0) (PinSeq 8) (Part 1)
+Pin (Location 1300, 0) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "C3") (Name Visible "BYPASS") (PinSwap 0) (PartSwap 0) (PinSeq 9) (Part 1)
+Rectangle (Width 5) (Start 300, -600) (End 1300, 200) (Part 1)
+Parameter (Name "Type") (Location 800, 300) (Height 82) (Rotation 0) (Justification Center) (Value "Magnetic Sensors") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Bosch Sensortec") (Part 1)
+Parameter (Name "RefDes") (Location 800, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "BGA9_BMM350_BOS")
+EndComponent
+EndComponents

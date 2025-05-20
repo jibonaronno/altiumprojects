@@ -1,0 +1,6 @@
+Added Component: Designator=U4(BGA9_BMM350_BOS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Bosch Sensortec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Magnetic Sensors"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-B1
+Added Member To Class: ClassName=esp32c3phils Member=Component U4 BMM350

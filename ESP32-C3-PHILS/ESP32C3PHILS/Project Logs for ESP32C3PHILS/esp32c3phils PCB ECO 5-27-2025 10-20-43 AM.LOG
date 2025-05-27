@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Added Component: Designator=T4(JumpA)
+Added Pin To Net: NetName=BOOT_GYR_INT Pin=T1-1
+Added Pin To Net: NetName=FSPINCS3 Pin=T4-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC12_2
+Added Pin To Net: NetName=NetT2_1 Pin=T2-1
+Added Pin To Net: NetName=NetT2_1 Pin=T4-1
+Added Pin To Net: NetName=NetT2_1 Pin=U3-27
+Added Net: Name=NetT2_1
+Added Member To Class: ClassName=esp32c3phils Member=Component C13 104
+Added Member To Class: ClassName=esp32c3phils Member=Component C14 104
+Added Member To Class: ClassName=esp32c3phils Member=Component R5 5K1
+Added Member To Class: ClassName=esp32c3phils Member=Component R6 5K1
+Added Member To Class: ClassName=esp32c3phils Member=Component T4 JumpA

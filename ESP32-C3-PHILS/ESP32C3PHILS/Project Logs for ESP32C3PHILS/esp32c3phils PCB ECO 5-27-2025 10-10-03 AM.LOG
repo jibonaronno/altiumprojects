@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=FSPINCS3 Pin=T2-1
+Removed Pin From Net: NetName=FSPINCS3 Pin=U3-27
+Add Pin To Net: Unknown Pin: Pin T1-2
+Added Pin To Net: NetName=NetT1_1 Pin=T1-1
+Added Pin To Net: NetName=NetT1_1 Pin=T2-1
+Added Pin To Net: NetName=NetT1_1 Pin=U3-27
+Added Net: Name=NetT1_1
+Added Member To Class: ClassName=esp32c3phils Member=Component C? 104
+Added Member To Class: ClassName=esp32c3phils Member=Component C? 104
+Added Member To Class: ClassName=esp32c3phils Member=Component R? 5K1
+Added Member To Class: ClassName=esp32c3phils Member=Component R? 5K1
+Added Member To Class: ClassName=esp32c3phils Member=Component T1 TP

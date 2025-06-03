@@ -1,0 +1,8 @@
+Added Component: Designator=J3(HEADERPAD_20_80MIL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Adam Tech'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PH2-20-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=esp32c3phils Member=Component J3 PH2-20-UA

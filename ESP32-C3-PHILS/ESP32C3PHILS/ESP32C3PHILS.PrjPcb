@@ -116,6 +116,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTBGJFDQ
 
+[Document5]
+DocumentPath=..\PCB_mecha-io-extension_2025-06-03.pcbdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VKDYHJQA
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

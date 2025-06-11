@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ESP32C3PHILS.PrjPcb]
+   Generated File[esp32c3phils.GTO]
+   Generated File[esp32c3phils.GTP]
+   Generated File[esp32c3phils.GTS]
+   Generated File[esp32c3phils.GTL]
+   Generated File[esp32c3phils.GBL]
+   Generated File[esp32c3phils.GBS]
+   Generated File[esp32c3phils.GBP]
+   Generated File[esp32c3phils.GBO]
+   Generated File[esp32c3phils.GM]
+   Generated File[esp32c3phils.EXTREP]
+   Generated File[esp32c3phils.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 9:39:07 PM On 6/11/2025

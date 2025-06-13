@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3V3 Pin=D1-1
+Change Component Footprint: Designator=D1 Old Footprint=LED-0603 New Footprint=LEDM1608X80
+Change Component Comment : Designator=D1 Old Comment=SMD-LED-YELLOW-WHITE(0603) New Comment=LED
+Added Pin To Net: NetName=+3V3 Pin=D1-A
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=R4-1
+Added Net: Name=NetD1_C

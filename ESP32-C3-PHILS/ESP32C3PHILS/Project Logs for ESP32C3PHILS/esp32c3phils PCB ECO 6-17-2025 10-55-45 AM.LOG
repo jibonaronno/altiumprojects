@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=USB1_N Pin=U1-1
+Removed Pin From Net: NetName=USB1_P Pin=U1-3
+Removed Pin From Net: NetName=USB1_N Pin=U3-25
+Removed Pin From Net: NetName=USB1_P Pin=U3-26
+Change Component Description : Designator=A1 Old Description=Chip Dielectric Antenna; 1dBi; 2450MHz; T/R New Description=Chip Dielectric Antenna; 1dBi; 2450MHz; T/R | Abracon AMCA31-2R450G-S1F-T3
+Added Pin To Net: NetName=USB2_N Pin=U3-25
+Added Net: Name=USB2_N
+Added Pin To Net: NetName=USB2_P Pin=U1-1
+Added Pin To Net: NetName=USB2_P Pin=U1-3
+Added Pin To Net: NetName=USB2_P Pin=U3-26
+Added Net: Name=USB2_P

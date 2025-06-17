@@ -1,0 +1,3 @@
+Change Component Description : Designator=A1 Old Description=Chip Dielectric Antenna; 1dBi; 2450MHz; T/R New Description=Chip Dielectric Antenna; 1dBi; 2450MHz; T/R | Abracon AMCA31-2R450G-S1F-T3
+Change Net Name : Old Net Name=NetC23_1 New Net Name=AVDD
+Added Class: Name=POWER

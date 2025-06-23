@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=NetC28_2 New Net Name=RF_IN_GPS
+Added Member To Class: ClassName=esp32c3phils Member=Component J4 HEADER6PIN2.54

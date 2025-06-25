@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=T? NewDesignator=T20
+Change Component Designator: OldDesignator=T? NewDesignator=T21
+Added Member To Class: ClassName=esp32c3phils Member=Component T20 JumpA

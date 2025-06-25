@@ -1,0 +1,79 @@
+Change component parameters: Designator = "L1" ("L1"); Footprint = "INDC1006X60N"; UniqueID = "\UMXEWQNN" ("\UMXEWQNN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LQW15AN2N2B80D/Murata%20Electronics%20North%20America/view-part/1522880/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LQW15AN2N2B80D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LQW15AN2N2B80D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1006 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LQW15AN2N2B80D/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LQW15AN2N2B80D/Murata%20Electronics%20North%20America/view-part/1522880/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "PQFN50P450X300X100-16N"; UniqueID = "\DUMWKRRT" ("\DUMWKRRT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "828-1082-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BMI088"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "BGA9_BMM350_BOS"; UniqueID = "\COVGUVKQ" ("\COVGUVKQ")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "828-BMM350TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Bosch Sensortec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Magnetic Sensors"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "IC_W25Q16JVUXIQ_TR"; UniqueID = "\DHFXZQYD" ("\DHFXZQYD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/W25Q16JVUXIQ%20TR/Winbond/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "W25Q16JVUXIQ TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Winbond"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "W25Q16JVUXIQ TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "UFDFN-8 Winbond"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/W25Q16JVUXIQ TR/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/W25Q16JVUXIQ%20TR/Winbond/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7" ("U7"); Footprint = "IC_BME688"; UniqueID = "\MNOCPWWA" ("\MNOCPWWA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "828-BME688TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BME688"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8" ("U8"); Footprint = "10LGA_2X2X0P75_BOS"; UniqueID = "\SEFRNXKE" ("\SEFRNXKE")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "828-BMP390TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Bosch Sensortec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U9" ("U9"); Footprint = "SHT4X"; UniqueID = "\AEBBVATE" ("\AEBBVATE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SHT45-AD1B-R3/Sensirion/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1649-SHT45-AD1B-R3TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Sensirion"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SHT45-AD1B-R3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SHT45-AD1B-R3/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SHT45-AD1B-R3/Sensirion/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "XTAL_ECS-400-18-33-JGN-TR3"; UniqueID = "\IPNGOWTO" ("\IPNGOWTO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "50-ECS-400-18-33-JGN-TR3TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'ECS Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECS-400-18-33-JGN-TR3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T?(JumpA)
+Added Component: Designator=T?(JumpA)
+Added Pin To Net: NetName=USB2_N Pin=T?-2
+Added Pin To Net: NetName=USB2_P Pin=T?-2
+Added Pin To Net: NetName=USB_D3N Pin=J3-9
+Added Pin To Net: NetName=USB_D3N Pin=T?-1
+Added Net: Name=USB_D3N
+Added Pin To Net: NetName=USB_D3P Pin=J3-8
+Added Pin To Net: NetName=USB_D3P Pin=T?-1
+Added Net: Name=USB_D3P
+Added Member To Class: ClassName=esp32c3phils Member=Component T? JumpA
+Added Member To Class: ClassName=esp32c3phils Member=Component T? JumpA

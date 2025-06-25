@@ -2,17 +2,23 @@
 FileName = esp32c3phils.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : esp32c3phils.GBP
+Generating : Layer 1
+      File : esp32c3phils.G1
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Layer 1
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D11
+    D13
+    D17
+    D27
+    D95
+    D96
+    D97
+    D98
 *************************************************************
 
 *************************************************************
@@ -27,8 +33,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D17
-    D18
     D19
     D20
     D21
@@ -52,6 +56,33 @@ Used DCodes :
     D39
     D40
     D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : esp32c3phils.G2
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D27
+    D95
+    D96
+    D97
+    D98
 *************************************************************
 
 *************************************************************
@@ -66,51 +97,12 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D65
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : esp32c3phils.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D22
-    D23
-    D26
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
 *************************************************************
 
 *************************************************************
@@ -121,7 +113,25 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D10
+    D11
+    D13
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : esp32c3phils.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -139,23 +149,79 @@ Used DCodes :
     D14
     D15
     D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : esp32c3phils.GBL
+Generating : Layer 4
+      File : esp32c3phils.G3
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Layer 4
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D13
+    D27
+    D95
+    D96
+    D97
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : esp32c3phils.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D31
+    D33
+    D34
+    D37
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
     D71
+    D72
+    D73
+    D74
     D75
     D76
     D77
     D78
+    D79
+    D80
+    D81
+    D82
+    D83
 *************************************************************
 
 *************************************************************
@@ -168,9 +234,9 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
+    D11
+    D13
     D17
-    D18
     D19
     D20
     D21
@@ -191,18 +257,102 @@ Used DCodes :
     D36
     D37
     D38
+    D39
     D40
     D41
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D49
+    D78
+    D79
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : esp32c3phils.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D17
+    D27
+    D78
+    D79
+    D84
+    D95
+    D96
+    D97
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : esp32c3phils.G4
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D27
+    D95
+    D96
+    D97
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : esp32c3phils.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : esp32c3phils.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
 *************************************************************
 
 *************************************************************
@@ -211,6 +361,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D79
+    D102
 *************************************************************
 

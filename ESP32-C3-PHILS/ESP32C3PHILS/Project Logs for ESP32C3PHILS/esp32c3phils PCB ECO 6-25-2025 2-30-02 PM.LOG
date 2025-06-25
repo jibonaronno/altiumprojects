@@ -1,0 +1,30 @@
+Added Pin To Net: NetName=+3V3 Pin=J5-C11
+Added Pin To Net: NetName=GND Pin=J5-C12
+Added Pin To Net: NetName=NetT2_1 Pin=J5-C13
+Added Pin To Net: NetName=NetT4_1 Pin=J5-C14
+Change Net Name : Old Net Name=NetT2_1 New Net Name=U0RXD
+Change Net Name : Old Net Name=NetT4_1 New Net Name=U0TXD
+Added Pin To Net: NetName=3V3 Pin=J1-10
+Added Pin To Net: NetName=3V3 Pin=J5-C10
+Added Net: Name=3V3
+Added Pin To Net: NetName=GPIO2_IO12 Pin=J1-7
+Added Pin To Net: NetName=GPIO2_IO12 Pin=J5-C7
+Added Net: Name=GPIO2_IO12
+Added Pin To Net: NetName=I2C4_SCL Pin=J1-8
+Added Pin To Net: NetName=I2C4_SCL Pin=J5-C8
+Added Net: Name=I2C4_SCL
+Added Pin To Net: NetName=I2C4_SDA Pin=J1-9
+Added Pin To Net: NetName=I2C4_SDA Pin=J5-C9
+Added Net: Name=I2C4_SDA
+Added Pin To Net: NetName=RTC Pin=J1-3
+Added Pin To Net: NetName=RTC Pin=J5-C3
+Added Net: Name=RTC
+Added Pin To Net: NetName=SOM_RST Pin=J1-2
+Added Pin To Net: NetName=SOM_RST Pin=J5-C2
+Added Net: Name=SOM_RST
+Added Pin To Net: NetName=UART4_RX Pin=J1-6
+Added Pin To Net: NetName=UART4_RX Pin=J5-C6
+Added Net: Name=UART4_RX
+Added Pin To Net: NetName=UART4_TX Pin=J1-5
+Added Pin To Net: NetName=UART4_TX Pin=J5-C5
+Added Net: Name=UART4_TX

@@ -184,12 +184,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=PCB.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils-BoardEdgeRout.TXT
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.DRR
+DocumentPath=Project Outputs for ESP32C3PHILS\NC Drill\esp32c3phils.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
@@ -197,75 +214,103 @@ DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G1
+DocumentPath=Project Outputs for ESP32C3PHILS\Gerber\esp32c3phils.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G2
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G3
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G4
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G3
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBL
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G4
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBO
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBP
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBS
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GD1
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GG1
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GM
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTL
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GM
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTO
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTP
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTS
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.LDP
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.REP
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Project Outputs for ESP32C3PHILS\NC Drill\esp32c3phils.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for ESP32C3PHILS\Gerber\esp32c3phils.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for ESP32C3PHILS\NC Drill\esp32c3phils.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for ESP32C3PHILS\Pick Place for esp32c3phils.csv
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for ESP32C3PHILS\Pick Place\Pick Place for esp32c3phils.txt
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for ESP32C3PHILS\Pick Place for esp32c3phils.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -846,15 +891,15 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1277|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1277|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up|Footprint=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Description=124|Designator=120|Footprint=189|LibRef=120|Quantity=120|Comment=184|Manufacturer Part Number=100
+Configuration1_Item6=Description=124|Designator=120|Footprint=189|LibRef=120|Quantity=120|Manufacturer Part Number=100|Manufacturer=100
 Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=Description=124|Designator=120|Footprint=189|LibRef=120|Quantity=120|Comment=184|Manufacturer Part Number=100
+Configuration1_Item7=Description=124|Designator=120|Footprint=189|LibRef=120|Quantity=120|Manufacturer Part Number=100|Manufacturer=100
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=

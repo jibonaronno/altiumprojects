@@ -151,23 +151,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=drill.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,8 +167,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
-DocumentPath=PCB.OutJob
+[Document8]
+DocumentPath=Drill.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -206,111 +189,71 @@ DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ESP32C3PHILS\NC Drill\esp32c3phils.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ESP32C3PHILS\Gerber\esp32c3phils.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G1
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G2
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G3
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.G4
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GM
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for ESP32C3PHILS\NC Drill\esp32c3phils.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.REP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for ESP32C3PHILS\Gerber\esp32c3phils.REP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for ESP32C3PHILS\esp32c3phils.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for ESP32C3PHILS\NC Drill\esp32c3phils.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for ESP32C3PHILS\Pick Place for esp32c3phils.csv
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for ESP32C3PHILS\Pick Place\Pick Place for esp32c3phils.txt
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for ESP32C3PHILS\Pick Place for esp32c3phils.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -873,7 +816,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=RTBGJFDQ|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1|PlotBoardProfile=True|PlotBoardProfileFileName=esp32c3phils.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=esp32c3phils.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=esp32c3phils.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=esp32c3phils.GBO|UserLayerName.Caption1=esp32c3phils.GTP|UserLayerName.Caption10=esp32c3phils.G2|UserLayerName.Caption11=esp32c3phils.GM1|UserLayerName.Caption12=esp32c3phils.GBL|UserLayerName.Caption13=esp32c3phils.G3|UserLayerName.Caption14=esp32c3phils.GM15|UserLayerName.Caption15=esp32c3phils.G4|UserLayerName.Caption16=esp32c3phils.GTL|UserLayerName.Caption17=esp32c3phils.GBP|UserLayerName.Caption2=esp32c3phils.GTO|UserLayerName.Caption3=esp32c3phils.GTS|UserLayerName.Caption4=esp32c3phils.GM13|UserLayerName.Caption5=esp32c3phils.GPT|UserLayerName.Caption6=esp32c3phils.GPB|UserLayerName.Caption7=esp32c3phils.GKO|UserLayerName.Caption8=esp32c3phils.G1|UserLayerName.Caption9=esp32c3phils.GBS|UserLayerName.Count=18|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777219|UserLayerName.Layer11=16908289|UserLayerName.Layer12=16842751|UserLayerName.Layer13=16777220|UserLayerName.Layer14=16908303|UserLayerName.Layer15=16777221|UserLayerName.Layer16=16777217|UserLayerName.Layer17=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16973848|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16973837|UserLayerName.Layer8=16777218|UserLayerName.Layer9=16973835|DocumentPath=E:\Altium Files\altiumprojects\ESP32-C3-PHILS\ESP32C3PHILS\esp32c3phils.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=RTBGJFDQ|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1|PlotBoardProfile=True|PlotBoardProfileFileName=esp32c3phils.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=esp32c3phils.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=esp32c3phils.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=esp32c3phils.GBO|UserLayerName.Caption1=esp32c3phils.GTP|UserLayerName.Caption10=esp32c3phils.G2|UserLayerName.Caption11=esp32c3phils.GM1|UserLayerName.Caption12=esp32c3phils.GBL|UserLayerName.Caption13=esp32c3phils.G3|UserLayerName.Caption14=esp32c3phils.GM15|UserLayerName.Caption15=esp32c3phils.G4|UserLayerName.Caption16=esp32c3phils.GTL|UserLayerName.Caption17=esp32c3phils.GKO|UserLayerName.Caption2=esp32c3phils.GTO|UserLayerName.Caption3=esp32c3phils.GTS|UserLayerName.Caption4=esp32c3phils.GM13|UserLayerName.Caption5=esp32c3phils.GPT|UserLayerName.Caption6=esp32c3phils.GPB|UserLayerName.Caption7=esp32c3phils.GBP|UserLayerName.Caption8=esp32c3phils.G1|UserLayerName.Caption9=esp32c3phils.GBS|UserLayerName.Count=18|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16777219|UserLayerName.Layer11=16908289|UserLayerName.Layer12=16842751|UserLayerName.Layer13=16777220|UserLayerName.Layer14=16908303|UserLayerName.Layer15=16777221|UserLayerName.Layer16=16777217|UserLayerName.Layer17=16973837|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16973848|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16973833|UserLayerName.Layer8=16777218|UserLayerName.Layer9=16973835|DocumentPath=E:\Altium Files\altiumprojects\ESP32-C3-PHILS\ESP32C3PHILS\esp32c3phils.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs

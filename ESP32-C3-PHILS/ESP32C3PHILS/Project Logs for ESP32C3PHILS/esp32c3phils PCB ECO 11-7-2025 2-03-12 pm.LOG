@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=esp32c3phils Member=L?
+Added Component: Designator=L4(INDC1006X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LQW15AN2N2B80D/Murata%20Electronics%20North%20America/view-part/1522880/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2041833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LQW15AN2N2B80D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1006 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LQW15AN2N2B80D/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LQW15AN2N2B80D/Murata%20Electronics%20North%20America/view-part/1522880/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetA2_1 Pin=L4-1
+Added Pin To Net: NetName=RF_IN_GPS Pin=L4-2
+Added Member To Class: ClassName=esp32c3phils Member=Component L4 IND2n2

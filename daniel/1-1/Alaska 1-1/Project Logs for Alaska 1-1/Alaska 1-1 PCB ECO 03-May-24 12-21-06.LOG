@@ -1,0 +1,2058 @@
+Added Component: Designator=C1(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C45(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C46(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C47(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C48(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C49(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C50(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C51(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C52(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C53(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C54(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C55(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C56(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C57(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C58(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C59(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C60(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C61(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C62(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C63(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C64(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C65(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C66(CAPC1005X56X25NL10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "CGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "TBD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "0755ced2c795d892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=Connector In1(PM254-2-05-S-8.5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Female-Headers_HCTL-PM254-2-05-S-8-5_C3975150.html"; VariantName = "[No Variations]"
+Added Component: Designator=Connector Out1(PM254-2-05-S-8.5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Female-Headers_HCTL-PM254-2-05-S-8-5_C3975150.html"; VariantName = "[No Variations]"
+Added Component: Designator=CPU-Con1(Liansheng_FH-00148_Footprint_01)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00148_C2685092.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CustomComponentID"; Value = "xf5hfsu41fuj64nwsg7i"; VariantName = "[No Variations]"
+Added Component: Designator=CPU Con1(Harwin 40 pin Female)
+Added Component: Designator=IFR(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=INVALID(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=LIFR(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=MH1(Mounting Hole 14mm)
+Added Component: Designator=MH2(Mounting Hole 14mm)
+Added Component: Designator=MH3(Mounting Hole 14mm)
+Added Component: Designator=MH4(Mounting Hole 14mm)
+Added Component: Designator=MH5(Mounting Hole 14mm)
+Added Component: Designator=MH6(Mounting Hole 14mm)
+Added Component: Designator=MH7(Mounting Hole 14mm)
+Added Component: Designator=MH8(Mounting Hole 14mm)
+Added Component: Designator=MH9(Mounting Hole 14mm)
+Added Component: Designator=MH10(Mounting Hole 14mm)
+Added Component: Designator=MH11(Mounting Hole 14mm)
+Added Component: Designator=MH12(Mounting Hole 14mm)
+Added Component: Designator=MH13(Mounting Hole 14mm)
+Added Component: Designator=MH14(Mounting Hole 14mm)
+Added Component: Designator=MH15(Mounting Hole 14mm)
+Added Component: Designator=MH16(Mounting Hole 14mm)
+Added Component: Designator=MH17(Mounting Hole 14mm)
+Added Component: Designator=MH18(Mounting Hole 14mm)
+Added Component: Designator=MH19(Mounting Hole 14mm)
+Added Component: Designator=MH20(Mounting Hole 14mm)
+Added Component: Designator=MH21(Mounting Hole 14mm)
+Added Component: Designator=MH22(Mounting Hole 12mm)
+Added Component: Designator=MH23(Mounting Hole 12mm)
+Added Component: Designator=MH24(Mounting Hole 12mm)
+Added Component: Designator=MH25(Mounting Hole 12mm)
+Added Component: Designator=MH26(Mounting Hole 12mm)
+Added Component: Designator=MH27(Mounting Hole 12mm)
+Added Component: Designator=Mount_foot1(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mount_Foot2(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Case 1(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Case 2(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Case 3(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Case 4(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 1(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 2(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 3(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 4(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 5(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 6(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 7(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 8(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 9(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 10(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 11(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mounting Frame 12(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MVFR(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PABL(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PABR(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PABT(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PACM(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PACX(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PACZ(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PADE(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PADG(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PADM(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAFA(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAFB(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAFM(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAFS(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAGA(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAGB(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAGH(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAGL(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAHC(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAHL(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAHX(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAIK(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAIM(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAIN(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAIW(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAKK(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAKP(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAKU(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAKV(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PALP(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PALU(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAMC(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAMH(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAMK(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAMO(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PANN(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PANU(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PANV(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAOM(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAOT(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAPO(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAPR(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAQT(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PARS(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PARY(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PASH(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PASK(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PASM(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PATA(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PATC(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PATE(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PATL(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PATQ(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAUN(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAVA(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAVL(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAWM(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PAWN(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PFEL(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PFKT(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=PFSH(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=Power1(PCB-0kdx5sneyudsmu18l6zv-1)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon 6/6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/282836-2-te+connectivity-39396934"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "369bfdc835bbe95c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Pitch"; Value = "0.005 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "250.0 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "15.0 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=Power2(PCB-0kdx5sneyudsmu18l6zv-1)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon 6/6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/282836-2-te+connectivity-39396934"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "369bfdc835bbe95c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Pitch"; Value = "0.005 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "250.0 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "15.0 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=Power / LED in1(282836-3)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon 6/6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/282836-3-te+connectivity-39540472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "d7c21c93a45c0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Pitch"; Value = "5.00 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "250 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "15.0 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=Power / LED out1(282836-3)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon 6/6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/282836-3-te+connectivity-39540472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "d7c21c93a45c0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Pitch"; Value = "5.00 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "250 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "15.0 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=Power Conn1(PCB-h5dulpljww4oyv25n50t-1)
+Add component (AddParameter): Name = "Shielding"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=PPIZ(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Component: Designator=R1(CAPC1608X90X35NL15T15)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Not Listed by Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-3EKF5101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/erj-3ekf5101v-panasonic-55421801"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "45aa8fedcba59a6d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1 kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "75.0 V"; VariantName = "[No Variations]"
+Added Component: Designator=R2(CAPC1608X90X35NL15T15)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Not Listed by Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-3EKF5101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/erj-3ekf5101v-panasonic-55421801"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "45aa8fedcba59a6d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1 kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "75.0 V"; VariantName = "[No Variations]"
+Added Component: Designator=Side1(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Side2(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Side3(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Side4(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Side5(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Side6(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Side7(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Side8(PCB-q0vxx67e01kaxtvhakkm-1)
+Add component (AddParameter): Name = "CustomComponentID"; Value = "q3gk3wg8yin1w7wp8pag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(PCB-19361381-1)
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74AHCT125PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Url"; Value = "https://octopart.com/sn74ahct125pwr-texas+instruments-46548606"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "822b49e7e1335dec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current Drive"; Value = "-0.001 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay Max (tpd)"; Value = "8.5e-09 s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Nodes"; Value = "5.0 V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(PCB-4n9l8bvb0hxmq9svv09s-1)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC-14_3.9x8.7x1.27P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74AHCT125DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/sn74ahct125dr-texas+instruments-465359"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "35ebfce60942ea2c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40.0 °C (min)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current Drive"; Value = "-1.00 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay Max (tpd)"; Value = "8.50 ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "2.00 µA (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage (DC)"; Value = "4.50 V to 5.50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Nodes"; Value = "5.00 V"; VariantName = "[No Variations]"
+Added Component: Designator=USB-C1(Hooya USB-310M-B-SU-Footprint-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB-310M-B-SU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Url"; Value = "https://octopart.com/usb-310m-b-su-hooya-130490827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "967358be92de49b4"; VariantName = "[No Variations]"
+Added Component: Designator=VFR(PCB-18681qzhn4j348g96a9l-1)
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WS2812B-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ws2812b-2020-worldsemi-118049406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "30b1feb25fa9ef76"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VDD Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VDD Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VDD Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VDD Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VDD Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VDD Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VDD Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VDD Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VDD Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=VDD Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VDD Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=VDD Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=VDD Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=VDD Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VDD Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=VDD Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=VDD Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=VDD Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=VDD Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=VDD Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=VDD Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=VDD Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=VDD Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=VDD Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=VDD Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=VDD Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=VDD Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=VDD Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=VDD Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=VDD Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=VDD Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=VDD Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=VDD Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=VDD Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=VDD Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=VDD Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=VDD Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=VDD Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=VDD Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=VDD Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=VDD Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=VDD Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=VDD Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=VDD Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=VDD Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=VDD Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=VDD Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=VDD Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=VDD Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=VDD Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=VDD Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=VDD Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C58-2
+Added Pin To Net: NetName=VDD Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=VDD Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=VDD Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=VDD Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C63-2
+Added Pin To Net: NetName=VDD Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=VDD Pin=C65-1
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=VDD Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=GND Pin=Connector In1-1
+Added Pin To Net: NetName=GND Pin=Connector In1-2
+Added Pin To Net: NetName=1A Pin=Connector In1-3
+Added Pin To Net: NetName=VDD Pin=Connector In1-4
+Added Pin To Net: NetName=VDD Pin=Connector In1-5
+Added Pin To Net: NetName=GND Pin=Connector In1-6
+Added Pin To Net: NetName=GND Pin=Connector In1-7
+Added Pin To Net: NetName=1A Pin=Connector In1-8
+Added Pin To Net: NetName=VDD Pin=Connector In1-9
+Added Pin To Net: NetName=VDD Pin=Connector In1-10
+Added Pin To Net: NetName=GND Pin=Connector Out1-1
+Added Pin To Net: NetName=GND Pin=Connector Out1-2
+Added Pin To Net: NetName=Out Pin=Connector Out1-3
+Added Pin To Net: NetName=VDD Pin=Connector Out1-4
+Added Pin To Net: NetName=VDD Pin=Connector Out1-5
+Added Pin To Net: NetName=GND Pin=Connector Out1-6
+Added Pin To Net: NetName=GND Pin=Connector Out1-7
+Added Pin To Net: NetName=Out Pin=Connector Out1-8
+Added Pin To Net: NetName=VDD Pin=Connector Out1-9
+Added Pin To Net: NetName=VDD Pin=Connector Out1-10
+Added Pin To Net: NetName=VDD Pin=CPU-Con1-1
+Added Pin To Net: NetName=VDD Pin=CPU-Con1-2
+Added Pin To Net: NetName=GND Pin=CPU-Con1-3
+Added Pin To Net: NetName=1A Pin=CPU-Con1-6
+Added Pin To Net: NetName=GND Pin=CPU-Con1-7
+Added Pin To Net: NetName=GND Pin=CPU-Con1-10
+Added Pin To Net: NetName=GND Pin=CPU-Con1-15
+Added Pin To Net: NetName=GND Pin=CPU-Con1-17
+Added Pin To Net: NetName=GND Pin=CPU-Con1-25
+Added Pin To Net: NetName=GND Pin=CPU-Con1-33
+Added Pin To Net: NetName=GND Pin=CPU-Con1-40
+Added Pin To Net: NetName=VDD Pin=CPU Con1-1
+Added Pin To Net: NetName=VDD Pin=CPU Con1-3
+Added Pin To Net: NetName=GND Pin=CPU Con1-5
+Added Pin To Net: NetName=GND Pin=CPU Con1-10
+Added Pin To Net: NetName=1A Pin=CPU Con1-11
+Added Pin To Net: NetName=GND Pin=CPU Con1-13
+Added Pin To Net: NetName=GND Pin=CPU Con1-19
+Added Pin To Net: NetName=GND Pin=CPU Con1-26
+Added Pin To Net: NetName=GND Pin=CPU Con1-29
+Added Pin To Net: NetName=GND Pin=CPU Con1-33
+Added Pin To Net: NetName=GND Pin=CPU Con1-40
+Added Pin To Net: NetName=NetIFR_1 Pin=IFR-1
+Added Pin To Net: NetName=GND Pin=IFR-2
+Added Pin To Net: NetName=NetIFR_3 Pin=IFR-3
+Added Pin To Net: NetName=VDD Pin=IFR-4
+Added Pin To Net: NetName=NetINVALID_1 Pin=INVALID-1
+Added Pin To Net: NetName=GND Pin=INVALID-2
+Added Pin To Net: NetName=NetINVALID_3 Pin=INVALID-3
+Added Pin To Net: NetName=VDD Pin=INVALID-4
+Added Pin To Net: NetName=NetIFR_3 Pin=LIFR-1
+Added Pin To Net: NetName=GND Pin=LIFR-2
+Added Pin To Net: NetName=NetINVALID_1 Pin=LIFR-3
+Added Pin To Net: NetName=VDD Pin=LIFR-4
+Added Pin To Net: NetName=NetMVFR_1 Pin=MVFR-1
+Added Pin To Net: NetName=GND Pin=MVFR-2
+Added Pin To Net: NetName=NetIFR_1 Pin=MVFR-3
+Added Pin To Net: NetName=VDD Pin=MVFR-4
+Added Pin To Net: NetName=NetPABL_1 Pin=PABL-1
+Added Pin To Net: NetName=GND Pin=PABL-2
+Added Pin To Net: NetName=NetPABL_3 Pin=PABL-3
+Added Pin To Net: NetName=VDD Pin=PABL-4
+Added Pin To Net: NetName=NetPABR_1 Pin=PABR-1
+Added Pin To Net: NetName=GND Pin=PABR-2
+Added Pin To Net: NetName=NetPABR_3 Pin=PABR-3
+Added Pin To Net: NetName=VDD Pin=PABR-4
+Added Pin To Net: NetName=NetPABT_1 Pin=PABT-1
+Added Pin To Net: NetName=GND Pin=PABT-2
+Added Pin To Net: NetName=NetPABT_3 Pin=PABT-3
+Added Pin To Net: NetName=VDD Pin=PABT-4
+Added Pin To Net: NetName=NetPACM_1 Pin=PACM-1
+Added Pin To Net: NetName=GND Pin=PACM-2
+Added Pin To Net: NetName=NetPACM_3 Pin=PACM-3
+Added Pin To Net: NetName=VDD Pin=PACM-4
+Added Pin To Net: NetName=NetPACX_1 Pin=PACX-1
+Added Pin To Net: NetName=GND Pin=PACX-2
+Added Pin To Net: NetName=NetPACX_3 Pin=PACX-3
+Added Pin To Net: NetName=VDD Pin=PACX-4
+Added Pin To Net: NetName=NetPACZ_1 Pin=PACZ-1
+Added Pin To Net: NetName=GND Pin=PACZ-2
+Added Pin To Net: NetName=NetPACM_1 Pin=PACZ-3
+Added Pin To Net: NetName=VDD Pin=PACZ-4
+Added Pin To Net: NetName=NetPADE_1 Pin=PADE-1
+Added Pin To Net: NetName=GND Pin=PADE-2
+Added Pin To Net: NetName=NetPADE_3 Pin=PADE-3
+Added Pin To Net: NetName=VDD Pin=PADE-4
+Added Pin To Net: NetName=NetPABT_3 Pin=PADG-1
+Added Pin To Net: NetName=GND Pin=PADG-2
+Added Pin To Net: NetName=NetPADG_3 Pin=PADG-3
+Added Pin To Net: NetName=VDD Pin=PADG-4
+Added Pin To Net: NetName=NetPADM_1 Pin=PADM-1
+Added Pin To Net: NetName=GND Pin=PADM-2
+Added Pin To Net: NetName=NetPADM_3 Pin=PADM-3
+Added Pin To Net: NetName=VDD Pin=PADM-4
+Added Pin To Net: NetName=NetPAFA_1 Pin=PAFA-1
+Added Pin To Net: NetName=GND Pin=PAFA-2
+Added Pin To Net: NetName=NetPACX_1 Pin=PAFA-3
+Added Pin To Net: NetName=VDD Pin=PAFA-4
+Added Pin To Net: NetName=NetPAFB_1 Pin=PAFB-1
+Added Pin To Net: NetName=GND Pin=PAFB-2
+Added Pin To Net: NetName=NetPAFB_3 Pin=PAFB-3
+Added Pin To Net: NetName=VDD Pin=PAFB-4
+Added Pin To Net: NetName=NetPAFM_1 Pin=PAFM-1
+Added Pin To Net: NetName=GND Pin=PAFM-2
+Added Pin To Net: NetName=NetPAFM_3 Pin=PAFM-3
+Added Pin To Net: NetName=VDD Pin=PAFM-4
+Added Pin To Net: NetName=NetPAFS_1 Pin=PAFS-1
+Added Pin To Net: NetName=GND Pin=PAFS-2
+Added Pin To Net: NetName=NetPAFS_3 Pin=PAFS-3
+Added Pin To Net: NetName=VDD Pin=PAFS-4
+Added Pin To Net: NetName=NetPAGA_1 Pin=PAGA-1
+Added Pin To Net: NetName=GND Pin=PAGA-2
+Added Pin To Net: NetName=NetPAGA_3 Pin=PAGA-3
+Added Pin To Net: NetName=VDD Pin=PAGA-4
+Added Pin To Net: NetName=NetPAFB_3 Pin=PAGB-1
+Added Pin To Net: NetName=GND Pin=PAGB-2
+Added Pin To Net: NetName=LED in Pin=PAGB-3
+Added Pin To Net: NetName=VDD Pin=PAGB-4
+Added Pin To Net: NetName=NetPAGH_1 Pin=PAGH-1
+Added Pin To Net: NetName=GND Pin=PAGH-2
+Added Pin To Net: NetName=NetPAFM_1 Pin=PAGH-3
+Added Pin To Net: NetName=VDD Pin=PAGH-4
+Added Pin To Net: NetName=NetPAGL_1 Pin=PAGL-1
+Added Pin To Net: NetName=GND Pin=PAGL-2
+Added Pin To Net: NetName=NetPAGL_3 Pin=PAGL-3
+Added Pin To Net: NetName=VDD Pin=PAGL-4
+Added Pin To Net: NetName=NetPAHC_1 Pin=PAHC-1
+Added Pin To Net: NetName=GND Pin=PAHC-2
+Added Pin To Net: NetName=NetPAHC_3 Pin=PAHC-3
+Added Pin To Net: NetName=VDD Pin=PAHC-4
+Added Pin To Net: NetName=NetPAHL_1 Pin=PAHL-1
+Added Pin To Net: NetName=GND Pin=PAHL-2
+Added Pin To Net: NetName=NetPAGH_1 Pin=PAHL-3
+Added Pin To Net: NetName=VDD Pin=PAHL-4
+Added Pin To Net: NetName=NetPAHX_1 Pin=PAHX-1
+Added Pin To Net: NetName=GND Pin=PAHX-2
+Added Pin To Net: NetName=NetPAHX_3 Pin=PAHX-3
+Added Pin To Net: NetName=VDD Pin=PAHX-4
+Added Pin To Net: NetName=NetPAFM_3 Pin=PAIK-1
+Added Pin To Net: NetName=GND Pin=PAIK-2
+Added Pin To Net: NetName=NetPAIK_3 Pin=PAIK-3
+Added Pin To Net: NetName=VDD Pin=PAIK-4
+Added Pin To Net: NetName=NetPAIM_1 Pin=PAIM-1
+Added Pin To Net: NetName=GND Pin=PAIM-2
+Added Pin To Net: NetName=NetPABT_1 Pin=PAIM-3
+Added Pin To Net: NetName=VDD Pin=PAIM-4
+Added Pin To Net: NetName=NetPAFS_3 Pin=PAIN-1
+Added Pin To Net: NetName=GND Pin=PAIN-2
+Added Pin To Net: NetName=NetPAFB_1 Pin=PAIN-3
+Added Pin To Net: NetName=VDD Pin=PAIN-4
+Added Pin To Net: NetName=NetINVALID_3 Pin=PAIW-1
+Added Pin To Net: NetName=GND Pin=PAIW-2
+Added Pin To Net: NetName=NetPACZ_1 Pin=PAIW-3
+Added Pin To Net: NetName=VDD Pin=PAIW-4
+Added Pin To Net: NetName=NetPABL_3 Pin=PAKK-1
+Added Pin To Net: NetName=GND Pin=PAKK-2
+Added Pin To Net: NetName=NetPAHL_1 Pin=PAKK-3
+Added Pin To Net: NetName=VDD Pin=PAKK-4
+Added Pin To Net: NetName=NetPAKP_1 Pin=PAKP-1
+Added Pin To Net: NetName=GND Pin=PAKP-2
+Added Pin To Net: NetName=NetPAKP_3 Pin=PAKP-3
+Added Pin To Net: NetName=VDD Pin=PAKP-4
+Added Pin To Net: NetName=NetPACX_3 Pin=PAKU-1
+Added Pin To Net: NetName=GND Pin=PAKU-2
+Added Pin To Net: NetName=NetPAKU_3 Pin=PAKU-3
+Added Pin To Net: NetName=VDD Pin=PAKU-4
+Added Pin To Net: NetName=NetPAKV_1 Pin=PAKV-1
+Added Pin To Net: NetName=GND Pin=PAKV-2
+Added Pin To Net: NetName=NetPAGA_1 Pin=PAKV-3
+Added Pin To Net: NetName=VDD Pin=PAKV-4
+Added Pin To Net: NetName=NetPAKU_3 Pin=PALP-1
+Added Pin To Net: NetName=GND Pin=PALP-2
+Added Pin To Net: NetName=NetPABR_1 Pin=PALP-3
+Added Pin To Net: NetName=VDD Pin=PALP-4
+Added Pin To Net: NetName=NetPALU_1 Pin=PALU-1
+Added Pin To Net: NetName=GND Pin=PALU-2
+Added Pin To Net: NetName=NetPALU_3 Pin=PALU-3
+Added Pin To Net: NetName=VDD Pin=PALU-4
+Added Pin To Net: NetName=NetPAMC_1 Pin=PAMC-1
+Added Pin To Net: NetName=GND Pin=PAMC-2
+Added Pin To Net: NetName=NetPAFS_1 Pin=PAMC-3
+Added Pin To Net: NetName=VDD Pin=PAMC-4
+Added Pin To Net: NetName=NetPAHX_3 Pin=PAMH-1
+Added Pin To Net: NetName=GND Pin=PAMH-2
+Added Pin To Net: NetName=NetPAMH_3 Pin=PAMH-3
+Added Pin To Net: NetName=VDD Pin=PAMH-4
+Added Pin To Net: NetName=NetPAMK_1 Pin=PAMK-1
+Added Pin To Net: NetName=GND Pin=PAMK-2
+Added Pin To Net: NetName=NetPAMK_3 Pin=PAMK-3
+Added Pin To Net: NetName=VDD Pin=PAMK-4
+Added Pin To Net: NetName=NetPAMO_1 Pin=PAMO-1
+Added Pin To Net: NetName=GND Pin=PAMO-2
+Added Pin To Net: NetName=NetPAMO_3 Pin=PAMO-3
+Added Pin To Net: NetName=VDD Pin=PAMO-4
+Added Pin To Net: NetName=NetPAMH_3 Pin=PANN-1
+Added Pin To Net: NetName=GND Pin=PANN-2
+Added Pin To Net: NetName=NetPAFA_1 Pin=PANN-3
+Added Pin To Net: NetName=VDD Pin=PANN-4
+Added Pin To Net: NetName=NetPANU_1 Pin=PANU-1
+Added Pin To Net: NetName=GND Pin=PANU-2
+Added Pin To Net: NetName=NetPAIM_1 Pin=PANU-3
+Added Pin To Net: NetName=VDD Pin=PANU-4
+Added Pin To Net: NetName=NetPAMK_3 Pin=PANV-1
+Added Pin To Net: NetName=GND Pin=PANV-2
+Added Pin To Net: NetName=NetPAHX_1 Pin=PANV-3
+Added Pin To Net: NetName=VDD Pin=PANV-4
+Added Pin To Net: NetName=NetPAOM_1 Pin=PAOM-1
+Added Pin To Net: NetName=GND Pin=PAOM-2
+Added Pin To Net: NetName=NetPAMK_1 Pin=PAOM-3
+Added Pin To Net: NetName=VDD Pin=PAOM-4
+Added Pin To Net: NetName=NetPAOT_1 Pin=PAOT-1
+Added Pin To Net: NetName=GND Pin=PAOT-2
+Added Pin To Net: NetName=NetPADE_1 Pin=PAOT-3
+Added Pin To Net: NetName=VDD Pin=PAOT-4
+Added Pin To Net: NetName=NetPALU_3 Pin=PAPO-1
+Added Pin To Net: NetName=GND Pin=PAPO-2
+Added Pin To Net: NetName=NetPAPO_3 Pin=PAPO-3
+Added Pin To Net: NetName=VDD Pin=PAPO-4
+Added Pin To Net: NetName=NetPAPR_1 Pin=PAPR-1
+Added Pin To Net: NetName=GND Pin=PAPR-2
+Added Pin To Net: NetName=NetPAKP_1 Pin=PAPR-3
+Added Pin To Net: NetName=VDD Pin=PAPR-4
+Added Pin To Net: NetName=NetPAKP_3 Pin=PAQT-1
+Added Pin To Net: NetName=GND Pin=PAQT-2
+Added Pin To Net: NetName=NetPAQT_3 Pin=PAQT-3
+Added Pin To Net: NetName=VDD Pin=PAQT-4
+Added Pin To Net: NetName=NetPADM_3 Pin=PARS-1
+Added Pin To Net: NetName=GND Pin=PARS-2
+Added Pin To Net: NetName=NetPAHC_1 Pin=PARS-3
+Added Pin To Net: NetName=VDD Pin=PARS-4
+Added Pin To Net: NetName=NetPAGA_3 Pin=PARY-1
+Added Pin To Net: NetName=GND Pin=PARY-2
+Added Pin To Net: NetName=NetPARY_3 Pin=PARY-3
+Added Pin To Net: NetName=VDD Pin=PARY-4
+Added Pin To Net: NetName=NetPASH_1 Pin=PASH-1
+Added Pin To Net: NetName=GND Pin=PASH-2
+Added Pin To Net: NetName=NetPASH_3 Pin=PASH-3
+Added Pin To Net: NetName=VDD Pin=PASH-4
+Added Pin To Net: NetName=Out Pin=PASK-1
+Added Pin To Net: NetName=GND Pin=PASK-2
+Added Pin To Net: NetName=NetPABL_1 Pin=PASK-3
+Added Pin To Net: NetName=VDD Pin=PASK-4
+Added Pin To Net: NetName=NetPAMO_3 Pin=PASM-1
+Added Pin To Net: NetName=GND Pin=PASM-2
+Added Pin To Net: NetName=NetPADM_1 Pin=PASM-3
+Added Pin To Net: NetName=VDD Pin=PASM-4
+Added Pin To Net: NetName=NetPARY_3 Pin=PATA-1
+Added Pin To Net: NetName=GND Pin=PATA-2
+Added Pin To Net: NetName=NetPAPR_1 Pin=PATA-3
+Added Pin To Net: NetName=VDD Pin=PATA-4
+Added Pin To Net: NetName=NetPAPO_3 Pin=PATC-1
+Added Pin To Net: NetName=GND Pin=PATC-2
+Added Pin To Net: NetName=NetPAOM_1 Pin=PATC-3
+Added Pin To Net: NetName=VDD Pin=PATC-4
+Added Pin To Net: NetName=NetPATE_1 Pin=PATE-1
+Added Pin To Net: NetName=GND Pin=PATE-2
+Added Pin To Net: NetName=NetPATE_3 Pin=PATE-3
+Added Pin To Net: NetName=VDD Pin=PATE-4
+Added Pin To Net: NetName=NetPAHC_3 Pin=PATL-1
+Added Pin To Net: NetName=GND Pin=PATL-2
+Added Pin To Net: NetName=NetPAMC_1 Pin=PATL-3
+Added Pin To Net: NetName=VDD Pin=PATL-4
+Added Pin To Net: NetName=NetPAQT_3 Pin=PATQ-1
+Added Pin To Net: NetName=GND Pin=PATQ-2
+Added Pin To Net: NetName=NetPATQ_3 Pin=PATQ-3
+Added Pin To Net: NetName=VDD Pin=PATQ-4
+Added Pin To Net: NetName=NetPAGL_3 Pin=PAUN-1
+Added Pin To Net: NetName=GND Pin=PAUN-2
+Added Pin To Net: NetName=NetPAKV_1 Pin=PAUN-3
+Added Pin To Net: NetName=VDD Pin=PAUN-4
+Added Pin To Net: NetName=NetPACM_3 Pin=PAVA-1
+Added Pin To Net: NetName=GND Pin=PAVA-2
+Added Pin To Net: NetName=NetPAMO_1 Pin=PAVA-3
+Added Pin To Net: NetName=VDD Pin=PAVA-4
+Added Pin To Net: NetName=NetPADG_3 Pin=PAVL-1
+Added Pin To Net: NetName=GND Pin=PAVL-2
+Added Pin To Net: NetName=NetPASH_1 Pin=PAVL-3
+Added Pin To Net: NetName=VDD Pin=PAVL-4
+Added Pin To Net: NetName=NetPATE_3 Pin=PAWM-1
+Added Pin To Net: NetName=GND Pin=PAWM-2
+Added Pin To Net: NetName=NetPAGL_1 Pin=PAWM-3
+Added Pin To Net: NetName=VDD Pin=PAWM-4
+Added Pin To Net: NetName=NetPAIK_3 Pin=PAWN-1
+Added Pin To Net: NetName=GND Pin=PAWN-2
+Added Pin To Net: NetName=NetPAOT_1 Pin=PAWN-3
+Added Pin To Net: NetName=VDD Pin=PAWN-4
+Added Pin To Net: NetName=NetPADE_3 Pin=PFEL-1
+Added Pin To Net: NetName=GND Pin=PFEL-2
+Added Pin To Net: NetName=NetPFEL_3 Pin=PFEL-3
+Added Pin To Net: NetName=VDD Pin=PFEL-4
+Added Pin To Net: NetName=NetPASH_3 Pin=PFKT-1
+Added Pin To Net: NetName=GND Pin=PFKT-2
+Added Pin To Net: NetName=NetPATE_1 Pin=PFKT-3
+Added Pin To Net: NetName=VDD Pin=PFKT-4
+Added Pin To Net: NetName=NetPFEL_3 Pin=PFSH-1
+Added Pin To Net: NetName=GND Pin=PFSH-2
+Added Pin To Net: NetName=NetPANU_1 Pin=PFSH-3
+Added Pin To Net: NetName=VDD Pin=PFSH-4
+Added Pin To Net: NetName=VDD Pin=Power1-1
+Added Pin To Net: NetName=GND Pin=Power1-2
+Added Pin To Net: NetName=VDD Pin=Power2-1
+Added Pin To Net: NetName=GND Pin=Power2-2
+Added Pin To Net: NetName=VDD Pin=Power / LED in1-1
+Added Pin To Net: NetName=1A Pin=Power / LED in1-2
+Added Pin To Net: NetName=GND Pin=Power / LED in1-3
+Added Pin To Net: NetName=VDD Pin=Power / LED out1-1
+Added Pin To Net: NetName=Out Pin=Power / LED out1-2
+Added Pin To Net: NetName=GND Pin=Power / LED out1-3
+Added Pin To Net: NetName=VDD Pin=Power Conn1-1
+Added Pin To Net: NetName=GND Pin=Power Conn1-2
+Added Pin To Net: NetName=NetPATQ_3 Pin=PPIZ-1
+Added Pin To Net: NetName=GND Pin=PPIZ-2
+Added Pin To Net: NetName=NetPALU_1 Pin=PPIZ-3
+Added Pin To Net: NetName=VDD Pin=PPIZ-4
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=1A Pin=U1-2
+Added Pin To Net: NetName=LED in Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=VDD Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=1A Pin=U2-2
+Added Pin To Net: NetName=LED in Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=VDD Pin=U2-14
+Added Pin To Net: NetName=GND Pin=USB-C1-A1B12
+Added Pin To Net: NetName=VDD Pin=USB-C1-A4B9
+Added Pin To Net: NetName=NetR1_2 Pin=USB-C1-A5
+Added Pin To Net: NetName=GND Pin=USB-C1-B1A12
+Added Pin To Net: NetName=VDD Pin=USB-C1-B4A9
+Added Pin To Net: NetName=NetR2_2 Pin=USB-C1-B5
+Added Pin To Net: NetName=NetPABR_3 Pin=VFR-1
+Added Pin To Net: NetName=GND Pin=VFR-2
+Added Pin To Net: NetName=NetMVFR_1 Pin=VFR-3
+Added Pin To Net: NetName=VDD Pin=VFR-4
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C1 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C2 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C3 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C4 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C5 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C6 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C7 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C8 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C9 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C10 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C11 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C12 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C13 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C14 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C15 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C16 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C17 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C18 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C19 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C20 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C21 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C22 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C23 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C24 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C25 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C26 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C27 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C28 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C29 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C30 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C31 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C32 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C33 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C34 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C35 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C36 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C37 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C38 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C39 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C40 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C41 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C42 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C43 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C44 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C45 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C46 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C47 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C48 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C49 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C50 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C51 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C52 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C53 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C54 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C55 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C56 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C57 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C58 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C59 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C60 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C61 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C62 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C63 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C64 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C65 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component C66 16V
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Connector In1 HCTL PM254-2-05-S-8.5
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Connector Out1 HCTL PM254-2-05-S-8.5
+Added Member To Class: ClassName=Alaska 1-1 Member=Component CPU-Con1 Liansheng FH-00148
+Added Member To Class: ClassName=Alaska 1-1 Member=Component CPU Con1 40 pin Female connector
+Added Member To Class: ClassName=Alaska 1-1 Member=Component IFR Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component INVALID Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component LIFR Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH1 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH2 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH3 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH4 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH5 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH6 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH7 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH8 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH9 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH10 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH11 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH12 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH13 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH14 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH15 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH16 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH17 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH18 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH19 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH20 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH21 Hole 14mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH22 Hole 12mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH23 Hole 12mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH24 Hole 12mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH25 Hole 12mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH26 Hole 12mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MH27 Hole 12mm diameter
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mount_foot1 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mount_Foot2 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Case 1 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Case 2 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Case 3 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Case 4 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 1 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 2 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 3 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 4 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 5 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 6 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 7 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 8 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 9 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 10 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 11 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Mounting Frame 12 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component MVFR Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PABL Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PABR Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PABT Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PACM Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PACX Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PACZ Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PADE Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PADG Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PADM Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAFA Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAFB Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAFM Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAFS Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAGA Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAGB Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAGH Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAGL Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAHC Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAHL Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAHX Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAIK Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAIM Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAIN Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAIW Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAKK Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAKP Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAKU Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAKV Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PALP Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PALU Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAMC Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAMH Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAMK Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAMO Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PANN Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PANU Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PANV Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAOM Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAOT Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAPO Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAPR Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAQT Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PARS Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PARY Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PASH Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PASK Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PASM Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PATA Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PATC Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PATE Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PATL Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PATQ Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAUN Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAVA Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAVL Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAWM Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PAWN Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PFEL Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PFKT Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PFSH Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Power1 TE Connectivity 282836-2
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Power2 TE Connectivity 282836-2
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Power / LED in1 TE Connectivity 282836-3
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Power / LED out1 TE Connectivity 282836-3
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Power Conn1 CMP-330397-12
+Added Member To Class: ClassName=Alaska 1-1 Member=Component PPIZ Worldsemi WS2812B-2020
+Added Member To Class: ClassName=Alaska 1-1 Member=Component R1 5.1k 0603
+Added Member To Class: ClassName=Alaska 1-1 Member=Component R2 5.1k 0603
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Side1 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Side2 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Side3 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Side4 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Side5 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Side6 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Side7 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component Side8 Mounting Hole
+Added Member To Class: ClassName=Alaska 1-1 Member=Component U1 TI (Texas Instruments) SN74AHCT125PWR
+Added Member To Class: ClassName=Alaska 1-1 Member=Component U2 Texas Instruments SN74AHCT125DR
+Added Member To Class: ClassName=Alaska 1-1 Member=Component USB-C1 Hooya USB-310M-B-SU
+Added Member To Class: ClassName=Alaska 1-1 Member=Component VFR Worldsemi WS2812B-2020

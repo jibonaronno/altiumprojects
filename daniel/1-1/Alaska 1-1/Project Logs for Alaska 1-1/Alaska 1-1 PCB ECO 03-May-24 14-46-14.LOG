@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C67 Old Footprint=CAPC1005X56X25NL10T15 New Footprint=CAPC1005X56X25NL10T15
+Change Component Footprint: Designator=C68 Old Footprint=CAPC1005X56X25NL10T15 New Footprint=CAPC1005X56X25NL10T15
+Change Component Footprint: Designator=C69 Old Footprint=CAPC1005X56X25NL10T15 New Footprint=CAPC1005X56X25NL10T15
+Added Pin To Net: NetName=VDD Pin=C52-1
+Added Pin To Net: NetName=VDD Pin=C57-1
+Added Pin To Net: NetName=VDD Pin=C62-1

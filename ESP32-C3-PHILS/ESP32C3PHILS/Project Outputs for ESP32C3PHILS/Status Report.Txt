@@ -1,12 +1,11 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [ESP32C3PHILS.PrjPcb]
-   Generated File[esp32c3phils.TXT]
-   Generated File[esp32c3phils.LDP]
-   Generated File[esp32c3phils.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [ESP32C3PHILS.PrjPcb]
+   Generated File[Pick Place for esp32c3phils.txt]
+   Generated File[Pick Place for esp32c3phils.csv]
 
 
-Files Generated   : 3
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 10:22:06 PM On 6/30/2025
+Finished Output Generation At 10:27:26 PM On 7/16/2025

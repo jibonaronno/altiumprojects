@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=J1 Old Footprint=GCT_USB4145-03-0230-C_REVA2 New Footprint=GCT_USB4110GFA
+Change Component Comment : Designator=J1 Old Comment=USB4145-03-0230-C New Comment=USB-C
+Change component parameters: Designator = "J1" ("J1"); Footprint = "GCT_USB4145-03-0230-C_REVA2"; UniqueID = "\MHTKKKIK" ("\MHTKKKIK")
+Change component parameters (AddParameter): Name = "Category"; Value = "USB Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://gct.co/files/drawings/usb4110.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://gct.co/files/drawings/usb4110.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "153,157ConductorMaterial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.46mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "USB4110-GF-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4110-GF-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "16NUMBER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16NUMBER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "5496OrientationType"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.64, 10=1.244, 25=1.1176, 50=1.032, 100=0.9547, 250=0.86368, 500=0.80254 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "30215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2073-USB4110-GF-A-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "USB Standard"; Value = "6108USBStandard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "20V"; VariantName = "[No Variations]"

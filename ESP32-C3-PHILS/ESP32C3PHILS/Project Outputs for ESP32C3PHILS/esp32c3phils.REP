@@ -2,26 +2,6 @@
 FileName = esp32c3phils.GBR
 AutoAperture = True
 *************************************************************
-Generating : Layer 1
-      File : esp32c3phils.G1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D17
-    D92
-    D93
-    D94
-    D95
-    D96
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : esp32c3phils.GTP
 
@@ -62,7 +42,84 @@ Used DCodes :
     D45
     D46
     D47
-    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : esp32c3phils.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : esp32c3phils.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D17
+    D76
+    D77
+    D88
+    D91
+    D92
+    D93
+    D94
+    D95
+    D97
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : esp32c3phils.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : esp32c3phils.G4
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
 *************************************************************
 
 *************************************************************
@@ -78,6 +135,28 @@ Used DCodes :
     D11
     D13
     D17
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : esp32c3phils.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D17
+    D91
     D92
     D93
     D94
@@ -97,12 +176,100 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D74
+    D75
     D76
     D77
     D78
     D79
     D80
-    D81
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : esp32c3phils.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D13
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : esp32c3phils.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D30
+    D34
+    D36
+    D37
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Layer 4
+      File : esp32c3phils.G3
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
 *************************************************************
 
 *************************************************************
@@ -145,10 +312,10 @@ Used DCodes :
     D43
     D44
     D45
-    D46
-    D48
+    D47
     D76
     D77
+    D81
     D82
     D83
     D84
@@ -163,168 +330,6 @@ Used DCodes :
     D93
     D94
     D95
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : esp32c3phils.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Layer 4
-      File : esp32c3phils.G3
-
-    Adding Layer      : Layer 4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D17
-    D92
-    D93
-    D94
-    D95
-    D96
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : esp32c3phils.G4
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D17
-    D92
-    D93
-    D94
-    D95
-    D96
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : esp32c3phils.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D17
-    D76
-    D77
-    D89
-    D92
-    D93
-    D94
-    D95
-    D97
-    D98
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : esp32c3phils.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : esp32c3phils.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D13
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : esp32c3phils.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D28
-    D32
-    D34
-    D35
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
 *************************************************************
 
 *************************************************************

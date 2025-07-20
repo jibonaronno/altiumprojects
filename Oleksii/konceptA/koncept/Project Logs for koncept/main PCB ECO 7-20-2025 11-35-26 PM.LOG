@@ -1,0 +1,18 @@
+Added Component: Designator=A1(TEENSY_LONG_EXT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Teensy%204.1/PJRC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "PJRC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Teensy 4.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Teensy%204.1/PJRC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M1()
+Added Pin To Net: NetName=NetA1_3V3 Pin=A1-3V3
+Added Pin To Net: NetName=NetA1_3V3 Pin=A1-3V3@2
+Added Pin To Net: NetName=NetA1_3V3 Pin=A1-3V3@3
+Added Net: Name=NetA1_3V3
+Added Pin To Net: NetName=NetA1_AGND/GND Pin=A1-AGND/GND
+Added Pin To Net: NetName=NetA1_AGND/GND Pin=A1-GND
+Added Pin To Net: NetName=NetA1_AGND/GND Pin=A1-GND@2
+Added Net: Name=NetA1_AGND/GND
+Added Class: Name=main
+Added Room: Name=main

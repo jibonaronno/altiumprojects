@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=J1 Old Footprint=JST_B4B-XH-A New Footprint=CONN_SM04B-SRSS-TB_JST
+Change Component Comment : Designator=J1 Old Comment=B4B-XH-A New Comment=SM04B-SRSS-TB
+Change component parameters: Designator = "J1" ("J1"); Footprint = "JST_B4B-XH-A"; UniqueID = "\VOVVIBGH" ("\VOVVIBGH")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-SRSS-TB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=D+ Pin=U1-22
+Added Pin To Net: NetName=D+ Pin=U2-6
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=U1-21
+Added Pin To Net: NetName=D- Pin=U2-4
+Added Net: Name=D-

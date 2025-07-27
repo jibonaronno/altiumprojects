@@ -1,0 +1,18 @@
+Added Component: Designator=PS1(CONV_R1SE-0505-R)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/R1SE-0505-R/Recom+Power/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "R1SE-0505-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/R1SE-0505-R/Recom+Power/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PS2(CONV_R1S-3.33.3/H)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/R1S-3.33.3/H/Recom+Power/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "945-1753-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "R1S-3.33.3/H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-8 Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/R1S-3.33.3/H/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/R1S-3.33.3/H/Recom+Power/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=main Member=Component PS1 R1SE-0505-R
+Added Member To Class: ClassName=main Member=Component PS2 R1S-3.33.3/H

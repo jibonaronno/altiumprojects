@@ -1,0 +1,9 @@
+Added Component: Designator=J1(SAMTEC_SSW-120-01-G-D-LL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SSW-120-01-G-D-LL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=main Member=Component J1 SSW-120-01-G-D-LL
+Change Room Scope: Old Scope=InComponentClass('Outside Board Components') New Scope=InComponentClass('main')

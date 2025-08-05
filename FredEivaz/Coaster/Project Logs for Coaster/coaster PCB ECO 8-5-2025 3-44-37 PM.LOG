@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=coaster Member=X1
+Added Component: Designator=Y1(XTAL_ECS-240-8-33-AGN-TR)
+Add component (AddParameter): Name = "Category"; Value = "Crystals"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com/ECS-80-12-33-JGN-TR-ECS-International-datasheet-140089731.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com/ECS-80-12-33-JGN-TR-ECS-International-datasheet-140089731.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/ECS-80-12-33-JGN-TR-ECS-International-datasheet-17018741.pdf?src-supplier=Master+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/ECS-80-12-33-JGN-TR-ECS-International-datasheet-17018741.pdf?src-supplier=Master+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ECS International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECS-80-12-33-JGN-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.56, 10=0.486, 50=0.4402, 100=0.422, 500=0.38258 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "25392"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "50-ECS-80-12-33-JGN-CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=OSC_IN Pin=C1-1
+Added Pin To Net: NetName=OSC_IN Pin=U1-2
+Added Pin To Net: NetName=OSC_IN Pin=Y1-1
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C2-1
+Added Pin To Net: NetName=OSC_OUT Pin=U1-3
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-3
+Added Net: Name=OSC_OUT
+Added Member To Class: ClassName=coaster Member=Component Y1 ECS-80-12-33-JGN-TR

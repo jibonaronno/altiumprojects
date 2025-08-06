@@ -1,0 +1,8 @@
+Added Component: Designator=A3(TEENSY_LONG_EXT_COPY)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Teensy%204.1/PJRC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "PJRC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Teensy 4.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Teensy%204.1/PJRC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=main Member=Component A3 TEENSY_4.1_COPY

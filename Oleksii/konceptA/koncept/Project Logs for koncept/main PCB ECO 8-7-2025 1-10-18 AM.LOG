@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+5 Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=U11-11
+Removed Member From Class: ClassName=main Member=U11
+Change Component Comment : Designator=R7 Old Comment=CRGCQ1206F2K2 New Comment=RMCF1206FT220R
+Change component parameters: Designator = "R7" ("R7"); Footprint = "STA_RMCF1206_STP-L"; UniqueID = "\NONECSQJ" ("\NONECSQJ")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF1206FT220R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(STA_RMCF1206_STP-L)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF1206FT220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TEENSY_3v3 Pin=J9-1
+Added Pin To Net: NetName=TEENSY_CS0 Pin=R7-2
+Added Pin To Net: NetName=TEENSY_SCK0 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=MISO1 Pin=U5-7
+Added Pin To Net: NetName=TEENSY_3v3 Pin=U5-8
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U4-4
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U4-1
+Added Net: Name=NetR15_1
+Added Member To Class: ClassName=main Member=Component R15 RMCF1206FT220R

@@ -1,0 +1,4 @@
+Input from PCDU A=Bus Voltage A+,Bus Voltage A-
+Input from PCDU B=Bus Voltage B+,Bus Voltage B-
+Output from DC DC A=12V A+,12V A-
+Output from DC DC B=12V B+,12V B-

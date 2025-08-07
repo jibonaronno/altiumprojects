@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TEENSY_CS0 Pin=R7-2
+Removed Pin From Net: NetName=TEENSY_SCK0 Pin=R15-2
+Added Pin To Net: NetName=CS1 Pin=R7-2
+Added Pin To Net: NetName=SCK1 Pin=R15-2

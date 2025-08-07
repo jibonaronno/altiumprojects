@@ -1,0 +1,142 @@
+Added Component: Designator=J16(HEADER_PIN_10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com/10129378-910002BLF-Amphenol-ICC-datasheet-100454231.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com/10129378-910002BLF-Amphenol-ICC-datasheet-100454231.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC / FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "10129378910002BLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.19, 10=0.164, 100=0.1394, 500=0.12438, 2400=0.11133, 7200=0.10302, 12000=0.09937 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "16991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10129378-910002BLF-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DIL08)
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Optocouplers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15119/getdatasheetpartid-112638-15119660.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15119/getdatasheetpartid-112638-15119660.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/8065/310763-8065655.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/8065/310763-8065655.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "5Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "0.007us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.56mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Current"; Value = "1.8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation Voltage"; Value = "3.75kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Broadcom Avago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HCPL-2232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "294mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "TOTEM POLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "294mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=14.3, 50=9.7886, 100=9.3402, 500=8.54718, 1000=8.29007 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "300ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "30ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "516-HCPL-2232-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "300ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6.35mm"; VariantName = "[No Variations]"
+Added Component: Designator=U9(DIL08)
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Optocouplers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15119/getdatasheetpartid-112638-15119660.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15119/getdatasheetpartid-112638-15119660.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/8065/310763-8065655.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/8065/310763-8065655.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "5Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "0.007us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.56mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Current"; Value = "1.8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation Voltage"; Value = "3.75kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Broadcom Avago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HCPL-2232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "294mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "TOTEM POLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "294mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=14.3, 50=9.7886, 100=9.3402, 500=8.54718, 1000=8.29007 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "300ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "30ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "516-HCPL-2232-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "300ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6.35mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO5 Pin=J1-29
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO6 Pin=J1-31
+Added Net: Name=GPIO6
+Added Pin To Net: NetName=GPIO12 Pin=J1-32
+Added Net: Name=GPIO12
+Added Pin To Net: NetName=GPIO13 Pin=J1-33
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO16 Pin=J1-36
+Added Net: Name=GPIO16
+Added Pin To Net: NetName=GPIO19 Pin=J1-35
+Added Net: Name=GPIO19
+Added Pin To Net: NetName=GPIO21 Pin=J1-40
+Added Net: Name=GPIO21
+Added Pin To Net: NetName=GPIO26 Pin=J1-37
+Added Net: Name=GPIO26
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Pin To Net: NetName=NetJ16_1 Pin=U1-7
+Added Net: Name=NetJ16_1
+Added Pin To Net: NetName=NetJ16_2 Pin=J16-2
+Added Pin To Net: NetName=NetJ16_2 Pin=U1-6
+Added Net: Name=NetJ16_2
+Added Pin To Net: NetName=NetJ16_3 Pin=J16-3
+Added Pin To Net: NetName=NetJ16_3 Pin=U9-7
+Added Net: Name=NetJ16_3
+Added Pin To Net: NetName=NetJ16_4 Pin=J16-4
+Added Pin To Net: NetName=NetJ16_4 Pin=U9-6
+Added Net: Name=NetJ16_4
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-3
+Added Net: Name=NetU1_2
+Added Member To Class: ClassName=main Member=Component J16 10129378910002BLF
+Added Member To Class: ClassName=main Member=Component U1 HCPL-2232
+Added Member To Class: ClassName=main Member=Component U9 HCPL-2232

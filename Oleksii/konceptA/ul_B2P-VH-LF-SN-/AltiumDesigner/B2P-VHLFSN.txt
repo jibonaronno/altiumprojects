@@ -1,0 +1,64 @@
+# Created by Ultra Librarian 8.3.372 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CONN_B2P-VH_JST")
+Pad (Name "1") (Location 0, 0) (Slotted False) (HoleSize 69) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -44.5)
+PadShape (Size 89, 89) (Shape Rounded) (Layer Top)
+PadShape (Size 89, 89) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "2") (Location 155.90555116, 0) (Slotted False) (HoleSize 69) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -44.5)
+PadShape (Size 89, 89) (Shape Rounded) (Layer Top)
+PadShape (Size 89, 89) (Shape Rounded) (Layer Bottom)
+EndPad
+Line (Width 6) (Start -86.54724884, 155.66929626) (End -86.54724884, -199.33070374) (Layer Mechanical15) 
+Line (Width 6) (Start -86.54724884, -199.33070374) (End 242.45275116, -199.33070374) (Layer Mechanical15) 
+Line (Width 6) (Start 242.45275116, -199.33070374) (End 242.45275116, 155.66929626) (Layer Mechanical15) 
+Line (Width 6) (Start 242.45275116, 155.66929626) (End -86.54724884, 155.66929626) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-86.54724884, 155.66929626)
+Point (-86.54724884, -199.33070374)
+Point (242.45275116, -199.33070374)
+Point (242.45275116, 155.66929626)
+EndPolygon
+Line (Width 6) (Start -81.54724884, -194.33070374) (End 237.45275116, -194.33070374) (Layer TopOverlay) 
+Line (Width 6) (Start 237.45275116, -194.33070374) (End 237.45275116, 150.66929626) (Layer TopOverlay) 
+Line (Width 6) (Start 237.45275116, 150.66929626) (End -81.54724884, 150.66929626) (Layer TopOverlay) 
+Line (Width 6) (Start -81.54724884, 150.66929626) (End -81.54724884, -194.33070374) (Layer TopOverlay) 
+Arc (Width 20) (Radius 15) (Location -151.54724884, 0) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Text (Location 2.95275116, -25) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "RefDes")
+Line (Width 1) (Start -76.54724884, -189.33070374) (End 232.45275116, -189.33070374) (Layer Mechanical13) 
+Line (Width 1) (Start 232.45275116, -189.33070374) (End 232.45275116, 145.66929626) (Layer Mechanical13) 
+Line (Width 1) (Start 232.45275116, 145.66929626) (End -76.54724884, 145.66929626) (Layer Mechanical13) 
+Line (Width 1) (Start -76.54724884, 145.66929626) (End -76.54724884, -189.33070374) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location 0, 75) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Text (Location -9.54724884, -25) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "RefDes2")
+Text (Location -9.54724884, -25) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "REFDES")
+Arc (Width 20) (Radius 15) (Location -151.54724884, 0) (StartAngle 0) (EndAngle 360) (Layer BottomOverlay) 
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "B2P-VHLFSN") (PartCount 1) (DesPrefix "J?")
+Pin (Location 200, 0) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 200, -100) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Line (Width 5) (Start 400, 0) (End 200, 0) (Part 1)
+Line (Width 5) (Start 400, -100) (End 200, -100) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, 33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -66.6667) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, -33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -133.3333) (Part 1)
+Rectangle (Width 5) (Start 200, -200) (End 500, 100) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2025 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Manufacturer_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "JST") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "B2P-VH(LF)(SN)") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_1") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "455-1639-ND") (Part 1)
+Parameter (Name "RefDes") (Location 350, 250) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 400, 0) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "B2P-VH(LF)(SN)") (Part 1)
+Footprint (Name "CONN_B2P-VH_JST")
+EndComponent
+EndComponents

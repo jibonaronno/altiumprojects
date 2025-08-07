@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=main Member=U1
+Added Component: Designator=A2(AM117_BOARD_Copy)
+Added Component: Designator=J13(HARWIN_M20-9990246)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M20-9990246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J14(HARWIN_M20-9990246)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M20-9990246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=main Member=Component A2 AMS1117_BOARD_Copy
+Added Member To Class: ClassName=main Member=Component J13 M20-9990246
+Added Member To Class: ClassName=main Member=Component J14 M20-9990246

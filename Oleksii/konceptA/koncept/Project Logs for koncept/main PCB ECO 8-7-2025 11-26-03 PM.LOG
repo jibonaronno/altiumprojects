@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=+5 Pin=J16-9
+Added Pin To Net: NetName=GND Pin=J16-10
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=+5 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=+5 Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=+5 Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-3
+Added Pin To Net: NetName=+5 Pin=U13-8

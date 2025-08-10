@@ -1,0 +1,9 @@
+Change Component Description : Designator=Q1 Old Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 New Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 | ON Semiconductor MMBT3904LT1G
+Added Pin To Net: NetName=PA8 Pin=U1-18
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=U1-19
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=U1-20
+Added Net: Name=PA10
+Added Pin To Net: NetName=PB6 Pin=U1-29
+Added Net: Name=PB6

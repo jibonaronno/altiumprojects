@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Coaster.PrjPcb]
+   Generated File[coaster.TXT]
+   Generated File[coaster.LDP]
+   Generated File[coaster.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:32:29 PM On 8/16/2025

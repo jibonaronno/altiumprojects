@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=STIMU_ON Pin=J8-4
+Added Pin To Net: NetName=D20 Pin=J8-7
+Added Net: Name=D20
+Added Pin To Net: NetName=D21 Pin=J8-6
+Added Net: Name=D21
+Added Pin To Net: NetName=D22 Pin=J8-5
+Added Net: Name=D22

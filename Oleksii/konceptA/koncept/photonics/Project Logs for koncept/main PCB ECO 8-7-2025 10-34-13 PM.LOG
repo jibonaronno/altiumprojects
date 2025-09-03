@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=GPIO22 Pin=J1-15
+Added Net: Name=GPIO22
+Added Pin To Net: NetName=GPIO24 Pin=J1-18
+Added Net: Name=GPIO24
+Added Pin To Net: NetName=GPIO25 Pin=J1-22
+Added Net: Name=GPIO25
+Added Pin To Net: NetName=GPIO32 Pin=J1-16
+Added Net: Name=GPIO32
+Added Pin To Net: NetName=RPI_3v3 Pin=J1-17
+Added Net: Name=RPI_3v3
+Added Pin To Net: NetName=RXD0 Pin=J1-13
+Added Net: Name=RXD0
+Added Pin To Net: NetName=TXD0 Pin=J1-11
+Added Net: Name=TXD0

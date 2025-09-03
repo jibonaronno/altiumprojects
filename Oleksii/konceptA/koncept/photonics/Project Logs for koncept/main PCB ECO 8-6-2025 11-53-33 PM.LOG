@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3V3 Pin=A2-3V3@2
+Removed Pin From Net: NetName=+3V3 Pin=A2-3V3@3
+Removed Pin From Net: NetName=+3V3 Pin=A2-3V3
+Removed Pin From Net: NetName=2A2_Q41 Pin=A2-D6
+Removed Pin From Net: NetName=2B2_Q42 Pin=A2-D9
+Removed Pin From Net: NetName=+5 Pin=A2-VIN
+Removed Member From Class: ClassName=main Member=A2

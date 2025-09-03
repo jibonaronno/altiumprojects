@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ADC01 Pin=R37-2
+Removed Pin From Net: NetName=ADC01 Pin=R38-2
+Added Component: Designator=J24(HARWIN_M20-9990246)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M20-9990246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-2262-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC01 Pin=J24-2
+Added Pin To Net: NetName=NetJ24_1 Pin=J24-1
+Added Pin To Net: NetName=NetJ24_1 Pin=R37-2
+Added Pin To Net: NetName=NetJ24_1 Pin=R38-2
+Added Net: Name=NetJ24_1
+Added Member To Class: ClassName=Cosmic Member=Component J24 M20-9990246

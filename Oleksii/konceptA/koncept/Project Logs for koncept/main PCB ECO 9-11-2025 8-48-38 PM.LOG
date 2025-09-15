@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TEENSY_3v3 Pin=J8-2
+Change Component Description : Designator=C1 Old Description=Cap, 0.33Uf, 25V, 1206, C0G/Np0 Rohs Compliant: Yes New Description=Cap, 0.33Uf, 25V, 1206, C0G/Np0 Rohs Compliant: Yes |Murata GRM31C5C1E334GE01L
+Change Component Description : Designator=C2 Old Description=Cap, 0.33Uf, 25V, 1206, C0G/Np0 Rohs Compliant: Yes New Description=Cap, 0.33Uf, 25V, 1206, C0G/Np0 Rohs Compliant: Yes |Murata GRM31C5C1E334GE01L
+Change Component Description : Designator=Q1 Old Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 New Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 | ON Semiconductor MMBT3904LT1G
+Change Component Description : Designator=Q2 Old Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 New Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 | ON Semiconductor MMBT3904LT1G
+Change Component Description : Designator=Q3 Old Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 New Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 | ON Semiconductor MMBT3904LT1G
+Change Component Description : Designator=Q4 Old Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 New Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 | ON Semiconductor MMBT3904LT1G
+Change Component Description : Designator=Q5 Old Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 New Description=Transistor, Bipolar,Si,NPN,General Purpose,VCEO 40VDC,IC 200mA,PD 225mW,SOT-23 | ON Semiconductor MMBT3904LT1G
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=TEENSY_3v3 Pin=J8-3

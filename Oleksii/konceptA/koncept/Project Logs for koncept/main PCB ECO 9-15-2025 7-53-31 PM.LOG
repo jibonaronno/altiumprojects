@@ -1,0 +1,14 @@
+Added Component: Designator=J27(HARWIN_M20-9990246)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M20-9990246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9990246/Harwin/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-2262-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J26-4
+Added Pin To Net: NetName=GND Pin=J26-5
+Added Pin To Net: NetName=+5 Pin=J27-1
+Added Pin To Net: NetName=NetJ26_1 Pin=J27-2
+Added Pin To Net: NetName=GND Pin=U16-5
+Added Member To Class: ClassName=main Member=Component J27 M20-9990246
